@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "builder_commit": "58aa89ef5edbb1deb95ab7bc5c11420cf7eff8d1",
+  "builder_commit": "d6dcae2e8cbc21dc357cc1a4d9199a6a1ea9ae01",
   "builder": {
     "repository": "peakpassvpn/ppvpn-rulesets",
     "license": "GPL-3.0",
