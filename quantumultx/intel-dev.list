@@ -1,0 +1,17 @@
+host-suffix,01.org,intel-dev
+host-suffix,acpica.com,intel-dev
+host-suffix,clearlinux.org,intel-dev
+host-suffix,hyperscan.io,intel-dev
+host-suffix,intellinuxgraphics.com,intel-dev
+host-suffix,intellinuxgraphics.net,intel-dev
+host-suffix,oneapi.com,intel-dev
+host-suffix,oneapi.io,intel-dev
+host-suffix,opencas.io,intel-dev
+host-suffix,opendroneid.org,intel-dev
+host-suffix,openvino.ai,intel-dev
+host-suffix,openvinotoolkit.org,intel-dev
+host-suffix,ospray.net,intel-dev
+host-suffix,ospray.org,intel-dev
+host-suffix,renderingtoolkit.org,intel-dev
+host-suffix,snap-telemetry.io,intel-dev
+host-suffix,universalscalablefirmware.org,intel-dev

@@ -1,0 +1,9 @@
+host-suffix,azurecr.io,category-container
+host-suffix,docker.io,category-container
+host-suffix,ecr.aws,category-container
+host-suffix,gcr.io,category-container
+host-suffix,ghcr.io,category-container
+host-suffix,mcr.microsoft.com,category-container
+host-suffix,quay.io,category-container
+host-suffix,registry.gitlab.com,category-container
+host-suffix,registry.k8s.io,category-container

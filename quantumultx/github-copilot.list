@@ -1,0 +1,6 @@
+host,copilot-proxy.githubusercontent.com,github-copilot
+host,copilot-telemetry-service.githubusercontent.com,github-copilot
+host,copilot-telemetry.githubusercontent.com,github-copilot
+host,copilot-workspace.githubnext.com,github-copilot
+host,copilotprodattachments.blob.core.windows.net,github-copilot
+host-suffix,githubcopilot.com,github-copilot

@@ -1,0 +1,5 @@
+host,client-teamviewer-com.trafficmanager.net,teamviewer
+host,teamviewer.com.cdn.cloudflare.net,teamviewer
+host-suffix,teamviewer.cn,teamviewer
+host-suffix,teamviewer.com,teamviewer
+host-suffix,teamviewer.us,teamviewer

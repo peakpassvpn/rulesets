@@ -1,0 +1,10 @@
+host-suffix,qbox.me,qiniu
+host-suffix,qiniu.com,qiniu
+host-suffix,qiniucdn.com,qiniu
+host-suffix,qiniudn.com,qiniu
+host-suffix,qiniudns.com,qiniu
+host-suffix,qiniup.com,qiniu
+host-suffix,qnsdk.com,qiniu
+host-suffix,qnssl.com,qiniu
+host-suffix,staticfile.net,qiniu
+host-suffix,staticfile.org,qiniu

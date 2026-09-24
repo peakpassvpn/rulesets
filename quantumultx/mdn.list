@@ -1,0 +1,9 @@
+host,mdn.mozillademos.org,mdn
+host-suffix,developer.allizom.org,mdn
+host-suffix,developer.mozilla.org,mdn
+host-suffix,mdn.allizom.net,mdn
+host-suffix,mdn.dev,mdn
+host-suffix,mdn.mozilla.net,mdn
+host-suffix,mdn.mozit.cloud,mdn
+host-suffix,mdnplay.dev,mdn
+host-suffix,mdnyalp.dev,mdn

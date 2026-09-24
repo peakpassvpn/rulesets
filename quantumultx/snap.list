@@ -1,0 +1,9 @@
+host,impala-media-production.s3.amazonaws.com,snap
+host-suffix,sc-cdn.net,snap
+host-suffix,sc-gw.com,snap
+host-suffix,sc-static.net,snap
+host-suffix,snap-dev.net,snap
+host-suffix,snap.com,snap
+host-suffix,snapads.com,snap
+host-suffix,snapchat.com,snap
+host-suffix,snapkit.co,snap

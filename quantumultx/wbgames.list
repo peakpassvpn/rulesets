@@ -1,0 +1,6 @@
+host,datarouter.apps.netherrealm.com,wbgames
+host,wb-agora-hydra-file-storage-k1.s3.amazonaws.com,wbgames
+host-suffix,warnerbrosgames.com,wbgames
+host-suffix,wbagora.com,wbgames
+host-suffix,wbgames.com,wbgames
+host-suffix,wbinsights.com,wbgames

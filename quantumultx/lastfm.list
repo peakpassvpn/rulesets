@@ -1,0 +1,4 @@
+host,lastfm-img.freetls.fastly.net,lastfm
+host,lastfm.freetls.fastly.net,lastfm
+host,ws.audioscrobbler.com,lastfm
+host-suffix,last.fm,lastfm

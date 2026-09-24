@@ -1,0 +1,6 @@
+host,crl.microsoft.com,microsoft-pki
+host,mscrl.microsoft.com,microsoft-pki
+host,ocsp.microsoft.com,microsoft-pki
+host,oneocsp.microsoft.com,microsoft-pki
+host,www.microsoft.com,microsoft-pki
+host-suffix,msocsp.com,microsoft-pki

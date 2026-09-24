@@ -1,0 +1,8 @@
+host,client-teamviewer-com.trafficmanager.net,category-remote-control
+host,teamviewer.com.cdn.cloudflare.net,category-remote-control
+host-suffix,anydesk.com,category-remote-control
+host-suffix,nomachine.com,category-remote-control
+host-suffix,rustdesk.com,category-remote-control
+host-suffix,teamviewer.cn,category-remote-control
+host-suffix,teamviewer.com,category-remote-control
+host-suffix,teamviewer.us,category-remote-control

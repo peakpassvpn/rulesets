@@ -1,0 +1,8 @@
+host,mozilla-ohttp.fastly-edge.com,firefox
+host,mozilla.map.fastly.net,firefox
+host-suffix,extendfirefox.com,firefox
+host-suffix,firefox-portal-detection.com,firefox
+host-suffix,firefox.com,firefox
+host-suffix,firefox.hu,firefox
+host-suffix,firefoxtweetmachine.com,firefox
+host-suffix,firefoxusercontent.com,firefox

@@ -1,0 +1,8 @@
+host-suffix,consul.io,hashicorp
+host-suffix,hashicorp.com,hashicorp
+host-suffix,nomadproject.io,hashicorp
+host-suffix,packer.io,hashicorp
+host-suffix,terraform.io,hashicorp
+host-suffix,vagrantcloud.com,hashicorp
+host-suffix,vagrantup.com,hashicorp
+host-suffix,vaultproject.io,hashicorp

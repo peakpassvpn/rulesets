@@ -1,0 +1,13 @@
+host,www.speedtest.net.cdn.cloudflare.net,ookla-speedtest
+host-suffix,cdnst.net,ookla-speedtest
+host-suffix,cellmaps.com,ookla-speedtest
+host-suffix,ekahau.cloud,ookla-speedtest
+host-suffix,ekahau.com,ookla-speedtest
+host-suffix,ookla-speedtest-central.hgconair.hgc.com.hk,ookla-speedtest
+host-suffix,ookla.com,ookla-speedtest
+host-suffix,ooklaserver.net,ookla-speedtest
+host-suffix,pingtest.net,ookla-speedtest
+host-suffix,speedtest.co,ookla-speedtest
+host-suffix,speedtest.net,ookla-speedtest
+host-suffix,speedtestcustom.com,ookla-speedtest
+host-suffix,webtest.net,ookla-speedtest

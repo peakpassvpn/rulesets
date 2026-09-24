@@ -1,0 +1,6 @@
+host,enrichgw.10010.com,category-number-verification-cn
+host,hap.10010.com,category-number-verification-cn
+host,hs.wosms.cn,category-number-verification-cn
+host,id6.me,category-number-verification-cn
+host,opencloud.wostore.cn,category-number-verification-cn
+host-suffix,cmpassport.com,category-number-verification-cn

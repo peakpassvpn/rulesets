@@ -1,0 +1,5 @@
+host-suffix,pki.symantec.com,symantec-pki
+host-suffix,symauth.com,symantec-pki
+host-suffix,symcb.com,symantec-pki
+host-suffix,symcd.com,symantec-pki
+host-suffix,ws.symantec.com,symantec-pki

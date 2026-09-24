@@ -1,0 +1,12 @@
+host,amp.akamaized.net,openjsfoundation
+host-suffix,amp.dev,openjsfoundation
+host-suffix,ampproject.com,openjsfoundation
+host-suffix,ampproject.net,openjsfoundation
+host-suffix,ampproject.org,openjsfoundation
+host-suffix,electronjs.org,openjsfoundation
+host-suffix,jquery.com,openjsfoundation
+host-suffix,jquerymobile.com,openjsfoundation
+host-suffix,jqueryui.com,openjsfoundation
+host-suffix,mochajs.org,openjsfoundation
+host-suffix,nodejs.org,openjsfoundation
+host-suffix,openjsf.org,openjsfoundation

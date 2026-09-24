@@ -1,0 +1,16 @@
+host-suffix,equinox.io,category-proxy-tunnels
+host-suffix,ngrok-agent.com,category-proxy-tunnels
+host-suffix,ngrok-free.app,category-proxy-tunnels
+host-suffix,ngrok-free.dev,category-proxy-tunnels
+host-suffix,ngrok-free.pizza,category-proxy-tunnels
+host-suffix,ngrok.app,category-proxy-tunnels
+host-suffix,ngrok.com,category-proxy-tunnels
+host-suffix,ngrok.dev,category-proxy-tunnels
+host-suffix,ngrok.io,category-proxy-tunnels
+host-suffix,ngrok.pizza,category-proxy-tunnels
+host-suffix,ngrok.pro,category-proxy-tunnels
+host-suffix,pinggy.io,category-proxy-tunnels
+host-suffix,pinggy.link,category-proxy-tunnels
+host-suffix,tailscale.com,category-proxy-tunnels
+host-suffix,tailscale.io,category-proxy-tunnels
+host-suffix,ts.net,category-proxy-tunnels

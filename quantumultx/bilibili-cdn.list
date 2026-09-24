@@ -1,0 +1,14 @@
+host,upos-hz-mirrorakam.akamaized.net,bilibili-cdn
+host-suffix,bilicdn1.com,bilibili-cdn
+host-suffix,bilicdn2.com,bilibili-cdn
+host-suffix,bilicdn3.com,bilibili-cdn
+host-suffix,bilicdn4.com,bilibili-cdn
+host-suffix,bilicdn5.com,bilibili-cdn
+host-suffix,biliimg.com,bilibili-cdn
+host-suffix,bilivideo.cn,bilibili-cdn
+host-suffix,bilivideo.com,bilibili-cdn
+host-suffix,bilivideo.net,bilibili-cdn
+host-suffix,hdslb.com,bilibili-cdn
+host-suffix,hdslb.org,bilibili-cdn
+host-suffix,maoercdn.com,bilibili-cdn
+host-suffix,mincdn.com,bilibili-cdn

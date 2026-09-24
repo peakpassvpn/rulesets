@@ -1,0 +1,6 @@
+host,clients1.google.com,google-trust-services
+host,pki-goog.l.google.com,google-trust-services
+host,pki.google.com,google-trust-services
+host,preprod-publicca.googleapis.com,google-trust-services
+host,publicca.googleapis.com,google-trust-services
+host-suffix,pki.goog,google-trust-services

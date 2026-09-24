@@ -1,0 +1,14 @@
+host-suffix,dns.pub,dnspod
+host-suffix,dnsapi.cn,dnspod
+host-suffix,dnspod.cn,dnspod
+host-suffix,dnspod.com,dnspod
+host-suffix,dnspod.com.cn,dnspod
+host-suffix,dnspod.mobi,dnspod
+host-suffix,dnspod.net,dnspod
+host-suffix,dnspod.org,dnspod
+host-suffix,dnsv2.com,dnspod
+host-suffix,dnsv3.com,dnspod
+host-suffix,dnsv4.com,dnspod
+host-suffix,dnsv5.com,dnspod
+host-suffix,doh.pub,dnspod
+host-suffix,dot.pub,dnspod

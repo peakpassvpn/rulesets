@@ -1,0 +1,5 @@
+host,gitlab-assets.oss-cn-hongkong.aliyuncs.com,gitlab
+host-suffix,gitlab-static.net,gitlab
+host-suffix,gitlab.com,gitlab
+host-suffix,gitlab.io,gitlab
+host-suffix,gitlab.net,gitlab

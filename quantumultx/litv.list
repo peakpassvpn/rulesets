@@ -1,0 +1,11 @@
+host,ntdfreemobile-tgc.cdn.hinet.net,litv
+host,ntdfreepc-tgc.cdn.hinet.net,litv
+host,ntdfreetv-tgc.cdn.hinet.net,litv
+host,ntdfreevcpc-tgc.cdn.hinet.net,litv
+host,ntdofifreemobile-tgc.cdn.hinet.net,litv
+host,ntdofifreepc-tgc.cdn.hinet.net,litv
+host,ntdofifreetv-tgc.cdn.hinet.net,litv
+host,ntdofifreevcpc-tgc.cdn.hinet.net,litv
+host-suffix,litv.tv,litv
+host-suffix,litvfreepc.akamaized.net,litv
+host-suffix,ofiii.com,litv

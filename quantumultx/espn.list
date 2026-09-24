@@ -1,0 +1,11 @@
+host,espn.api.edge.bamgrid.com,espn
+host,espn.hb.omtrdc.net,espn
+host,espndotcom.tt.omtrdc.net,espn
+host-suffix,dtci.co,espn
+host-suffix,dtci.technology,espn
+host-suffix,espn.co.uk,espn
+host-suffix,espn.com,espn
+host-suffix,espn.net,espn
+host-suffix,espncdn.com,espn
+host-suffix,espnqa.com,espn
+host-suffix,watchespn.com,espn

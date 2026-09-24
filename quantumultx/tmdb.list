@@ -1,0 +1,4 @@
+host,tmdb-image-prod.b-cdn.net,tmdb
+host,tmdb-web-image-prod.b-cdn.net,tmdb
+host-suffix,themoviedb.org,tmdb
+host-suffix,tmdb.org,tmdb

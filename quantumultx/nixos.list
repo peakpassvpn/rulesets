@@ -1,0 +1,12 @@
+host,nix-community.github.io,nixos
+host-suffix,builtwithnix.org,nixos
+host-suffix,mynixos.com,nixos
+host-suffix,nix-community.org,nixos
+host-suffix,nix.dev,nixos
+host-suffix,nix.store,nixos
+host-suffix,nixcon.org,nixos
+host-suffix,nixcon2017.org,nixos
+host-suffix,nixlang.com,nixos
+host-suffix,nixos.org,nixos
+host-suffix,nixos.wiki,nixos
+host-suffix,nixpkgs.org,nixos

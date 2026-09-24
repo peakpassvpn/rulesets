@@ -1,0 +1,4 @@
+host-suffix,anaconda.cloud,anaconda
+host-suffix,anaconda.com,anaconda
+host-suffix,anaconda.org,anaconda
+host-suffix,conda.io,anaconda

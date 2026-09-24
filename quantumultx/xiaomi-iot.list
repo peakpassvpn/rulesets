@@ -1,0 +1,4 @@
+host-suffix,account.xiaomi.com,xiaomi-iot
+host-suffix,cn-ha.mqtt.io.mi.com,xiaomi-iot
+host-suffix,ha.api.io.mi.com,xiaomi-iot
+host-suffix,miot-spec.org,xiaomi-iot

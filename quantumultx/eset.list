@@ -1,0 +1,8 @@
+host,epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com,eset
+host,eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com,eset
+host-suffix,e5.sk,eset
+host-suffix,eset.com,eset
+host-suffix,eset.eu,eset
+host-suffix,eset.sk,eset
+host-suffix,eset.systems,eset
+host-suffix,esetsoftware.com,eset

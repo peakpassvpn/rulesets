@@ -1,0 +1,4 @@
+host-suffix,crates.io,rust
+host-suffix,docs.rs,rust
+host-suffix,rust-lang.org,rust
+host-suffix,rustup.rs,rust

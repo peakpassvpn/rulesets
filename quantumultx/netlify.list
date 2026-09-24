@@ -1,0 +1,10 @@
+host,acd89244c803f7181.awsglobalaccelerator.com,netlify
+host,afa7f374f51cc8991.awsglobalaccelerator.com,netlify
+host,d33wubrfki0l68.cloudfront.net,netlify
+host-suffix,bitballoon.com,netlify
+host-suffix,netlify.app,netlify
+host-suffix,netlify.com,netlify
+host-suffix,netlifydns.com,netlify
+host-suffix,netlifystatus.com,netlify
+host-suffix,netlifyusercontent.com,netlify
+host-suffix,ntl.fyi,netlify

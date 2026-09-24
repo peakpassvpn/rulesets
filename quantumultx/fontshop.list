@@ -1,0 +1,4 @@
+host,fontshop-prod-responsive-images.s3.amazonaws.com,fontshop
+host-suffix,fontbook.com,fontshop
+host-suffix,fontshop.com,fontshop
+host-suffix,fstopimages.com,fontshop

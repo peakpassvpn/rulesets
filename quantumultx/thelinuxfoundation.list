@@ -1,0 +1,16 @@
+host,amp.akamaized.net,thelinuxfoundation
+host-suffix,amp.dev,thelinuxfoundation
+host-suffix,ampproject.com,thelinuxfoundation
+host-suffix,ampproject.net,thelinuxfoundation
+host-suffix,ampproject.org,thelinuxfoundation
+host-suffix,electronjs.org,thelinuxfoundation
+host-suffix,jquery.com,thelinuxfoundation
+host-suffix,jquerymobile.com,thelinuxfoundation
+host-suffix,jqueryui.com,thelinuxfoundation
+host-suffix,kernel.org,thelinuxfoundation
+host-suffix,lfai.foundation,thelinuxfoundation
+host-suffix,linux.org,thelinuxfoundation
+host-suffix,linuxfoundation.org,thelinuxfoundation
+host-suffix,mochajs.org,thelinuxfoundation
+host-suffix,nodejs.org,thelinuxfoundation
+host-suffix,openjsf.org,thelinuxfoundation

@@ -1,0 +1,16 @@
+host-suffix,attestation.app,grapheneos
+host-suffix,grapheneos.app,grapheneos
+host-suffix,grapheneos.ca,grapheneos
+host-suffix,grapheneos.com,grapheneos
+host-suffix,grapheneos.dev,grapheneos
+host-suffix,grapheneos.foundation,grapheneos
+host-suffix,grapheneos.info,grapheneos
+host-suffix,grapheneos.net,grapheneos
+host-suffix,grapheneos.network,grapheneos
+host-suffix,grapheneos.online,grapheneos
+host-suffix,grapheneos.org,grapheneos
+host-suffix,grapheneos.ovh,grapheneos
+host-suffix,grapheneos.page,grapheneos
+host-suffix,grapheneos.social,grapheneos
+host-suffix,seamlessupdate.app,grapheneos
+host-suffix,vanadium.app,grapheneos

@@ -1,0 +1,5 @@
+host,ppl-ai-file-upload.s3.amazonaws.com,perplexity
+host,pplx-res.cloudinary.com,perplexity
+host-suffix,perplexity.ai,perplexity
+host-suffix,perplexity.com,perplexity
+host-suffix,pplx.ai,perplexity

@@ -1,0 +1,9 @@
+host,cloudsync-prod.s3.amazonaws.com,origin
+host,origin-a.akamaihd.net,origin
+host,rtm.tnt-ea.com,origin
+host,ssl-lvlt.cdn.ea.com,origin
+host-suffix,dawngate.com,origin
+host-suffix,eastore.com,origin
+host-suffix,lordofultima.com,origin
+host-suffix,origin.com,origin
+host-suffix,origin.tv,origin

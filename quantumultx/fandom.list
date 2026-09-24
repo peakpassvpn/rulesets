@@ -1,0 +1,12 @@
+host,fandom.zendesk.com,fandom
+host-suffix,cortexrpg.com,fandom
+host-suffix,cursecdn.com,fandom
+host-suffix,dndbeyond.com,fandom
+host-suffix,fanatical.com,fandom
+host-suffix,fandom.com,fandom
+host-suffix,futhead.com,fandom
+host-suffix,gamepedia.com,fandom
+host-suffix,muthead.com,fandom
+host-suffix,wikia.com,fandom
+host-suffix,wikia.nocookie.net,fandom
+host-suffix,wikia.org,fandom

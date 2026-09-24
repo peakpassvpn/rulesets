@@ -1,0 +1,6 @@
+host,docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com,docker
+host,docker-pinata-support.s3.amazonaws.com,docker
+host-suffix,compose-spec.io,docker
+host-suffix,docker.com,docker
+host-suffix,docker.io,docker
+host-suffix,dockerstatic.com,docker

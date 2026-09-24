@@ -1,0 +1,5 @@
+host-suffix,cpan.org,perl
+host-suffix,metacpan.org,perl
+host-suffix,modperl.pl,perl
+host-suffix,perl.apache.org,perl
+host-suffix,perl.org,perl

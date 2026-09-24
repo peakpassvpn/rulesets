@@ -1,0 +1,3 @@
+host-suffix,exit,tor
+host-suffix,onion,tor
+host-suffix,tor,tor

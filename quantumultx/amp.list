@@ -1,0 +1,5 @@
+host,amp.akamaized.net,amp
+host-suffix,amp.dev,amp
+host-suffix,ampproject.com,amp
+host-suffix,ampproject.net,amp
+host-suffix,ampproject.org,amp

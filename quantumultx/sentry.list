@@ -1,0 +1,4 @@
+host-suffix,getsentry.com,sentry
+host-suffix,sentry-cdn.com,sentry
+host-suffix,sentry.dev,sentry
+host-suffix,sentry.io,sentry

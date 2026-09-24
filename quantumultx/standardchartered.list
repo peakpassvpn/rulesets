@@ -1,0 +1,4 @@
+host,standchartbank.sc.omtrdc.net,standardchartered
+host,standchartbank.tt.omtrdc.net,standardchartered
+host-suffix,sc.com,standardchartered
+host-suffix,standardchartered.com,standardchartered
