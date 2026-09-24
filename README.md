@@ -1,8 +1,9 @@
 # PPVPN Rulesets
 
-PPVPN Rulesets builds native remote rule sets for Clash/Mihomo, sing-box,
-Surge, Loon, Shadowrocket, and Quantumult X from a small set of established
-upstream projects.
+PPVPN Rulesets automatically discovers every list in v2fly's data directory
+and builds native remote rule sets for Clash/Mihomo, sing-box, Surge, Loon,
+Shadowrocket, and Quantumult X. China IPv4 and IPv6 ranges are published as an
+additional `cn-ip` rule set.
 
 The project does not maintain its own routing accuracy database. Domain
 classification comes from
@@ -24,16 +25,18 @@ to the source branch.
 
 ## Published rule sets
 
-The initial catalog contains:
+The catalog is generated rather than curated by hand. At the time of writing it
+contains 1,540 v2fly domain lists plus `cn-ip`; the exact count and upstream
+commits are recorded in every release. New upstream files appear automatically
+and removed files disappear from the next catalog.
 
-- `cn`: v2fly `cn`
-- `private`: v2fly `private`
-- `proxy`: v2fly `geolocation-!cn`
-- `reject`: v2fly `category-ads-all`
-- `cn-ip`: China IPv4 and IPv6 from `china-operator-ip`
+Names are preserved unless they cannot be used as stable PPVPN IDs. The only
+current transformation replaces `!` with `not-`, for example
+`geolocation-!cn` becomes `geolocation-not-cn`. The original name remains in
+the catalog as `upstream_key`; invalid names or collisions fail the build.
 
-Every catalog entry is generated for the six target clients. sing-box receives
-both source JSON and compiled SRS output.
+Every catalog entry is generated for the six target clients. sing-box is
+published as compiled SRS.
 
 Some v2fly categories contain regular-expression domain rules. They are kept
 for Mihomo and sing-box, but omitted for clients whose native remote rule-set
@@ -43,14 +46,15 @@ are published in `manifest.json`; no omission is silent.
 ## Release contract
 
 - `catalog.json` is the stable machine-readable contract used by downstream
-  subscription services. It defines each rule set's behavior, default action,
-  and six client-specific relative paths.
+  subscription services. It defines each atomic rule set's upstream identity,
+  behavior, group, and six client-specific relative paths. It deliberately does
+  not assign routing actions.
 - `publish` is the stable moving branch for subscription URLs.
 - Every changed build also receives an immutable `rulesets-YYYYMMDDHHMMSS` tag.
 - `manifest.json` records source commits, tool versions, file hashes, per-client
   counts, and capability-related omissions.
-- Builds fail on missing inputs, empty rule sets, compiler errors, missing
-  outputs, invalid target syntax, or JSON/SRS disagreement.
+- Builds fail on missing inputs, empty rule sets, ID collisions, compiler
+  errors, missing outputs, invalid target syntax, or unreadable SRS output.
 
 See [docs/production.md](docs/production.md) for downstream synchronization,
 stable URL, rollback, and release procedures.

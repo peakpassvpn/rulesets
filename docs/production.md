@@ -47,10 +47,15 @@ atomic production rollout.
 
 `catalog.json` is the source contract for consumers:
 
+- Schema 2 contains one entry for every automatically discovered upstream list.
+- `id` is the stable PPVPN identifier and `upstream_key` preserves the original
+  v2fly name.
 - `behavior` selects domain or IP-CIDR handling.
-- `default_action` describes the intended PPVPN policy action.
+- `group` is discovery metadata, not a routing decision.
 - `clients` contains exactly the six supported clients and their native asset
   paths.
+- Routing actions and policy order belong to the consuming subscription system;
+  this repository never assigns DIRECT, REJECT, or PROXY.
 - Quantumult X entries require the subscription formatter to set an explicit
   `force-policy`; the policy placeholder inside the rule file is not a user
   policy decision.

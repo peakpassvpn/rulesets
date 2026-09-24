@@ -1,9 +1,9 @@
-# PPVPN Rulesets intentionally keeps one small, checked-in configuration.
-# Copy config.yaml only if you want to experiment with a local variant.
+# Manual engine example only. scripts/build.sh generates the complete production
+# configuration from every discovered v2fly data file.
 global:
   enable_gh_proxy: false
   split_cnip: false
-  singbox:      {enable: true, single_file: true, json: true, srs: true}
+  singbox:      {enable: true, single_file: true, json: false, srs: true}
   mihomo:       {enable: true, single_file: true, txt: false, yaml: true, mrs: false}
   v2ray:        {enable: false, single_file: true}
   surge:        {enable: true, single_file: true}
@@ -16,6 +16,6 @@ global:
 categories:
   - {name: cn, upstreams: []}
   - {name: private, upstreams: []}
-  - {name: proxy, upstreams: []}
-  - {name: reject, upstreams: []}
+  - {name: geolocation-not-cn, upstreams: []}
+  - {name: category-ads-all, upstreams: []}
   - {name: cn-ip, upstreams: []}

@@ -6,8 +6,9 @@ cd "${repo_root}"
 
 ./scripts/prepare-inputs.sh
 go test ./...
-go run main.go
-cp catalog.json LICENSE NOTICE publish/
+go run . .build/config.yaml
+./scripts/generate-catalog.sh
+cp LICENSE NOTICE publish/
 ./scripts/verify-output.sh
 ./scripts/generate-manifest.sh
 

@@ -11,6 +11,13 @@ import (
 
 func main() {
 	fmt.Println("🚀 启动 DIY-Ruleset 构建引擎...")
+	configPath := "config.yaml"
+	if len(os.Args) > 2 {
+		log.Fatalf("用法: %s [config-path]", os.Args[0])
+	}
+	if len(os.Args) == 2 {
+		configPath = os.Args[1]
+	}
 
 	_ = os.RemoveAll("publish")
 	_ = os.RemoveAll("process")
@@ -19,7 +26,7 @@ func main() {
 	defer os.RemoveAll("process")
 	defer os.RemoveAll("temp")
 
-	if _, err := os.Stat("config.yaml"); os.IsNotExist(err) {
+	if _, err := os.Stat(configPath); os.IsNotExist(err) && configPath == "config.yaml" {
 		fmt.Println("⚠️ 未检测到 config.yaml；正在使用 config-example.yaml 初始化默认配置...")
 		exampleData, err := os.ReadFile("config-example.yaml")
 		if err != nil {
@@ -31,7 +38,7 @@ func main() {
 		fmt.Println("✅ 默认配置文件已生成！请编辑 config.yaml 进行自定义设置。")
 	}
 
-	cfg, err := core.LoadConfig("config.yaml")
+	cfg, err := core.LoadConfig(configPath)
 	if err != nil {
 		log.Fatalf("❌ 加载配置失败：%v", err)
 	}
