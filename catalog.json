@@ -1,0 +1,70 @@
+{
+  "schema": 1,
+  "rulesets": [
+    {
+      "id": "private",
+      "behavior": "domain",
+      "default_action": "direct",
+      "clients": {
+        "clash": {"path": "mihomo/private.yaml", "format": "yaml"},
+        "singbox": {"path": "singbox/private.srs", "format": "srs"},
+        "surge": {"path": "surge/private.list", "format": "text"},
+        "loon": {"path": "loon/private.list", "format": "text"},
+        "shadowrocket": {"path": "shadowrocket/private.list", "format": "text"},
+        "quantumultx": {"path": "quantumultx/private.list", "format": "text", "requires_force_policy": true}
+      }
+    },
+    {
+      "id": "reject",
+      "behavior": "domain",
+      "default_action": "reject",
+      "clients": {
+        "clash": {"path": "mihomo/reject.yaml", "format": "yaml"},
+        "singbox": {"path": "singbox/reject.srs", "format": "srs"},
+        "surge": {"path": "surge/reject.list", "format": "text"},
+        "loon": {"path": "loon/reject.list", "format": "text"},
+        "shadowrocket": {"path": "shadowrocket/reject.list", "format": "text"},
+        "quantumultx": {"path": "quantumultx/reject.list", "format": "text", "requires_force_policy": true}
+      }
+    },
+    {
+      "id": "cn",
+      "behavior": "domain",
+      "default_action": "direct",
+      "clients": {
+        "clash": {"path": "mihomo/cn.yaml", "format": "yaml"},
+        "singbox": {"path": "singbox/cn.srs", "format": "srs"},
+        "surge": {"path": "surge/cn.list", "format": "text"},
+        "loon": {"path": "loon/cn.list", "format": "text"},
+        "shadowrocket": {"path": "shadowrocket/cn.list", "format": "text"},
+        "quantumultx": {"path": "quantumultx/cn.list", "format": "text", "requires_force_policy": true}
+      }
+    },
+    {
+      "id": "cn-ip",
+      "behavior": "ipcidr",
+      "default_action": "direct",
+      "clients": {
+        "clash": {"path": "mihomo/cn-ip.yaml", "format": "yaml"},
+        "singbox": {"path": "singbox/cn-ip.srs", "format": "srs"},
+        "surge": {"path": "surge/cn-ip.list", "format": "text"},
+        "loon": {"path": "loon/cn-ip.list", "format": "text"},
+        "shadowrocket": {"path": "shadowrocket/cn-ip.list", "format": "text"},
+        "quantumultx": {"path": "quantumultx/cn-ip.list", "format": "text", "requires_force_policy": true}
+      }
+    },
+    {
+      "id": "proxy",
+      "behavior": "domain",
+      "default_action": "proxy",
+      "clients": {
+        "clash": {"path": "mihomo/proxy.yaml", "format": "yaml"},
+        "singbox": {"path": "singbox/proxy.srs", "format": "srs"},
+        "surge": {"path": "surge/proxy.list", "format": "text"},
+        "loon": {"path": "loon/proxy.list", "format": "text"},
+        "shadowrocket": {"path": "shadowrocket/proxy.list", "format": "text"},
+        "quantumultx": {"path": "quantumultx/proxy.list", "format": "text", "requires_force_policy": true}
+      }
+    }
+  ]
+}
