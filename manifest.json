@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "builder_commit": "51970954b5e63978511a71d4987081296caf3bc5",
+  "builder_commit": "41b2011bf671aa5a9122c5877fa1a4313d343e38",
   "builder": {
-    "repository": "peakpassvpn/ppvpn-rulesets",
+    "repository": "peakpassvpn/rulesets",
     "license": "GPL-3.0",
     "upstream_engine": "samqvz/DIY-Ruleset"
   },
@@ -121,8 +121,8 @@
     },
     {
       "path": "README.md",
-      "sha256": "7e6d10aa039f0546d4ab9e687578a71e8c31b7b40f2b04b5a98da6fd1367c6ed",
-      "size": 5537
+      "sha256": "368bb3654a4f6cce1465a38ecf5babff036ac42455bf3fc0191059fa6f32460b",
+      "size": 5327
     },
     {
       "path": "catalog.json",
