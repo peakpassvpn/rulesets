@@ -5,7 +5,7 @@ repo_root="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 sources_file="${repo_root}/.build/sources.json"
 verification_file="${repo_root}/.build/verification.json"
 publish_dir="${repo_root}/publish"
-builder_repository="${GITHUB_REPOSITORY:-ppvpn-rulesets}"
+builder_repository="${GITHUB_REPOSITORY:-peakpassvpn/rulesets}"
 
 test -s "${sources_file}"
 test -s "${verification_file}"

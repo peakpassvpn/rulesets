@@ -29,13 +29,13 @@ from different publish commits and never silently omit a required client.
 Stable moving metadata URL:
 
 ```text
-https://raw.githubusercontent.com/<owner>/ppvpn-rulesets/publish/catalog.json
+https://raw.githubusercontent.com/<owner>/rulesets/publish/catalog.json
 ```
 
 Immutable production asset URL:
 
 ```text
-https://raw.githubusercontent.com/<owner>/ppvpn-rulesets/<publish-commit>/<relative-path>
+https://raw.githubusercontent.com/<owner>/rulesets/<publish-commit>/<relative-path>
 ```
 
 Client subscriptions should use immutable URLs selected by the PPVPN backend.

@@ -74,7 +74,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          publish_checkout="${RUNNER_TEMP}/ppvpn-rulesets-publish"
+          publish_checkout="${RUNNER_TEMP}/rulesets-publish"
           remote="https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
           if git clone --quiet --branch publish --single-branch "${remote}" "${publish_checkout}"; then
             true
