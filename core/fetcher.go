@@ -2,6 +2,7 @@ package core
 
 import (
 	"encoding/json"
+	"errors"
 	"fmt"
 	"io"
 	"net/http"
@@ -12,9 +13,13 @@ import (
 	"time"
 )
 
-func FetchAll(cfg *Config) {
-	os.RemoveAll("temp/raw")
-	os.MkdirAll("temp/raw", 0755)
+func FetchAll(cfg *Config) error {
+	if err := os.RemoveAll("temp/raw"); err != nil {
+		return fmt.Errorf("清理临时目录: %w", err)
+	}
+	if err := os.MkdirAll("temp/raw", 0755); err != nil {
+		return fmt.Errorf("创建临时目录: %w", err)
+	}
 
 	var wg sync.WaitGroup
 	sem := make(chan struct{}, 30)
@@ -65,15 +70,15 @@ func FetchAll(cfg *Config) {
 	wg.Wait()
 
 	if len(failedURLs) > 0 {
-		fmt.Println("\n================ ⚠️ 警告 ================")
-		fmt.Printf("有 %d 个上游文件下载失败：\n", len(failedURLs))
-		for _, u := range failedURLs {
-			fmt.Println(" -", u)
+		var failures []error
+		for _, failedURL := range failedURLs {
+			failures = append(failures, errors.New(failedURL))
 		}
-		fmt.Println("=========================================")
-	} else {
-		fmt.Println("✅ 所有上游规则文件已成功下载并完成预处理。")
+		return fmt.Errorf("%d 个上游文件下载失败: %w", len(failedURLs), errors.Join(failures...))
 	}
+
+	fmt.Println("✅ 所有上游规则文件已成功下载并完成预处理。")
+	return nil
 }
 
 func downloadWithRetry(client *http.Client, url, dest string, retries int) bool {

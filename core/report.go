@@ -6,7 +6,6 @@ import (
 	"os"
 	"path"
 	"strings"
-	"time"
 )
 
 func getFileSize(path string) string {
@@ -142,7 +141,6 @@ func GenerateReport(results map[string]*ProcessedResult, cfg *Config) {
 	}
 
 	sb.WriteString(startTag + "\n")
-	sb.WriteString(fmt.Sprintf("**最后更新时间** : %s ( UTC+8 )\n", time.Now().In(time.FixedZone("CST", 8*3600)).Format("2006-01-02 15:04:05")))
 	sb.WriteString(fmt.Sprintf("**当前规则总数** : **%d** \n\n", total))
 	sb.WriteString("### 自动统计\n")
 	sb.WriteString("| 规&#8288;则&#8288;名&#8288;称 | 最&#8288;终&#8288;数&#8288;量 | 原&#8288;始&#8288;总&#8288;数 | 增&#8288;加 | 去&#8288;除 | 去&#8288;重&#8288;率 | 上&#8288;游&#8288;明&#8288;细&nbsp;(&#8288;来&#8288;源/数&#8288;量&#8288;) |\n")

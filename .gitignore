@@ -6,6 +6,14 @@ diy-ruleset
 publish/
 process/
 temp/
+.build/
+.tools/
+
+# Generated upstream inputs. Keep only directory placeholders in Git.
+add/*.list
+remove/*.list
+!add/.gitkeep
+!remove/.gitkeep
 
 # 忽略内核文件
 sing-box

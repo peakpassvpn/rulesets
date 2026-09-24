@@ -1,0 +1,99 @@
+name: Build rulesets
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "22 22 * * *"
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/build.yml"
+      - "README.md"
+      - "LICENSE"
+      - "NOTICE"
+      - "catalog.json"
+      - "config.yaml"
+      - "core/**"
+      - "scripts/**"
+      - "main.go"
+      - "go.mod"
+      - "go.sum"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ruleset-publish
+  cancel-in-progress: false
+
+env:
+  GO_VERSION: "1.22.0"
+  SING_BOX_VERSION: "1.14.1"
+  SING_BOX_SHA256: "12cb2816b52febb356f6a885b740cc8758c3f30b8ae0ca8edba80f0d2d35343f"
+  MIHOMO_VERSION: "1.19.31"
+  MIHOMO_SHA256: "d5e74bbddbdfff49a1aef7775bf5911da59f0d7196ed509a0ac914b3653dd5f1"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: ${{ env.GO_VERSION }}
+          cache: true
+
+      - name: Install pinned sing-box
+        run: |
+          archive="sing-box-${SING_BOX_VERSION}-linux-amd64.tar.gz"
+          url="https://github.com/SagerNet/sing-box/releases/download/v${SING_BOX_VERSION}/${archive}"
+          mkdir -p .tools
+          curl --fail --location --retry 3 --output ".tools/${archive}" "${url}"
+          echo "${SING_BOX_SHA256}  .tools/${archive}" | sha256sum --check
+          tar -xzf ".tools/${archive}" -C .tools
+          cp ".tools/sing-box-${SING_BOX_VERSION}-linux-amd64/sing-box" .tools/sing-box
+          chmod +x .tools/sing-box
+          echo "${PWD}/.tools" >> "${GITHUB_PATH}"
+
+      - name: Install pinned Mihomo
+        run: |
+          archive="mihomo-linux-amd64-v${MIHOMO_VERSION}.gz"
+          url="https://github.com/MetaCubeX/mihomo/releases/download/v${MIHOMO_VERSION}/${archive}"
+          curl --fail --location --retry 3 --output ".tools/${archive}" "${url}"
+          echo "${MIHOMO_SHA256}  .tools/${archive}" | sha256sum --check
+          gzip -dc ".tools/${archive}" > .tools/mihomo
+          chmod +x .tools/mihomo
+
+      - name: Build and verify rulesets
+        run: ./scripts/build.sh
+
+      - name: Publish changed output without rewriting history
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          publish_checkout="${RUNNER_TEMP}/ppvpn-rulesets-publish"
+          remote="https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          if git clone --quiet --branch publish --single-branch "${remote}" "${publish_checkout}"; then
+            true
+          else
+            git init --quiet "${publish_checkout}"
+            git -C "${publish_checkout}" checkout --orphan publish
+            git -C "${publish_checkout}" remote add origin "${remote}"
+          fi
+          find "${publish_checkout}" -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+          cp -R publish/. "${publish_checkout}/"
+          git -C "${publish_checkout}" config user.name "github-actions[bot]"
+          git -C "${publish_checkout}" config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git -C "${publish_checkout}" add --all
+          if git -C "${publish_checkout}" diff --cached --quiet; then
+            echo "No ruleset changes"
+            exit 0
+          fi
+          git -C "${publish_checkout}" commit -m "Update rulesets $(date -u +'%Y-%m-%d')"
+          git -C "${publish_checkout}" push origin publish
+          tag="rulesets-$(date -u +'%Y%m%d%H%M%S')"
+          git -C "${publish_checkout}" tag "${tag}"
+          git -C "${publish_checkout}" push origin "${tag}"

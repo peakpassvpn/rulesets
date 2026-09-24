@@ -1,6 +1,7 @@
 package core
 
 import (
+	"errors"
 	"fmt"
 	"os"
 	"os/exec"
@@ -10,7 +11,7 @@ import (
 	"sync"
 )
 
-func CompileAll(cfg *Config) {
+func CompileAll(cfg *Config) error {
 	fmt.Println("📦 正在编译二进制规则集 (SRS/MRS)...")
 
 	needSRS, needMRS := false, false
@@ -28,17 +29,30 @@ func CompileAll(cfg *Config) {
 	hasMihomo := checkCommand("mihomo") && needMRS
 
 	if !hasSingbox && needSRS {
-		fmt.Println("⚠️ 未检测到 sing-box 内核或 SRS 输出已关闭，跳过 .srs 编译。")
+		return fmt.Errorf("已启用 SRS 输出，但未检测到 sing-box")
 	}
 	if !hasMihomo && needMRS {
-		fmt.Println("⚠️ 未检测到 mihomo 内核或 MRS 输出已关闭，跳过 .mrs 编译。")
+		return fmt.Errorf("已启用 MRS 输出，但未检测到 mihomo")
 	}
 
 	var wg sync.WaitGroup
 	sem := make(chan struct{}, 4)
+	var compileErrors []error
+	var errorMu sync.Mutex
+	recordError := func(err error) {
+		errorMu.Lock()
+		compileErrors = append(compileErrors, err)
+		errorMu.Unlock()
+	}
 
 	if hasSingbox {
-		files, _ := filepath.Glob("process" + "/srs_*.json")
+		files, err := filepath.Glob("process" + "/srs_*.json")
+		if err != nil {
+			return fmt.Errorf("查找 SRS 输入: %w", err)
+		}
+		if len(files) == 0 {
+			return fmt.Errorf("已启用 SRS 输出，但没有生成 SRS 输入")
+		}
 
 		for _, file := range files {
 			wg.Add(1)
@@ -59,15 +73,23 @@ func CompileAll(cfg *Config) {
 
 				outPath := filepath.Join(outDir, outName)
 
-				if err := exec.Command(GetExecPath("sing-box"), "rule-set", "compile", f, "-o", outPath).Run(); err != nil {
-					fmt.Printf("❌ 编译失败 (sing-box)：%s\n", f)
+				output, err := exec.Command(GetExecPath("sing-box"), "rule-set", "compile", f, "-o", outPath).CombinedOutput()
+				if err != nil {
+					recordError(fmt.Errorf("sing-box 编译 %s: %w: %s", f, err, strings.TrimSpace(string(output))))
+					return
+				}
+				if info, err := os.Stat(outPath); err != nil || info.Size() == 0 {
+					recordError(fmt.Errorf("sing-box 未生成有效文件 %s", outPath))
 				}
 			}(file)
 		}
 	}
 
 	if hasMihomo {
-		domFiles, _ := filepath.Glob("process" + "/*_mihomo_domain.txt")
+		domFiles, err := filepath.Glob("process" + "/*_mihomo_domain.txt")
+		if err != nil {
+			return fmt.Errorf("查找 MRS 域名输入: %w", err)
+		}
 		for _, file := range domFiles {
 			wg.Add(1)
 
@@ -78,13 +100,24 @@ func CompileAll(cfg *Config) {
 
 				catName := strings.TrimSuffix(filepath.Base(f), "_mihomo_domain.txt")
 				outFile := fmt.Sprintf("%s/%s.mrs", "publish/mihomo", catName)
-				if err := exec.Command(GetExecPath("mihomo"), "convert-ruleset", "domain", "text", f, outFile).Run(); err != nil {
-					fmt.Printf("❌ 编译失败 (mihomo domain)：%s\n", f)
+				output, err := exec.Command(GetExecPath("mihomo"), "convert-ruleset", "domain", "text", f, outFile).CombinedOutput()
+				if err != nil {
+					recordError(fmt.Errorf("mihomo 编译域名规则 %s: %w: %s", f, err, strings.TrimSpace(string(output))))
+					return
+				}
+				if info, err := os.Stat(outFile); err != nil || info.Size() == 0 {
+					recordError(fmt.Errorf("mihomo 未生成有效文件 %s", outFile))
 				}
 			}(file)
 		}
 
-		ipFiles, _ := filepath.Glob("process" + "/*_mihomo_ip.txt")
+		ipFiles, err := filepath.Glob("process" + "/*_mihomo_ip.txt")
+		if err != nil {
+			return fmt.Errorf("查找 MRS IP 输入: %w", err)
+		}
+		if len(domFiles)+len(ipFiles) == 0 {
+			return fmt.Errorf("已启用 MRS 输出，但没有生成 MRS 输入")
+		}
 		for _, file := range ipFiles {
 			wg.Add(1)
 
@@ -102,13 +135,19 @@ func CompileAll(cfg *Config) {
 				} else {
 					outFile = fmt.Sprintf("%s/%s_ip.mrs", outDir, catName)
 				}
-				if err := exec.Command(GetExecPath("mihomo"), "convert-ruleset", "ipcidr", "text", f, outFile).Run(); err != nil {
-					fmt.Printf("❌ 编译失败 (mihomo ipcidr)：%s\n", f)
+				output, err := exec.Command(GetExecPath("mihomo"), "convert-ruleset", "ipcidr", "text", f, outFile).CombinedOutput()
+				if err != nil {
+					recordError(fmt.Errorf("mihomo 编译 IP 规则 %s: %w: %s", f, err, strings.TrimSpace(string(output))))
+					return
+				}
+				if info, err := os.Stat(outFile); err != nil || info.Size() == 0 {
+					recordError(fmt.Errorf("mihomo 未生成有效文件 %s", outFile))
 				}
 			}(file)
 		}
 	}
 	wg.Wait()
+	return errors.Join(compileErrors...)
 }
 
 func GetExecPath(name string) string {

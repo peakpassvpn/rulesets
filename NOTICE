@@ -1,0 +1,10 @@
+PPVPN Rulesets
+
+This project is derived from samqvz/DIY-Ruleset and remains licensed under
+GNU GPL v3.0. The original project history and copyright notices are retained.
+
+Generated domain rules are sourced from v2fly/domain-list-community (MIT).
+Generated China IP rules are sourced from gaoyifan/china-operator-ip (MIT).
+
+The exact source commits used for each published build are recorded in
+manifest.json.

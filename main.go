@@ -40,13 +40,16 @@ func main() {
 		log.Fatalf("❌ 配置验证失败：%v", err)
 	}
 
-	core.FetchAll(cfg)
+	if err := core.FetchAll(cfg); err != nil {
+		log.Fatalf("❌ 获取上游规则失败：%v", err)
+	}
 
 	fmt.Println("-----------------------------------")
 	allResults := make(map[string]*core.ProcessedResult)
 
 	var wg sync.WaitGroup
 	var mu sync.Mutex
+	buildErrors := make(chan error, len(cfg.Categories))
 
 	for _, cat := range cfg.Categories {
 		wg.Add(1)
@@ -55,6 +58,10 @@ func main() {
 			defer wg.Done()
 
 			res := core.ProcessCategory(c, cfg)
+			if res.FinalCount == 0 {
+				buildErrors <- fmt.Errorf("规则集 %q 为空", c.Name)
+				return
+			}
 
 			mu.Lock()
 			allResults[c.Name] = res
@@ -65,10 +72,18 @@ func main() {
 	}
 
 	wg.Wait()
+	close(buildErrors)
+	for buildErr := range buildErrors {
+		if buildErr != nil {
+			log.Fatalf("❌ 规则处理失败：%v", buildErr)
+		}
+	}
 
 	fmt.Println("-----------------------------------")
 
-	core.CompileAll(cfg)
+	if err := core.CompileAll(cfg); err != nil {
+		log.Fatalf("❌ 二进制规则编译失败：%v", err)
+	}
 
 	core.GenerateReport(allResults, cfg)
 
