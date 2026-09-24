@@ -12,7 +12,7 @@ and China IPv4/IPv6 ranges come from
 
 ## Build locally
 
-Requirements: Git, Go 1.22+, curl, jq, and compatible `sing-box` and `mihomo`
+Requirements: Git, Go 1.25.12+, curl, jq, and compatible `sing-box` and `mihomo`
 executables on `PATH`. CI pins and verifies exact official release artifacts.
 
 ```bash

@@ -27,7 +27,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  GO_VERSION: "1.22.0"
+  GO_VERSION: "1.25.12"
   SING_BOX_VERSION: "1.14.1"
   SING_BOX_SHA256: "12cb2816b52febb356f6a885b740cc8758c3f30b8ae0ca8edba80f0d2d35343f"
   MIHOMO_VERSION: "1.19.31"
