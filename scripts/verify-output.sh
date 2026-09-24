@@ -7,6 +7,7 @@ build_dir="${repo_root}/.build"
 rulesets_file="${build_dir}/rulesets.json"
 catalog_file="${publish_dir}/catalog.json"
 entries_file="${build_dir}/verification-entries.tsv"
+entries_json_file="${build_dir}/verification-entries.json"
 apple_clients="surge loon shadowrocket quantumultx"
 
 mkdir -p "${build_dir}/decompiled"
@@ -91,7 +92,7 @@ while IFS= read -r ruleset; do
   printf '%s\t%s\t%s\t%s\n' "${ruleset}" "${canonical_count}" "${portable_count}" "${omitted_count}" >> "${entries_file}"
 done < <(jq -r '.[].id' "${rulesets_file}")
 
-entries_json="$(jq -Rn '
+jq -Rn '
   [inputs | split("\t") as $fields | {
     key: $fields[0],
     value: {
@@ -108,7 +109,7 @@ entries_json="$(jq -Rn '
       }
     }
   }] | from_entries
-' < "${entries_file}")"
+' < "${entries_file}" > "${entries_json_file}"
 
 mihomo_home="${build_dir}/mihomo-home"
 mihomo_config="${mihomo_home}/config.yaml"
@@ -151,7 +152,7 @@ jq -n \
   --arg mihomo_config "passed" \
   --arg singbox_decompile "passed" \
   --argjson ruleset_count "${expected_count}" \
-  --argjson rulesets "${entries_json}" \
+  --slurpfile rulesets "${entries_json_file}" \
   '{
     status: $status,
     ruleset_count: $ruleset_count,
@@ -159,7 +160,7 @@ jq -n \
       mihomo_config: $mihomo_config,
       singbox_srs_decompile: $singbox_decompile
     },
-    rulesets: $rulesets
+    rulesets: $rulesets[0]
   }' > "${build_dir}/verification.json"
 
 printf 'Verified %d rule sets across six clients\n' "${expected_count}"
