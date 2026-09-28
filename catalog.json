@@ -3,17 +3,17 @@
   "sources": {
     "v2fly": {
       "repository": "v2fly/domain-list-community",
-      "commit": "c1c2cf0d252871e8739747714df06e8d2671f72f",
+      "commit": "bcea25493ed28c387660fe49ce1ceb242d2efca0",
       "license": "MIT",
       "url": "https://github.com/v2fly/domain-list-community"
     },
     "china_ip": {
       "repository": "gaoyifan/china-operator-ip",
-      "commit": "c6c81f213bf2e8f3bd037ad12e0cb360c87ca230",
+      "commit": "54203ca26ea4370c5221b204c094b50edd11cc5c",
       "license": "MIT",
       "url": "https://github.com/gaoyifan/china-operator-ip"
     },
-    "ruleset_count": 1541
+    "ruleset_count": 1543
   },
   "rulesets": [
     {
@@ -32126,6 +32126,39 @@
       }
     },
     {
+      "id": "nexusmods",
+      "upstream_key": "nexusmods",
+      "behavior": "domain",
+      "group": "service",
+      "clients": {
+        "clash": {
+          "path": "mihomo/nexusmods.yaml",
+          "format": "yaml"
+        },
+        "singbox": {
+          "path": "singbox/nexusmods.srs",
+          "format": "srs"
+        },
+        "surge": {
+          "path": "surge/nexusmods.list",
+          "format": "text"
+        },
+        "loon": {
+          "path": "loon/nexusmods.list",
+          "format": "text"
+        },
+        "shadowrocket": {
+          "path": "shadowrocket/nexusmods.list",
+          "format": "text"
+        },
+        "quantumultx": {
+          "path": "quantumultx/nexusmods.list",
+          "format": "text",
+          "requires_force_policy": true
+        }
+      }
+    },
+    {
       "id": "nga",
       "upstream_key": "nga",
       "behavior": "domain",
@@ -40073,6 +40106,39 @@
         },
         "quantumultx": {
           "path": "quantumultx/smartone.list",
+          "format": "text",
+          "requires_force_policy": true
+        }
+      }
+    },
+    {
+      "id": "smena",
+      "upstream_key": "smena",
+      "behavior": "domain",
+      "group": "service",
+      "clients": {
+        "clash": {
+          "path": "mihomo/smena.yaml",
+          "format": "yaml"
+        },
+        "singbox": {
+          "path": "singbox/smena.srs",
+          "format": "srs"
+        },
+        "surge": {
+          "path": "surge/smena.list",
+          "format": "text"
+        },
+        "loon": {
+          "path": "loon/smena.list",
+          "format": "text"
+        },
+        "shadowrocket": {
+          "path": "shadowrocket/smena.list",
+          "format": "text"
+        },
+        "quantumultx": {
+          "path": "quantumultx/smena.list",
           "format": "text",
           "requires_force_policy": true
         }

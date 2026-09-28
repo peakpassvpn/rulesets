@@ -13,21 +13,21 @@
   "sources": {
     "v2fly": {
       "repository": "v2fly/domain-list-community",
-      "commit": "c1c2cf0d252871e8739747714df06e8d2671f72f",
+      "commit": "bcea25493ed28c387660fe49ce1ceb242d2efca0",
       "license": "MIT",
       "url": "https://github.com/v2fly/domain-list-community"
     },
     "china_ip": {
       "repository": "gaoyifan/china-operator-ip",
-      "commit": "c6c81f213bf2e8f3bd037ad12e0cb360c87ca230",
+      "commit": "54203ca26ea4370c5221b204c094b50edd11cc5c",
       "license": "MIT",
       "url": "https://github.com/gaoyifan/china-operator-ip"
     },
-    "ruleset_count": 1541
+    "ruleset_count": 1543
   },
   "verification": {
     "status": "passed",
-    "ruleset_count": 1541,
+    "ruleset_count": 1543,
     "checks": {
       "mihomo_config": "passed",
       "singbox_srs_decompile": "passed"
@@ -4549,18 +4549,18 @@
         }
       },
       "category-ru": {
-        "canonical_count": 819,
-        "portable_count": 819,
+        "canonical_count": 820,
+        "portable_count": 820,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 819,
-          "singbox": 819,
-          "surge": 819,
-          "loon": 819,
-          "shadowrocket": 819,
-          "quantumultx": 819
+          "mihomo": 820,
+          "singbox": 820,
+          "surge": 820,
+          "loon": 820,
+          "shadowrocket": 820,
+          "quantumultx": 820
         }
       },
       "category-scholar-not-cn": {
@@ -14628,6 +14628,21 @@
           "quantumultx": 6
         }
       },
+      "nexusmods": {
+        "canonical_count": 2,
+        "portable_count": 2,
+        "omitted_from_portable_clients": {
+          "unsupported_rules": 0
+        },
+        "clients": {
+          "mihomo": 2,
+          "singbox": 2,
+          "surge": 2,
+          "loon": 2,
+          "shadowrocket": 2,
+          "quantumultx": 2
+        }
+      },
       "nga": {
         "canonical_count": 4,
         "portable_count": 4,
@@ -18241,6 +18256,21 @@
           "loon": 15,
           "shadowrocket": 15,
           "quantumultx": 15
+        }
+      },
+      "smena": {
+        "canonical_count": 1,
+        "portable_count": 1,
+        "omitted_from_portable_clients": {
+          "unsupported_rules": 0
+        },
+        "clients": {
+          "mihomo": 1,
+          "singbox": 1,
+          "surge": 1,
+          "loon": 1,
+          "shadowrocket": 1,
+          "quantumultx": 1
         }
       },
       "smtiaojiaoshi": {
@@ -23134,18 +23164,18 @@
         }
       },
       "cn-ip": {
-        "canonical_count": 9614,
-        "portable_count": 9614,
+        "canonical_count": 9622,
+        "portable_count": 9622,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 9614,
-          "singbox": 9614,
-          "surge": 9614,
-          "loon": 9614,
-          "shadowrocket": 9614,
-          "quantumultx": 9614
+          "mihomo": 9622,
+          "singbox": 9622,
+          "surge": 9622,
+          "loon": 9622,
+          "shadowrocket": 9622,
+          "quantumultx": 9622
         }
       }
     }
@@ -23163,13 +23193,13 @@
     },
     {
       "path": "README.md",
-      "sha256": "6f0d4cad6212ec124d070cdfc94456193e06c8294d2919940df1329bf14745df",
-      "size": 910759
+      "sha256": "ef515060412d7944e397087510fef4e097bf84bc4fe26c84e237d09d0c379e82",
+      "size": 911919
     },
     {
       "path": "catalog.json",
-      "sha256": "fe76fe27b513066b52df83292198974ba39d88ca430b6baf108710248d750646",
-      "size": 1246858
+      "sha256": "050c7ecbad58e1d5d6ad37c5cb0d93612ec0302a267917d9811f6aa2d748777a",
+      "size": 1248456
     },
     {
       "path": "loon/0x0.list",
@@ -24678,8 +24708,8 @@
     },
     {
       "path": "loon/category-ru.list",
-      "sha256": "78502b86350bbd065bd58d1da9c3372e27593d0b173b2f51e51d363b84ff1de5",
-      "size": 21777
+      "sha256": "8f3fbfaf983ba20f28d0f9b6e6c083285f903afbf5663e065a5278cb001c1aff",
+      "size": 21802
     },
     {
       "path": "loon/category-scholar-cn.list",
@@ -25038,8 +25068,8 @@
     },
     {
       "path": "loon/cn-ip.list",
-      "sha256": "adbf26a795546c80714493d1fd67bde1482350bda4b8ae51d05fe8095d05b8c1",
-      "size": 339188
+      "sha256": "9b8135e9953b7b69cb57d99431d4f11fb3c2db1ecdad0e9812c21f6c315deb61",
+      "size": 339493
     },
     {
       "path": "loon/cn.list",
@@ -28042,6 +28072,11 @@
       "size": 156
     },
     {
+      "path": "loon/nexusmods.list",
+      "sha256": "e3242b8a7aba2dd92004982fc3dd2eefdd953a750bd329c254b6e1b9283b5caa",
+      "size": 55
+    },
+    {
       "path": "loon/nga.list",
       "sha256": "28a30f7e90ab346d18204b829b5be621dd7079bea46b324c486805081fb8ba93",
       "size": 90
@@ -29245,6 +29280,11 @@
       "path": "loon/smartone.list",
       "sha256": "ddfbde0edb9f681a09905a78c95f5c4f318328c39f9f3baf790a83891a90a6e8",
       "size": 480
+    },
+    {
+      "path": "loon/smena.list",
+      "sha256": "c4827c049a87e8b5d407b7754f3ee19067b214ac6d8d93a9faa4671d218155e4",
+      "size": 24
     },
     {
       "path": "loon/smtiaojiaoshi.list",
@@ -32383,8 +32423,8 @@
     },
     {
       "path": "mihomo/category-ru.yaml",
-      "sha256": "8335403a8a82f93d7742fec4fd579eeb3892b5c95df4e6d96a06fd6bfc7c0709",
-      "size": 26701
+      "sha256": "cc6cea3307438f04f524da3f69e91829b2cc78798a87d88d3f903149eb25162b",
+      "size": 26732
     },
     {
       "path": "mihomo/category-scholar-cn.yaml",
@@ -32743,8 +32783,8 @@
     },
     {
       "path": "mihomo/cn-ip.yaml",
-      "sha256": "aac42b208f84ee91d0f5046abbc6142f785f86adac75529bc8ce77aa7111cec7",
-      "size": 291128
+      "sha256": "b837a019f1e06c08630ccb815bd3eb2f79d16348c54d1301475097a6fd85318e",
+      "size": 291393
     },
     {
       "path": "mihomo/cn.yaml",
@@ -35747,6 +35787,11 @@
       "size": 202
     },
     {
+      "path": "mihomo/nexusmods.yaml",
+      "sha256": "d66e80ad6e1ca80544a6e15f14c63c8366a24fd356dbce944238f0413166feb9",
+      "size": 77
+    },
+    {
       "path": "mihomo/nga.yaml",
       "sha256": "e87d6aba17357f274fd6ab029ad91034c174d53f09d5b598ecf47ff6c7ead5dd",
       "size": 124
@@ -36950,6 +36995,11 @@
       "path": "mihomo/smartone.yaml",
       "sha256": "cf2f960f8ce46e447cf2a339d8d260ac140672d625dfb60b61d2d10f94b896fc",
       "size": 580
+    },
+    {
+      "path": "mihomo/smena.yaml",
+      "sha256": "08251996f9acbff3e0f0985073c8b621942f29be6df41dfeb4c9e8b12e83a9c8",
+      "size": 40
     },
     {
       "path": "mihomo/smtiaojiaoshi.yaml",
@@ -40088,8 +40138,8 @@
     },
     {
       "path": "quantumultx/category-ru.list",
-      "sha256": "b6b7f50152105810d7fcc0ea5b6a5ff3c4d9512a77b932432105826360ea613f",
-      "size": 29967
+      "sha256": "b032be71ae5bf2ea258e0a98ff43df93100bb14b72ea5466297799ae72dd88c2",
+      "size": 30002
     },
     {
       "path": "quantumultx/category-scholar-cn.list",
@@ -40448,8 +40498,8 @@
     },
     {
       "path": "quantumultx/cn-ip.list",
-      "sha256": "91be02a86951900db259add6bd255fd89108e21c013ccdb5976db11c2cc58def",
-      "size": 291118
+      "sha256": "2f6ca64b9a7d7ee585372402d7c507c0a48e706442a0c2d0bc58564957963ac8",
+      "size": 291383
     },
     {
       "path": "quantumultx/cn.list",
@@ -43452,6 +43502,11 @@
       "size": 180
     },
     {
+      "path": "quantumultx/nexusmods.list",
+      "sha256": "97c221d35ad61e5b8380a4975377c22ca4b9d673a48e3963b06823ae6eca3caf",
+      "size": 71
+    },
+    {
       "path": "quantumultx/nga.list",
       "sha256": "40f805a564f97a20f7bccbc484c20281e20fff757304e8663be520bad4a5cdad",
       "size": 98
@@ -44655,6 +44710,11 @@
       "path": "quantumultx/smartone.list",
       "sha256": "d9accc98400cc8626f99880ebe2fc004287f6637f45bc2f5df085e1342b4e02b",
       "size": 585
+    },
+    {
+      "path": "quantumultx/smena.list",
+      "sha256": "72d079340cdb4ed59d983f36d79544d9388a4cc1ef323c7c627d96496b7690e0",
+      "size": 28
     },
     {
       "path": "quantumultx/smtiaojiaoshi.list",
@@ -47793,8 +47853,8 @@
     },
     {
       "path": "shadowrocket/category-ru.list",
-      "sha256": "78502b86350bbd065bd58d1da9c3372e27593d0b173b2f51e51d363b84ff1de5",
-      "size": 21777
+      "sha256": "8f3fbfaf983ba20f28d0f9b6e6c083285f903afbf5663e065a5278cb001c1aff",
+      "size": 21802
     },
     {
       "path": "shadowrocket/category-scholar-cn.list",
@@ -48153,8 +48213,8 @@
     },
     {
       "path": "shadowrocket/cn-ip.list",
-      "sha256": "adbf26a795546c80714493d1fd67bde1482350bda4b8ae51d05fe8095d05b8c1",
-      "size": 339188
+      "sha256": "9b8135e9953b7b69cb57d99431d4f11fb3c2db1ecdad0e9812c21f6c315deb61",
+      "size": 339493
     },
     {
       "path": "shadowrocket/cn.list",
@@ -51157,6 +51217,11 @@
       "size": 156
     },
     {
+      "path": "shadowrocket/nexusmods.list",
+      "sha256": "e3242b8a7aba2dd92004982fc3dd2eefdd953a750bd329c254b6e1b9283b5caa",
+      "size": 55
+    },
+    {
       "path": "shadowrocket/nga.list",
       "sha256": "28a30f7e90ab346d18204b829b5be621dd7079bea46b324c486805081fb8ba93",
       "size": 90
@@ -52360,6 +52425,11 @@
       "path": "shadowrocket/smartone.list",
       "sha256": "ddfbde0edb9f681a09905a78c95f5c4f318328c39f9f3baf790a83891a90a6e8",
       "size": 480
+    },
+    {
+      "path": "shadowrocket/smena.list",
+      "sha256": "c4827c049a87e8b5d407b7754f3ee19067b214ac6d8d93a9faa4671d218155e4",
+      "size": 24
     },
     {
       "path": "shadowrocket/smtiaojiaoshi.list",
@@ -55498,8 +55568,8 @@
     },
     {
       "path": "singbox/category-ru.srs",
-      "sha256": "a783f9e9537a63bd7d4f6adf97de376eb4a2f06bbfc89e41748811086a196bc1",
-      "size": 6154
+      "sha256": "7b5db8881d0de3202c39c816b64b4b305b12c43669fd31207790925aea9dccea",
+      "size": 6147
     },
     {
       "path": "singbox/category-scholar-cn.srs",
@@ -55858,8 +55928,8 @@
     },
     {
       "path": "singbox/cn-ip.srs",
-      "sha256": "35a2bff6079bd8f3ec716ca76d33d6014fe3e55e079f90277fba3a3aaabe1907",
-      "size": 36386
+      "sha256": "698c67c075eb1b063d7de1c46e7f9f66acec2be72a5f0b3f6e47a22b6352270c",
+      "size": 36397
     },
     {
       "path": "singbox/cn.srs",
@@ -58862,6 +58932,11 @@
       "size": 111
     },
     {
+      "path": "singbox/nexusmods.srs",
+      "sha256": "065d3988db1dc7d60aec634d858f0ffc4e6a01675d85d5c104e7badd9281fe44",
+      "size": 65
+    },
+    {
       "path": "singbox/nga.srs",
       "sha256": "bbd48d93258854f80bc1a5f23a6ef95e4c38350caf68efb3e86b989027511e8c",
       "size": 73
@@ -60065,6 +60140,11 @@
       "path": "singbox/smartone.srs",
       "sha256": "bc8c25bff17204ebc27619d34f049f895a474bccca4190170f45d45eb26fa0f7",
       "size": 249
+    },
+    {
+      "path": "singbox/smena.srs",
+      "sha256": "c793764789637ac4f35cdbd891a73bc4e724c362f26bc15bb81976d374aa610c",
+      "size": 44
     },
     {
       "path": "singbox/smtiaojiaoshi.srs",
@@ -63203,8 +63283,8 @@
     },
     {
       "path": "surge/category-ru.list",
-      "sha256": "78502b86350bbd065bd58d1da9c3372e27593d0b173b2f51e51d363b84ff1de5",
-      "size": 21777
+      "sha256": "8f3fbfaf983ba20f28d0f9b6e6c083285f903afbf5663e065a5278cb001c1aff",
+      "size": 21802
     },
     {
       "path": "surge/category-scholar-cn.list",
@@ -63563,8 +63643,8 @@
     },
     {
       "path": "surge/cn-ip.list",
-      "sha256": "adbf26a795546c80714493d1fd67bde1482350bda4b8ae51d05fe8095d05b8c1",
-      "size": 339188
+      "sha256": "9b8135e9953b7b69cb57d99431d4f11fb3c2db1ecdad0e9812c21f6c315deb61",
+      "size": 339493
     },
     {
       "path": "surge/cn.list",
@@ -66567,6 +66647,11 @@
       "size": 156
     },
     {
+      "path": "surge/nexusmods.list",
+      "sha256": "e3242b8a7aba2dd92004982fc3dd2eefdd953a750bd329c254b6e1b9283b5caa",
+      "size": 55
+    },
+    {
       "path": "surge/nga.list",
       "sha256": "28a30f7e90ab346d18204b829b5be621dd7079bea46b324c486805081fb8ba93",
       "size": 90
@@ -67770,6 +67855,11 @@
       "path": "surge/smartone.list",
       "sha256": "ddfbde0edb9f681a09905a78c95f5c4f318328c39f9f3baf790a83891a90a6e8",
       "size": 480
+    },
+    {
+      "path": "surge/smena.list",
+      "sha256": "c4827c049a87e8b5d407b7754f3ee19067b214ac6d8d93a9faa4671d218155e4",
+      "size": 24
     },
     {
       "path": "surge/smtiaojiaoshi.list",
