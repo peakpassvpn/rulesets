@@ -6,6 +6,8 @@ host,antigravity.googleapis.com,google-deepmind
 host,cloudaicompanion.googleapis.com,google-deepmind
 host,cloudcode-pa.googleapis.com,google-deepmind
 host,daily-cloudcode-pa.googleapis.com,google-deepmind
+host,geminiweb-pa.clients.google.com,google-deepmind
+host,geminiweb-pa.clients6.google.com,google-deepmind
 host,notebooklm-pa.googleapis.com,google-deepmind
 host,notebooklm.googleapis.com,google-deepmind
 host,webchannel-alkalimakersuite-pa.clients6.google.com,google-deepmind
@@ -31,6 +33,7 @@ host-suffix,jules.google,google-deepmind
 host-suffix,jules.google.com,google-deepmind
 host-suffix,labs.google,google-deepmind
 host-suffix,labs.google.com,google-deepmind
+host-suffix,labstailwind.pa.googleapis.com,google-deepmind
 host-suffix,makersuite.google.com,google-deepmind
 host-suffix,notebook.google,google-deepmind
 host-suffix,notebook.google.com,google-deepmind

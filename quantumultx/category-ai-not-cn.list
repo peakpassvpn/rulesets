@@ -12,6 +12,8 @@ host,copilot-telemetry.githubusercontent.com,category-ai-not-cn
 host,copilot-workspace.githubnext.com,category-ai-not-cn
 host,copilotprodattachments.blob.core.windows.net,category-ai-not-cn
 host,daily-cloudcode-pa.googleapis.com,category-ai-not-cn
+host,geminiweb-pa.clients.google.com,category-ai-not-cn
+host,geminiweb-pa.clients6.google.com,category-ai-not-cn
 host,notebooklm-pa.googleapis.com,category-ai-not-cn
 host,notebooklm.googleapis.com,category-ai-not-cn
 host,o33249.ingest.sentry.io,category-ai-not-cn
@@ -120,6 +122,7 @@ host-suffix,kimi.ai,category-ai-not-cn
 host-suffix,kiro.dev,category-ai-not-cn
 host-suffix,labs.google,category-ai-not-cn
 host-suffix,labs.google.com,category-ai-not-cn
+host-suffix,labstailwind.pa.googleapis.com,category-ai-not-cn
 host-suffix,langchain.com,category-ai-not-cn
 host-suffix,liveperson.net,category-ai-not-cn
 host-suffix,lmstudio.ai,category-ai-not-cn
@@ -130,11 +133,13 @@ host-suffix,manus.im,category-ai-not-cn
 host-suffix,manuscdn.com,category-ai-not-cn
 host-suffix,marscode.com,category-ai-not-cn
 host-suffix,meta.ai,category-ai-not-cn
+host-suffix,metaaivm.com,category-ai-not-cn
 host-suffix,midjourney.com,category-ai-not-cn
 host-suffix,minimax.io,category-ai-not-cn
 host-suffix,mistral.ai,category-ai-not-cn
 host-suffix,moonshot.ai,category-ai-not-cn
 host-suffix,mozilla.ai,category-ai-not-cn
+host-suffix,muse.ai,category-ai-not-cn
 host-suffix,notebook.google,category-ai-not-cn
 host-suffix,notebook.google.com,category-ai-not-cn
 host-suffix,notebooklm.google,category-ai-not-cn
@@ -151,6 +156,7 @@ host-suffix,openai.com,category-ai-not-cn
 host-suffix,openai.com.cdn.cloudflare.net,category-ai-not-cn
 host-suffix,openart.ai,category-ai-not-cn
 host-suffix,openclaw.ai,category-ai-not-cn
+host-suffix,opencode.ai,category-ai-not-cn
 host-suffix,openrouter.ai,category-ai-not-cn
 host-suffix,openspec.dev,category-ai-not-cn
 host-suffix,oystermercury.top,category-ai-not-cn

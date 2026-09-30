@@ -1891,6 +1891,7 @@ host-suffix,cn-shanghai.aliyuncs.com,geolocation-cn
 host-suffix,cn.pool.ntp.org,geolocation-cn
 host-suffix,cnanzhi.com,geolocation-cn
 host-suffix,cnb.cool,geolocation-cn
+host-suffix,cnb.space,geolocation-cn
 host-suffix,cnbksy.com,geolocation-cn
 host-suffix,cnblogs.com,geolocation-cn
 host-suffix,cnblogs.vip,geolocation-cn
