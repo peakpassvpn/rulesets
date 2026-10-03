@@ -13,13 +13,13 @@
   "sources": {
     "v2fly": {
       "repository": "v2fly/domain-list-community",
-      "commit": "2d71342eea1720da57261b55663c9d55619e9b1c",
+      "commit": "2c892a618f4e23c549d28edd0f3f75407521b1aa",
       "license": "MIT",
       "url": "https://github.com/v2fly/domain-list-community"
     },
     "china_ip": {
       "repository": "gaoyifan/china-operator-ip",
-      "commit": "f2f403fed817d4ff4f30618ed347b85596767a15",
+      "commit": "d0b41caab13e4d80fbeca47d73839489d92a1a48",
       "license": "MIT",
       "url": "https://github.com/gaoyifan/china-operator-ip"
     },
@@ -1189,18 +1189,18 @@
         }
       },
       "anthropic": {
-        "canonical_count": 8,
-        "portable_count": 8,
+        "canonical_count": 9,
+        "portable_count": 9,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 8,
-          "singbox": 8,
-          "surge": 8,
-          "loon": 8,
-          "shadowrocket": 8,
-          "quantumultx": 8
+          "mihomo": 9,
+          "singbox": 9,
+          "surge": 9,
+          "loon": 9,
+          "shadowrocket": 9,
+          "quantumultx": 9
         }
       },
       "ap": {
@@ -3199,33 +3199,33 @@
         }
       },
       "category-ai-not-cn": {
-        "canonical_count": 188,
-        "portable_count": 187,
+        "canonical_count": 189,
+        "portable_count": 188,
         "omitted_from_portable_clients": {
           "unsupported_rules": 1
         },
         "clients": {
-          "mihomo": 188,
-          "singbox": 188,
-          "surge": 187,
-          "loon": 187,
-          "shadowrocket": 187,
-          "quantumultx": 187
+          "mihomo": 189,
+          "singbox": 189,
+          "surge": 188,
+          "loon": 188,
+          "shadowrocket": 188,
+          "quantumultx": 188
         }
       },
       "category-ai-chat-not-cn": {
-        "canonical_count": 188,
-        "portable_count": 187,
+        "canonical_count": 189,
+        "portable_count": 188,
         "omitted_from_portable_clients": {
           "unsupported_rules": 1
         },
         "clients": {
-          "mihomo": 188,
-          "singbox": 188,
-          "surge": 187,
-          "loon": 187,
-          "shadowrocket": 187,
-          "quantumultx": 187
+          "mihomo": 189,
+          "singbox": 189,
+          "surge": 188,
+          "loon": 188,
+          "shadowrocket": 188,
+          "quantumultx": 188
         }
       },
       "category-ai-cn": {
@@ -8854,18 +8854,18 @@
         }
       },
       "geolocation-not-cn": {
-        "canonical_count": 24265,
-        "portable_count": 24120,
+        "canonical_count": 24266,
+        "portable_count": 24121,
         "omitted_from_portable_clients": {
           "unsupported_rules": 145
         },
         "clients": {
-          "mihomo": 24265,
-          "singbox": 24265,
-          "surge": 24120,
-          "loon": 24120,
-          "shadowrocket": 24120,
-          "quantumultx": 24120
+          "mihomo": 24266,
+          "singbox": 24266,
+          "surge": 24121,
+          "loon": 24121,
+          "shadowrocket": 24121,
+          "quantumultx": 24121
         }
       },
       "geolocation-cn": {
@@ -23193,12 +23193,12 @@
     },
     {
       "path": "README.md",
-      "sha256": "1840f71ba8987c99ba0944748e31fe7d089b34aadd8d4768fed324075d803744",
+      "sha256": "e8eccb1c6540a953231a16bcb16ffe672818af4567248391c5515984cbe84426",
       "size": 911919
     },
     {
       "path": "catalog.json",
-      "sha256": "8378d59dcd3f15b46623cd95d411cacc76db22996ea42d1d23cd92bb4877237f",
+      "sha256": "66ca5ab9f493802de1f74d9c0eb0e72893934da4f81a2ee150b5932f50c35297",
       "size": 1248456
     },
     {
@@ -23588,8 +23588,8 @@
     },
     {
       "path": "loon/anthropic.list",
-      "sha256": "d97e7c0a843c241062194b8b990a661410e298071fd3203f2d2e3109aeaad5bd",
-      "size": 244
+      "sha256": "b1790d825efa0d22258c89c5d3cd3b39cb98d1d13c9dae05d56fd434ea0856d8",
+      "size": 269
     },
     {
       "path": "loon/ap.list",
@@ -24258,8 +24258,8 @@
     },
     {
       "path": "loon/category-ai-chat-not-cn.list",
-      "sha256": "98fe0be5a83d634a7e71dfd2070c4bac9e31c05d233d25a3984a2f9618f707e3",
-      "size": 5698
+      "sha256": "30b4ee87ef712bfed56f4c332e906e18f53f9e7280c543f3a58d7a9c9a307038",
+      "size": 5723
     },
     {
       "path": "loon/category-ai-cn.list",
@@ -24268,8 +24268,8 @@
     },
     {
       "path": "loon/category-ai-not-cn.list",
-      "sha256": "98fe0be5a83d634a7e71dfd2070c4bac9e31c05d233d25a3984a2f9618f707e3",
-      "size": 5698
+      "sha256": "30b4ee87ef712bfed56f4c332e906e18f53f9e7280c543f3a58d7a9c9a307038",
+      "size": 5723
     },
     {
       "path": "loon/category-ai-ru.list",
@@ -25068,8 +25068,8 @@
     },
     {
       "path": "loon/cn-ip.list",
-      "sha256": "466be77a2db9f75ff4dedde865c9a4bd6d25488274aed4e407995158f32c4793",
-      "size": 340502
+      "sha256": "56395c26551cb970d62f7096e36a78dde160bdb141f9228f82914d1c3c633a7d",
+      "size": 340504
     },
     {
       "path": "loon/cn.list",
@@ -26153,8 +26153,8 @@
     },
     {
       "path": "loon/geolocation-not-cn.list",
-      "sha256": "ceb8cba8ebc74e7f8b5f8e611cef1e5e14f926a0fd0874adfb7879135e23bb68",
-      "size": 691160
+      "sha256": "96fa58eaee094c3ccfaf876bdf9fa23b64ca95f7524ca6821155efeba6132a88",
+      "size": 691185
     },
     {
       "path": "loon/gettyimages.list",
@@ -31303,8 +31303,8 @@
     },
     {
       "path": "mihomo/anthropic.yaml",
-      "sha256": "aca5781bb4c914665dee34f3ba7866f624c63a02d805044ce3e952d0a3e928f7",
-      "size": 302
+      "sha256": "ed923df396245f71abdc09d2558ae32f2819683438ce43022db242c81ef2a4eb",
+      "size": 333
     },
     {
       "path": "mihomo/ap.yaml",
@@ -31973,8 +31973,8 @@
     },
     {
       "path": "mihomo/category-ai-chat-not-cn.yaml",
-      "sha256": "14aa705a3e28fd263ffa7cdb38f8498d7a7967bb50a435e8cbb37ee3a84f73d1",
-      "size": 6907
+      "sha256": "d5fdfc153235d029f16985d628089823cfd0086a3b80cd200a1ab4dadb189583",
+      "size": 6938
     },
     {
       "path": "mihomo/category-ai-cn.yaml",
@@ -31983,8 +31983,8 @@
     },
     {
       "path": "mihomo/category-ai-not-cn.yaml",
-      "sha256": "14aa705a3e28fd263ffa7cdb38f8498d7a7967bb50a435e8cbb37ee3a84f73d1",
-      "size": 6907
+      "sha256": "d5fdfc153235d029f16985d628089823cfd0086a3b80cd200a1ab4dadb189583",
+      "size": 6938
     },
     {
       "path": "mihomo/category-ai-ru.yaml",
@@ -32783,8 +32783,8 @@
     },
     {
       "path": "mihomo/cn-ip.yaml",
-      "sha256": "df89d9db11a6be3bdc0280c077b9ac48c8fad5f1ef220780d57b3f10b5f3a46a",
-      "size": 292272
+      "sha256": "e6ad887231df05259f50c1f53d280663a7e2c81bfa7881009598c79d7a732218",
+      "size": 292274
     },
     {
       "path": "mihomo/cn.yaml",
@@ -33868,8 +33868,8 @@
     },
     {
       "path": "mihomo/geolocation-not-cn.yaml",
-      "sha256": "40c793ce5fa7c011e65d2986e454dfb5f825e9c352fb09e3b47a452e37f80087",
-      "size": 842767
+      "sha256": "fa6e67c1171068e3451f22141182be5187384673b2944e64cc2f64321d2f0f73",
+      "size": 842798
     },
     {
       "path": "mihomo/gettyimages.yaml",
@@ -39018,8 +39018,8 @@
     },
     {
       "path": "quantumultx/anthropic.list",
-      "sha256": "9b6d18260447e8b1d62b1af2ede9a18d7b6e48684a071dd555b4f57e182050a4",
-      "size": 308
+      "sha256": "fffeb373fedfb8c33736f584e16a0bb0d1aa6163b2e61172406f765dbea56ff5",
+      "size": 341
     },
     {
       "path": "quantumultx/ap.list",
@@ -39688,8 +39688,8 @@
     },
     {
       "path": "quantumultx/category-ai-chat-not-cn.list",
-      "sha256": "1002fc2dc9754d47c00a64620f6dffbf189599d06235275962c911f0ebd7ac5f",
-      "size": 9812
+      "sha256": "8e3e7e6f1476f81a0e8d6205582f71ee9eac8c5c7fb63bf836202d34074c25a1",
+      "size": 9859
     },
     {
       "path": "quantumultx/category-ai-cn.list",
@@ -39698,8 +39698,8 @@
     },
     {
       "path": "quantumultx/category-ai-not-cn.list",
-      "sha256": "ca27944dbc4fb6a41c84715e2a7ab82bfe530e0f6d749d16110797b22fa23319",
-      "size": 8877
+      "sha256": "26de711d3cb0c5a982542a7c05b2e2934e82ae9713bd30c868d0e1e4f737a0d2",
+      "size": 8919
     },
     {
       "path": "quantumultx/category-ai-ru.list",
@@ -40498,8 +40498,8 @@
     },
     {
       "path": "quantumultx/cn-ip.list",
-      "sha256": "8ae993a5fe5e3f53da5142e1c99a62f3939aedc1580c790684f1c9a3816d7370",
-      "size": 292262
+      "sha256": "a119363a2bb90d5d4059701690bb1c31671d4c3e13e3ddb3d6883fc7d9ea69a4",
+      "size": 292264
     },
     {
       "path": "quantumultx/cn.list",
@@ -41583,8 +41583,8 @@
     },
     {
       "path": "quantumultx/geolocation-not-cn.list",
-      "sha256": "b65d403fb3ff4acdbfdeefc82a7368cd2f5ae25e6cd058bfb80732c41dd2323f",
-      "size": 1101200
+      "sha256": "3790aba86a721a63be177d16e481896e9797efbe805adbd5c197eb92aa1d3941",
+      "size": 1101242
     },
     {
       "path": "quantumultx/gettyimages.list",
@@ -46733,8 +46733,8 @@
     },
     {
       "path": "shadowrocket/anthropic.list",
-      "sha256": "d97e7c0a843c241062194b8b990a661410e298071fd3203f2d2e3109aeaad5bd",
-      "size": 244
+      "sha256": "b1790d825efa0d22258c89c5d3cd3b39cb98d1d13c9dae05d56fd434ea0856d8",
+      "size": 269
     },
     {
       "path": "shadowrocket/ap.list",
@@ -47403,8 +47403,8 @@
     },
     {
       "path": "shadowrocket/category-ai-chat-not-cn.list",
-      "sha256": "98fe0be5a83d634a7e71dfd2070c4bac9e31c05d233d25a3984a2f9618f707e3",
-      "size": 5698
+      "sha256": "30b4ee87ef712bfed56f4c332e906e18f53f9e7280c543f3a58d7a9c9a307038",
+      "size": 5723
     },
     {
       "path": "shadowrocket/category-ai-cn.list",
@@ -47413,8 +47413,8 @@
     },
     {
       "path": "shadowrocket/category-ai-not-cn.list",
-      "sha256": "98fe0be5a83d634a7e71dfd2070c4bac9e31c05d233d25a3984a2f9618f707e3",
-      "size": 5698
+      "sha256": "30b4ee87ef712bfed56f4c332e906e18f53f9e7280c543f3a58d7a9c9a307038",
+      "size": 5723
     },
     {
       "path": "shadowrocket/category-ai-ru.list",
@@ -48213,8 +48213,8 @@
     },
     {
       "path": "shadowrocket/cn-ip.list",
-      "sha256": "466be77a2db9f75ff4dedde865c9a4bd6d25488274aed4e407995158f32c4793",
-      "size": 340502
+      "sha256": "56395c26551cb970d62f7096e36a78dde160bdb141f9228f82914d1c3c633a7d",
+      "size": 340504
     },
     {
       "path": "shadowrocket/cn.list",
@@ -49298,8 +49298,8 @@
     },
     {
       "path": "shadowrocket/geolocation-not-cn.list",
-      "sha256": "ceb8cba8ebc74e7f8b5f8e611cef1e5e14f926a0fd0874adfb7879135e23bb68",
-      "size": 691160
+      "sha256": "96fa58eaee094c3ccfaf876bdf9fa23b64ca95f7524ca6821155efeba6132a88",
+      "size": 691185
     },
     {
       "path": "shadowrocket/gettyimages.list",
@@ -54448,8 +54448,8 @@
     },
     {
       "path": "singbox/anthropic.srs",
-      "sha256": "0525da2adca813f40c7aaf50d8493fb45185e055eaf44d38f075a138e0ba16a0",
-      "size": 173
+      "sha256": "95a3682e318cf01e064b6e18d01ab00e89217c888320593ef6ac6be77a000e6c",
+      "size": 177
     },
     {
       "path": "singbox/ap.srs",
@@ -55118,8 +55118,8 @@
     },
     {
       "path": "singbox/category-ai-chat-not-cn.srs",
-      "sha256": "f7f80b79b172a2c1642254ac703d0a4b8a2142dc62475ee485426f57f7dbb823",
-      "size": 1930
+      "sha256": "a026b2d40d9c238e8def1510b66fa872a2cde5d3810868dda6f5421ea93a5587",
+      "size": 1950
     },
     {
       "path": "singbox/category-ai-cn.srs",
@@ -55128,8 +55128,8 @@
     },
     {
       "path": "singbox/category-ai-not-cn.srs",
-      "sha256": "f7f80b79b172a2c1642254ac703d0a4b8a2142dc62475ee485426f57f7dbb823",
-      "size": 1930
+      "sha256": "a026b2d40d9c238e8def1510b66fa872a2cde5d3810868dda6f5421ea93a5587",
+      "size": 1950
     },
     {
       "path": "singbox/category-ai-ru.srs",
@@ -55928,8 +55928,8 @@
     },
     {
       "path": "singbox/cn-ip.srs",
-      "sha256": "ac82bac86a7f9f873b4e016765f9ee5afe0152da52049b72c16f459572c317ee",
-      "size": 36417
+      "sha256": "1dd8e1d947ce758a0785fe7b256d219523caea6f4cec2b1c9eef3cf48ff1ec3f",
+      "size": 36409
     },
     {
       "path": "singbox/cn.srs",
@@ -57013,8 +57013,8 @@
     },
     {
       "path": "singbox/geolocation-not-cn.srs",
-      "sha256": "67f35dc2476caea9a4295843f710e25494754fe19d7b354d0eaed15b19cf9e87",
-      "size": 150614
+      "sha256": "0f340ff65d049c9189ae6b5be40cdd90cb94cf3a9f7566c5b1191ada59806a83",
+      "size": 150611
     },
     {
       "path": "singbox/gettyimages.srs",
@@ -62163,8 +62163,8 @@
     },
     {
       "path": "surge/anthropic.list",
-      "sha256": "d97e7c0a843c241062194b8b990a661410e298071fd3203f2d2e3109aeaad5bd",
-      "size": 244
+      "sha256": "b1790d825efa0d22258c89c5d3cd3b39cb98d1d13c9dae05d56fd434ea0856d8",
+      "size": 269
     },
     {
       "path": "surge/ap.list",
@@ -62833,8 +62833,8 @@
     },
     {
       "path": "surge/category-ai-chat-not-cn.list",
-      "sha256": "98fe0be5a83d634a7e71dfd2070c4bac9e31c05d233d25a3984a2f9618f707e3",
-      "size": 5698
+      "sha256": "30b4ee87ef712bfed56f4c332e906e18f53f9e7280c543f3a58d7a9c9a307038",
+      "size": 5723
     },
     {
       "path": "surge/category-ai-cn.list",
@@ -62843,8 +62843,8 @@
     },
     {
       "path": "surge/category-ai-not-cn.list",
-      "sha256": "98fe0be5a83d634a7e71dfd2070c4bac9e31c05d233d25a3984a2f9618f707e3",
-      "size": 5698
+      "sha256": "30b4ee87ef712bfed56f4c332e906e18f53f9e7280c543f3a58d7a9c9a307038",
+      "size": 5723
     },
     {
       "path": "surge/category-ai-ru.list",
@@ -63643,8 +63643,8 @@
     },
     {
       "path": "surge/cn-ip.list",
-      "sha256": "466be77a2db9f75ff4dedde865c9a4bd6d25488274aed4e407995158f32c4793",
-      "size": 340502
+      "sha256": "56395c26551cb970d62f7096e36a78dde160bdb141f9228f82914d1c3c633a7d",
+      "size": 340504
     },
     {
       "path": "surge/cn.list",
@@ -64728,8 +64728,8 @@
     },
     {
       "path": "surge/geolocation-not-cn.list",
-      "sha256": "ceb8cba8ebc74e7f8b5f8e611cef1e5e14f926a0fd0874adfb7879135e23bb68",
-      "size": 691160
+      "sha256": "96fa58eaee094c3ccfaf876bdf9fa23b64ca95f7524ca6821155efeba6132a88",
+      "size": 691185
     },
     {
       "path": "surge/gettyimages.list",
