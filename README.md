@@ -3,7 +3,7 @@
 **该页面由 GitHub Actions 每日自动生成**
 
 <!-- REPORT_START -->
-**当前规则总数** : **114677** 
+**当前规则总数** : **114685** 
 
 ### 自动统计
 | 规&#8288;则&#8288;名&#8288;称 | 最&#8288;终&#8288;数&#8288;量 | 原&#8288;始&#8288;总&#8288;数 | 增&#8288;加 | 去&#8288;除 | 去&#8288;重&#8288;率 | 上&#8288;游&#8288;明&#8288;细&nbsp;(&#8288;来&#8288;源/数&#8288;量&#8288;) | 客&#8288;户&#8288;端&#8288;文&#8288;件 |
@@ -1550,7 +1550,7 @@
 | **zto&#8209;express** | 13 | 0 | 13 | 0 | 0.0% | **-** | [Clash](https://github.com/peakpassvpn/rulesets/raw/publish/mihomo/zto-express.yaml) · [sing&#8209;box](https://github.com/peakpassvpn/rulesets/raw/publish/singbox/zto-express.srs) · [Surge](https://github.com/peakpassvpn/rulesets/raw/publish/surge/zto-express.list) · [Loon](https://github.com/peakpassvpn/rulesets/raw/publish/loon/zto-express.list) · [Shadowrocket](https://github.com/peakpassvpn/rulesets/raw/publish/shadowrocket/zto-express.list) · [Quantumult X](https://github.com/peakpassvpn/rulesets/raw/publish/quantumultx/zto-express.list) |
 | **zuoyebang** | 4 | 0 | 5 | 0 | 20.0% | **-** | [Clash](https://github.com/peakpassvpn/rulesets/raw/publish/mihomo/zuoyebang.yaml) · [sing&#8209;box](https://github.com/peakpassvpn/rulesets/raw/publish/singbox/zuoyebang.srs) · [Surge](https://github.com/peakpassvpn/rulesets/raw/publish/surge/zuoyebang.list) · [Loon](https://github.com/peakpassvpn/rulesets/raw/publish/loon/zuoyebang.list) · [Shadowrocket](https://github.com/peakpassvpn/rulesets/raw/publish/shadowrocket/zuoyebang.list) · [Quantumult X](https://github.com/peakpassvpn/rulesets/raw/publish/quantumultx/zuoyebang.list) |
 | **zynga** | 3 | 0 | 3 | 0 | 0.0% | **-** | [Clash](https://github.com/peakpassvpn/rulesets/raw/publish/mihomo/zynga.yaml) · [sing&#8209;box](https://github.com/peakpassvpn/rulesets/raw/publish/singbox/zynga.srs) · [Surge](https://github.com/peakpassvpn/rulesets/raw/publish/surge/zynga.list) · [Loon](https://github.com/peakpassvpn/rulesets/raw/publish/loon/zynga.list) · [Shadowrocket](https://github.com/peakpassvpn/rulesets/raw/publish/shadowrocket/zynga.list) · [Quantumult X](https://github.com/peakpassvpn/rulesets/raw/publish/quantumultx/zynga.list) |
-| **cn&#8209;ip** | 9648 | 0 | 9648 | 0 | 0.0% | **-** | [Clash](https://github.com/peakpassvpn/rulesets/raw/publish/mihomo/cn-ip.yaml) · [sing&#8209;box](https://github.com/peakpassvpn/rulesets/raw/publish/singbox/cn-ip.srs) · [Surge](https://github.com/peakpassvpn/rulesets/raw/publish/surge/cn-ip.list) · [Loon](https://github.com/peakpassvpn/rulesets/raw/publish/loon/cn-ip.list) · [Shadowrocket](https://github.com/peakpassvpn/rulesets/raw/publish/shadowrocket/cn-ip.list) · [Quantumult X](https://github.com/peakpassvpn/rulesets/raw/publish/quantumultx/cn-ip.list) |
+| **cn&#8209;ip** | 9656 | 0 | 9656 | 0 | 0.0% | **-** | [Clash](https://github.com/peakpassvpn/rulesets/raw/publish/mihomo/cn-ip.yaml) · [sing&#8209;box](https://github.com/peakpassvpn/rulesets/raw/publish/singbox/cn-ip.srs) · [Surge](https://github.com/peakpassvpn/rulesets/raw/publish/surge/cn-ip.list) · [Loon](https://github.com/peakpassvpn/rulesets/raw/publish/loon/cn-ip.list) · [Shadowrocket](https://github.com/peakpassvpn/rulesets/raw/publish/shadowrocket/cn-ip.list) · [Quantumult X](https://github.com/peakpassvpn/rulesets/raw/publish/quantumultx/cn-ip.list) |
 
 
 <!-- REPORT_END -->
