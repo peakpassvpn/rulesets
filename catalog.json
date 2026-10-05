@@ -3,13 +3,13 @@
   "sources": {
     "v2fly": {
       "repository": "v2fly/domain-list-community",
-      "commit": "2c892a618f4e23c549d28edd0f3f75407521b1aa",
+      "commit": "63777333b7dd1ac57f790e466c0f6a647b9c7281",
       "license": "MIT",
       "url": "https://github.com/v2fly/domain-list-community"
     },
     "china_ip": {
       "repository": "gaoyifan/china-operator-ip",
-      "commit": "c5f638aa2f229909aafcbbd8f220bb48b00c4eaa",
+      "commit": "de701b65b416711ae7c3797d403811b46ca066c8",
       "license": "MIT",
       "url": "https://github.com/gaoyifan/china-operator-ip"
     },

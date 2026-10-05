@@ -9773,6 +9773,7 @@ host-suffix,googleoptimize.com,geolocation-not-cn
 host-suffix,googlepagecreator.com,geolocation-not-cn
 host-suffix,googlephotos.com,geolocation-not-cn
 host-suffix,googleplay.com,geolocation-not-cn
+host-suffix,googleplaycensorship.com,geolocation-not-cn
 host-suffix,googleplus.com,geolocation-not-cn
 host-suffix,googlesource.com,geolocation-not-cn
 host-suffix,googlestore.com,geolocation-not-cn
