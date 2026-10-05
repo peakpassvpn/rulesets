@@ -19,7 +19,7 @@
     },
     "china_ip": {
       "repository": "gaoyifan/china-operator-ip",
-      "commit": "de701b65b416711ae7c3797d403811b46ca066c8",
+      "commit": "ced2363670ed2d64e12f6faf7f4431da9cf9504a",
       "license": "MIT",
       "url": "https://github.com/gaoyifan/china-operator-ip"
     },
@@ -23198,7 +23198,7 @@
     },
     {
       "path": "catalog.json",
-      "sha256": "70eda451bd97487794a18f07c10120a9803f5c68338856f540d209fccd7f2309",
+      "sha256": "9397f78f5568792333d9942db41802058d5c6459993a1882f65d849f82cceec4",
       "size": 1248456
     },
     {
@@ -25068,8 +25068,8 @@
     },
     {
       "path": "loon/cn-ip.list",
-      "sha256": "b1185abeeb6fe63f13828dd983b95746f9274f3ad98d33e33291cb7643e51976",
-      "size": 340760
+      "sha256": "f4843e5b4cc8f05266c48e95e3a7354d8a0161dbbb46548c47a3238ab19c01cb",
+      "size": 340756
     },
     {
       "path": "loon/cn.list",
@@ -32783,8 +32783,8 @@
     },
     {
       "path": "mihomo/cn-ip.yaml",
-      "sha256": "6c9eed6f2e89b5f5a907f604acd12395dc5bf0074ef16184f0fdb7fef58ff62d",
-      "size": 292495
+      "sha256": "a37739fd85aad8108db34cb3bc486ec57b1eb1f9e1110db1781f3f249a06b05d",
+      "size": 292491
     },
     {
       "path": "mihomo/cn.yaml",
@@ -40498,8 +40498,8 @@
     },
     {
       "path": "quantumultx/cn-ip.list",
-      "sha256": "fd94bac7bedc8bd30eda731ac12dfa36811d0e3b6959d3229dd3d8b4a90a1e2f",
-      "size": 292485
+      "sha256": "013fe84b5d09623ed004486d28ac0a580bce84dc6ea4e047bbd6a4e24cde94b6",
+      "size": 292481
     },
     {
       "path": "quantumultx/cn.list",
@@ -48213,8 +48213,8 @@
     },
     {
       "path": "shadowrocket/cn-ip.list",
-      "sha256": "b1185abeeb6fe63f13828dd983b95746f9274f3ad98d33e33291cb7643e51976",
-      "size": 340760
+      "sha256": "f4843e5b4cc8f05266c48e95e3a7354d8a0161dbbb46548c47a3238ab19c01cb",
+      "size": 340756
     },
     {
       "path": "shadowrocket/cn.list",
@@ -55928,8 +55928,8 @@
     },
     {
       "path": "singbox/cn-ip.srs",
-      "sha256": "70df527f64003d9554e240ab7ed1499517eabd6c73be4f33bd920cf41e2edae9",
-      "size": 36431
+      "sha256": "efa75623f5424f832703d30edbfdf26e26e63c0c145e7a10c4145d96245ccfcd",
+      "size": 36430
     },
     {
       "path": "singbox/cn.srs",
@@ -63643,8 +63643,8 @@
     },
     {
       "path": "surge/cn-ip.list",
-      "sha256": "b1185abeeb6fe63f13828dd983b95746f9274f3ad98d33e33291cb7643e51976",
-      "size": 340760
+      "sha256": "f4843e5b4cc8f05266c48e95e3a7354d8a0161dbbb46548c47a3238ab19c01cb",
+      "size": 340756
     },
     {
       "path": "surge/cn.list",
