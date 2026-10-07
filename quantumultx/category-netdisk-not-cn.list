@@ -24,6 +24,9 @@ host-suffix,livefilestore.com,category-netdisk-not-cn
 host-suffix,mega.co.nz,category-netdisk-not-cn
 host-suffix,mega.io,category-netdisk-not-cn
 host-suffix,mega.nz,category-netdisk-not-cn
+host-suffix,megaad.nz,category-netdisk-not-cn
+host-suffix,megapay.nz,category-netdisk-not-cn
+host-suffix,megas4.com,category-netdisk-not-cn
 host-suffix,mypikpak.com,category-netdisk-not-cn
 host-suffix,mypikpak.net,category-netdisk-not-cn
 host-suffix,nephobox.com,category-netdisk-not-cn
@@ -42,5 +45,6 @@ host-suffix,storage.live.com,category-netdisk-not-cn
 host-suffix,terabox.com,category-netdisk-not-cn
 host-suffix,terabox1024.com,category-netdisk-not-cn
 host-suffix,teraboxcdn.com,category-netdisk-not-cn
+host-suffix,transfer.it,category-netdisk-not-cn
 host-suffix,userdrive.org,category-netdisk-not-cn
 host-suffix,usersdrive.com,category-netdisk-not-cn
