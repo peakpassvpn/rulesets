@@ -78,13 +78,9 @@ host,clck.yandex.com,category-ads
 host,clck.yandex.net,category-ads
 host,clck.yango.com,category-ads
 host,click.rustore.ru,category-ads
-host,copilot-telemetry-service.githubusercontent.com,category-ads
-host,copilot-telemetry.githubusercontent.com,category-ads
 host,disney.my.sentry.io,category-ads
 host,error-tracking.megamarket.tech,category-ads
 host,google-analytics-suite.ozon.ru,category-ads
-host,incoming-telemetry.thunderbird.net,category-ads
-host,incoming.telemetry.mozilla.org,category-ads
 host,informer.yandex.ru,category-ads
 host,log-sdk.gifshow.com,category-ads
 host,log.strm.yandex.ru,category-ads
@@ -409,7 +405,6 @@ host-suffix,cm.baidu.com,category-ads
 host-suffix,cnaa123.com,category-ads
 host-suffix,cnlogs.umeng.com,category-ads
 host-suffix,cnlogs.umengcloud.com,category-ads
-host-suffix,collector.github.com,category-ads
 host-suffix,collector.xhamster.com,category-ads
 host-suffix,config.uca.cloud.unity3d.com,category-ads
 host-suffix,contentabc.com,category-ads
@@ -512,8 +507,6 @@ host-suffix,googlevads-cn.com,category-ads
 host-suffix,gozendata.com,category-ads
 host-suffix,graph-fallback.instagram.com,category-ads
 host-suffix,graph.instagram.com,category-ads
-host-suffix,graph.whatsapp.com,category-ads
-host-suffix,graph.whatsapp.net,category-ads
 host-suffix,gs.amplitude.com,category-ads
 host-suffix,gs.eu.amplitude.com,category-ads
 host-suffix,guanggaoad.youku.com,category-ads
