@@ -3,17 +3,17 @@
   "sources": {
     "v2fly": {
       "repository": "v2fly/domain-list-community",
-      "commit": "e84921279c9142434b43cb84ec6c17f987e025df",
+      "commit": "c6adacf29cc4fb05e04651fcf03e00989ef9f797",
       "license": "MIT",
       "url": "https://github.com/v2fly/domain-list-community"
     },
     "china_ip": {
       "repository": "gaoyifan/china-operator-ip",
-      "commit": "8a2e9ee68e2ee790acfdfc949d639b091f81515d",
+      "commit": "f977b1c75a73b3146d65c2f5f25cd0c3353dede4",
       "license": "MIT",
       "url": "https://github.com/gaoyifan/china-operator-ip"
     },
-    "ruleset_count": 1543
+    "ruleset_count": 1546
   },
   "rulesets": [
     {
@@ -6947,6 +6947,39 @@
       }
     },
     {
+      "id": "category-ads-and-telemetry",
+      "upstream_key": "category-ads-and-telemetry",
+      "behavior": "domain",
+      "group": "category",
+      "clients": {
+        "clash": {
+          "path": "mihomo/category-ads-and-telemetry.yaml",
+          "format": "yaml"
+        },
+        "singbox": {
+          "path": "singbox/category-ads-and-telemetry.srs",
+          "format": "srs"
+        },
+        "surge": {
+          "path": "surge/category-ads-and-telemetry.list",
+          "format": "text"
+        },
+        "loon": {
+          "path": "loon/category-ads-and-telemetry.list",
+          "format": "text"
+        },
+        "shadowrocket": {
+          "path": "shadowrocket/category-ads-and-telemetry.list",
+          "format": "text"
+        },
+        "quantumultx": {
+          "path": "quantumultx/category-ads-and-telemetry.list",
+          "format": "text",
+          "requires_force_policy": true
+        }
+      }
+    },
+    {
       "id": "category-ads-ir",
       "upstream_key": "category-ads-ir",
       "behavior": "domain",
@@ -10472,6 +10505,39 @@
         },
         "quantumultx": {
           "path": "quantumultx/category-tech-media-ru.list",
+          "format": "text",
+          "requires_force_policy": true
+        }
+      }
+    },
+    {
+      "id": "category-telemetry",
+      "upstream_key": "category-telemetry",
+      "behavior": "domain",
+      "group": "category",
+      "clients": {
+        "clash": {
+          "path": "mihomo/category-telemetry.yaml",
+          "format": "yaml"
+        },
+        "singbox": {
+          "path": "singbox/category-telemetry.srs",
+          "format": "srs"
+        },
+        "surge": {
+          "path": "surge/category-telemetry.list",
+          "format": "text"
+        },
+        "loon": {
+          "path": "loon/category-telemetry.list",
+          "format": "text"
+        },
+        "shadowrocket": {
+          "path": "shadowrocket/category-telemetry.list",
+          "format": "text"
+        },
+        "quantumultx": {
+          "path": "quantumultx/category-telemetry.list",
           "format": "text",
           "requires_force_policy": true
         }
@@ -38654,6 +38720,39 @@
         },
         "quantumultx": {
           "path": "quantumultx/sber.list",
+          "format": "text",
+          "requires_force_policy": true
+        }
+      }
+    },
+    {
+      "id": "sberbank",
+      "upstream_key": "sberbank",
+      "behavior": "domain",
+      "group": "service",
+      "clients": {
+        "clash": {
+          "path": "mihomo/sberbank.yaml",
+          "format": "yaml"
+        },
+        "singbox": {
+          "path": "singbox/sberbank.srs",
+          "format": "srs"
+        },
+        "surge": {
+          "path": "surge/sberbank.list",
+          "format": "text"
+        },
+        "loon": {
+          "path": "loon/sberbank.list",
+          "format": "text"
+        },
+        "shadowrocket": {
+          "path": "shadowrocket/sberbank.list",
+          "format": "text"
+        },
+        "quantumultx": {
+          "path": "quantumultx/sberbank.list",
           "format": "text",
           "requires_force_policy": true
         }

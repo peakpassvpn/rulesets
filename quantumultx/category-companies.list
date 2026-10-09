@@ -1586,6 +1586,7 @@ host-suffix,behindthescreenz.com,category-companies
 host-suffix,bellsouth.net,category-companies
 host-suffix,berizaryad.ru,category-companies
 host-suffix,berkanawireless.com,category-companies
+host-suffix,beru.ru,category-companies
 host-suffix,best4bim.com,category-companies
 host-suffix,bestbeats4u.com,category-companies
 host-suffix,bestbim.com,category-companies
@@ -1726,6 +1727,7 @@ host-suffix,bluemix.com,category-companies
 host-suffix,bluemix.net,category-companies
 host-suffix,blurams.app,category-companies
 host-suffix,blurams.com,category-companies
+host-suffix,bookmate.ru,category-companies
 host-suffix,bookonsky.net,category-companies
 host-suffix,bookstagram.com,category-companies
 host-suffix,boom.ru,category-companies
@@ -2276,6 +2278,7 @@ host-suffix,delcamna.com,category-companies
 host-suffix,delcamtv.com,category-companies
 host-suffix,delcamuniversity.com,category-companies
 host-suffix,delcamusa.com,category-companies
+host-suffix,delivery-club.ru,category-companies
 host-suffix,dell,category-companies
 host-suffix,dell-alw.com,category-companies
 host-suffix,dell-brand.com,category-companies
@@ -2686,6 +2689,7 @@ host-suffix,ecotect.com,category-companies
 host-suffix,ecotect.net,category-companies
 host-suffix,ecscad.com,category-companies
 host-suffix,ecspublisher.com,category-companies
+host-suffix,edadeal.ru,category-companies
 host-suffix,edgefonts.net,category-companies
 host-suffix,edu-research.org,category-companies
 host-suffix,education-cadcam.com,category-companies
@@ -3149,6 +3153,7 @@ host-suffix,fnacebook.com,category-companies
 host-suffix,foftolia.com,category-companies
 host-suffix,followpype.com,category-companies
 host-suffix,fonolia.com,category-companies
+host-suffix,foodfox.ru,category-companies
 host-suffix,foofle.com,category-companies
 host-suffix,footprintdns.com,category-companies
 host-suffix,footwear-cadcam.com,category-companies
@@ -4947,6 +4952,7 @@ host-suffix,map-software.com,category-companies
 host-suffix,mapguide.com,category-companies
 host-suffix,mappingonline.com,category-companies
 host-suffix,marinecadcam.com,category-companies
+host-suffix,market.ru,category-companies
 host-suffix,marketing-cloud.com,category-companies
 host-suffix,marketing-nirvana.com,category-companies
 host-suffix,marketingcloud.com,category-companies
@@ -6065,6 +6071,7 @@ host-suffix,rustdesk.com,category-companies
 host-suffix,rustore.ru,category-companies
 host-suffix,rustore.team,category-companies
 host-suffix,rustore.tv,category-companies
+host-suffix,rutaxi.ru,category-companies
 host-suffix,rzr.to,category-companies
 host-suffix,s-bluemix.net,category-companies
 host-suffix,s-cashonmobile.com,category-companies
@@ -6197,6 +6204,8 @@ host-suffix,sharepoint.com,category-companies
 host-suffix,sharepointonline.com,category-companies
 host-suffix,shazam.com,category-companies
 host-suffix,shedevrum.ai,category-companies
+host-suffix,shedevrum.com,category-companies
+host-suffix,shedevrum.ru,category-companies
 host-suffix,sheets.new,category-companies
 host-suffix,shisho.dev,category-companies
 host-suffix,shoers.com,category-companies
@@ -6576,6 +6585,7 @@ host-suffix,theinstagramhack.com,category-companies
 host-suffix,theintelstore.com,category-companies
 host-suffix,theinventionworks.com,category-companies
 host-suffix,theinventionworks.net,category-companies
+host-suffix,thequestion.ru,category-companies
 host-suffix,theuab.net,category-companies
 host-suffix,thinkboxsoftware.com,category-companies
 host-suffix,thinkdifferent.us,category-companies
@@ -6810,6 +6820,7 @@ host-suffix,verizonfios.com,category-companies
 host-suffix,verizonmedia.com,category-companies
 host-suffix,verizonwireless.com,category-companies
 host-suffix,versly.com,category-companies
+host-suffix,vezet.ru,category-companies
 host-suffix,vfabric.net,category-companies
 host-suffix,vfsforgit.com,category-companies
 host-suffix,vfsforgit.org,category-companies
@@ -7201,6 +7212,7 @@ host-suffix,xtracloud.net,category-companies
 host-suffix,xuite.net,category-companies
 host-suffix,ya.cc,category-companies
 host-suffix,ya.ru,category-companies
+host-suffix,yadi.sk,category-companies
 host-suffix,yads.tech,category-companies
 host-suffix,yahoo,category-companies
 host-suffix,yahoo-news.com.hk,category-companies
@@ -7367,8 +7379,10 @@ host-suffix,yamaxun.cn,category-companies
 host-suffix,yamaxun.com,category-companies
 host-suffix,yammer.com,category-companies
 host-suffix,yandex,category-companies
+host-suffix,yandex-ad.cn,category-companies
 host-suffix,yandex-bank.net,category-companies
 host-suffix,yandex-metrica.ru,category-companies
+host-suffix,yandex-team.com,category-companies
 host-suffix,yandex-team.ru,category-companies
 host-suffix,yandex.aero,category-companies
 host-suffix,yandex.asia,category-companies
@@ -7393,22 +7407,29 @@ host-suffix,yandex.kg,category-companies
 host-suffix,yandex.kz,category-companies
 host-suffix,yandex.lt,category-companies
 host-suffix,yandex.lv,category-companies
+host-suffix,yandex.market,category-companies
 host-suffix,yandex.md,category-companies
 host-suffix,yandex.mobi,category-companies
 host-suffix,yandex.net,category-companies
+host-suffix,yandex.net.ru,category-companies
 host-suffix,yandex.org,category-companies
 host-suffix,yandex.pl,category-companies
+host-suffix,yandex.pro,category-companies
 host-suffix,yandex.ru,category-companies
 host-suffix,yandex.st,category-companies
 host-suffix,yandex.sx,category-companies
+host-suffix,yandex.taxi,category-companies
 host-suffix,yandex.tj,category-companies
 host-suffix,yandex.tm,category-companies
 host-suffix,yandex.tr,category-companies
+host-suffix,yandex.travel,category-companies
 host-suffix,yandex.ua,category-companies
 host-suffix,yandex.uz,category-companies
 host-suffix,yandexadexchange.net,category-companies
 host-suffix,yandexcloud.net,category-companies
 host-suffix,yandexcom.net,category-companies
+host-suffix,yandexdataschool.com,category-companies
+host-suffix,yandexdataschool.ru,category-companies
 host-suffix,yandexgo.com,category-companies
 host-suffix,yandexlyceum.ru,category-companies
 host-suffix,yandexmetrica.com,category-companies
@@ -7433,6 +7454,7 @@ host-suffix,yastatic-net.ru,category-companies
 host-suffix,yastatic.net,category-companies
 host-suffix,yccdn.ru,category-companies
 host-suffix,yclients.com,category-companies
+host-suffix,ydb.tech,category-companies
 host-suffix,yho.com,category-companies
 host-suffix,yimg.com,category-companies
 host-suffix,yimg.jp,category-companies

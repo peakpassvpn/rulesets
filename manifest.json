@@ -13,21 +13,21 @@
   "sources": {
     "v2fly": {
       "repository": "v2fly/domain-list-community",
-      "commit": "e84921279c9142434b43cb84ec6c17f987e025df",
+      "commit": "c6adacf29cc4fb05e04651fcf03e00989ef9f797",
       "license": "MIT",
       "url": "https://github.com/v2fly/domain-list-community"
     },
     "china_ip": {
       "repository": "gaoyifan/china-operator-ip",
-      "commit": "8a2e9ee68e2ee790acfdfc949d639b091f81515d",
+      "commit": "f977b1c75a73b3146d65c2f5f25cd0c3353dede4",
       "license": "MIT",
       "url": "https://github.com/gaoyifan/china-operator-ip"
     },
-    "ruleset_count": 1543
+    "ruleset_count": 1546
   },
   "verification": {
     "status": "passed",
-    "ruleset_count": 1543,
+    "ruleset_count": 1546,
     "checks": {
       "mihomo_config": "passed",
       "singbox_srs_decompile": "passed"
@@ -3154,33 +3154,48 @@
         }
       },
       "category-ads": {
-        "canonical_count": 844,
-        "portable_count": 843,
+        "canonical_count": 843,
+        "portable_count": 842,
         "omitted_from_portable_clients": {
           "unsupported_rules": 1
         },
         "clients": {
-          "mihomo": 844,
-          "singbox": 844,
-          "surge": 843,
-          "loon": 843,
-          "shadowrocket": 843,
-          "quantumultx": 843
+          "mihomo": 843,
+          "singbox": 843,
+          "surge": 842,
+          "loon": 842,
+          "shadowrocket": 842,
+          "quantumultx": 842
         }
       },
       "category-ads-all": {
-        "canonical_count": 901,
-        "portable_count": 900,
+        "canonical_count": 900,
+        "portable_count": 899,
         "omitted_from_portable_clients": {
           "unsupported_rules": 1
         },
         "clients": {
-          "mihomo": 901,
-          "singbox": 901,
-          "surge": 900,
-          "loon": 900,
-          "shadowrocket": 900,
-          "quantumultx": 900
+          "mihomo": 900,
+          "singbox": 900,
+          "surge": 899,
+          "loon": 899,
+          "shadowrocket": 899,
+          "quantumultx": 899
+        }
+      },
+      "category-ads-and-telemetry": {
+        "canonical_count": 849,
+        "portable_count": 848,
+        "omitted_from_portable_clients": {
+          "unsupported_rules": 1
+        },
+        "clients": {
+          "mihomo": 849,
+          "singbox": 849,
+          "surge": 848,
+          "loon": 848,
+          "shadowrocket": 848,
+          "quantumultx": 848
         }
       },
       "category-ads-ir": {
@@ -3199,33 +3214,33 @@
         }
       },
       "category-ai-not-cn": {
-        "canonical_count": 189,
-        "portable_count": 188,
+        "canonical_count": 190,
+        "portable_count": 189,
         "omitted_from_portable_clients": {
           "unsupported_rules": 1
         },
         "clients": {
-          "mihomo": 189,
-          "singbox": 189,
-          "surge": 188,
-          "loon": 188,
-          "shadowrocket": 188,
-          "quantumultx": 188
+          "mihomo": 190,
+          "singbox": 190,
+          "surge": 189,
+          "loon": 189,
+          "shadowrocket": 189,
+          "quantumultx": 189
         }
       },
       "category-ai-chat-not-cn": {
-        "canonical_count": 189,
-        "portable_count": 188,
+        "canonical_count": 190,
+        "portable_count": 189,
         "omitted_from_portable_clients": {
           "unsupported_rules": 1
         },
         "clients": {
-          "mihomo": 189,
-          "singbox": 189,
-          "surge": 188,
-          "loon": 188,
-          "shadowrocket": 188,
-          "quantumultx": 188
+          "mihomo": 190,
+          "singbox": 190,
+          "surge": 189,
+          "loon": 189,
+          "shadowrocket": 189,
+          "quantumultx": 189
         }
       },
       "category-ai-cn": {
@@ -3379,18 +3394,18 @@
         }
       },
       "category-bank-ru": {
-        "canonical_count": 304,
-        "portable_count": 304,
+        "canonical_count": 351,
+        "portable_count": 351,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 304,
-          "singbox": 304,
-          "surge": 304,
-          "loon": 304,
-          "shadowrocket": 304,
-          "quantumultx": 304
+          "mihomo": 351,
+          "singbox": 351,
+          "surge": 351,
+          "loon": 351,
+          "shadowrocket": 351,
+          "quantumultx": 351
         }
       },
       "category-betting-ru": {
@@ -3529,18 +3544,18 @@
         }
       },
       "category-companies": {
-        "canonical_count": 7655,
-        "portable_count": 7652,
+        "canonical_count": 7677,
+        "portable_count": 7674,
         "omitted_from_portable_clients": {
           "unsupported_rules": 3
         },
         "clients": {
-          "mihomo": 7655,
-          "singbox": 7655,
-          "surge": 7652,
-          "loon": 7652,
-          "shadowrocket": 7652,
-          "quantumultx": 7652
+          "mihomo": 7677,
+          "singbox": 7677,
+          "surge": 7674,
+          "loon": 7674,
+          "shadowrocket": 7674,
+          "quantumultx": 7674
         }
       },
       "category-consent-management": {
@@ -3844,18 +3859,18 @@
         }
       },
       "category-finance": {
-        "canonical_count": 606,
-        "portable_count": 606,
+        "canonical_count": 653,
+        "portable_count": 653,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 606,
-          "singbox": 606,
-          "surge": 606,
-          "loon": 606,
-          "shadowrocket": 606,
-          "quantumultx": 606
+          "mihomo": 653,
+          "singbox": 653,
+          "surge": 653,
+          "loon": 653,
+          "shadowrocket": 653,
+          "quantumultx": 653
         }
       },
       "category-food-cn": {
@@ -4549,18 +4564,18 @@
         }
       },
       "category-ru": {
-        "canonical_count": 820,
-        "portable_count": 820,
+        "canonical_count": 799,
+        "portable_count": 799,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 820,
-          "singbox": 820,
-          "surge": 820,
-          "loon": 820,
-          "shadowrocket": 820,
-          "quantumultx": 820
+          "mihomo": 799,
+          "singbox": 799,
+          "surge": 799,
+          "loon": 799,
+          "shadowrocket": 799,
+          "quantumultx": 799
         }
       },
       "category-scholar-not-cn": {
@@ -4786,6 +4801,21 @@
           "loon": 34,
           "shadowrocket": 34,
           "quantumultx": 34
+        }
+      },
+      "category-telemetry": {
+        "canonical_count": 6,
+        "portable_count": 6,
+        "omitted_from_portable_clients": {
+          "unsupported_rules": 0
+        },
+        "clients": {
+          "mihomo": 6,
+          "singbox": 6,
+          "surge": 6,
+          "loon": 6,
+          "shadowrocket": 6,
+          "quantumultx": 6
         }
       },
       "category-tm": {
@@ -8854,18 +8884,18 @@
         }
       },
       "geolocation-not-cn": {
-        "canonical_count": 24271,
-        "portable_count": 24126,
+        "canonical_count": 24356,
+        "portable_count": 24211,
         "omitted_from_portable_clients": {
           "unsupported_rules": 145
         },
         "clients": {
-          "mihomo": 24271,
-          "singbox": 24271,
-          "surge": 24126,
-          "loon": 24126,
-          "shadowrocket": 24126,
-          "quantumultx": 24126
+          "mihomo": 24356,
+          "singbox": 24356,
+          "surge": 24211,
+          "loon": 24211,
+          "shadowrocket": 24211,
+          "quantumultx": 24211
         }
       },
       "geolocation-cn": {
@@ -17584,18 +17614,33 @@
         }
       },
       "sber": {
-        "canonical_count": 91,
-        "portable_count": 91,
+        "canonical_count": 93,
+        "portable_count": 93,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 91,
-          "singbox": 91,
-          "surge": 91,
-          "loon": 91,
-          "shadowrocket": 91,
-          "quantumultx": 91
+          "mihomo": 93,
+          "singbox": 93,
+          "surge": 93,
+          "loon": 93,
+          "shadowrocket": 93,
+          "quantumultx": 93
+        }
+      },
+      "sberbank": {
+        "canonical_count": 15,
+        "portable_count": 15,
+        "omitted_from_portable_clients": {
+          "unsupported_rules": 0
+        },
+        "clients": {
+          "mihomo": 15,
+          "singbox": 15,
+          "surge": 15,
+          "loon": 15,
+          "shadowrocket": 15,
+          "quantumultx": 15
         }
       },
       "scala": {
@@ -22474,18 +22519,18 @@
         }
       },
       "yandex": {
-        "canonical_count": 99,
-        "portable_count": 99,
+        "canonical_count": 121,
+        "portable_count": 121,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 99,
-          "singbox": 99,
-          "surge": 99,
-          "loon": 99,
-          "shadowrocket": 99,
-          "quantumultx": 99
+          "mihomo": 121,
+          "singbox": 121,
+          "surge": 121,
+          "loon": 121,
+          "shadowrocket": 121,
+          "quantumultx": 121
         }
       },
       "ycombinator": {
@@ -23164,18 +23209,18 @@
         }
       },
       "cn-ip": {
-        "canonical_count": 9997,
-        "portable_count": 9997,
+        "canonical_count": 9994,
+        "portable_count": 9994,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 9997,
-          "singbox": 9997,
-          "surge": 9997,
-          "loon": 9997,
-          "shadowrocket": 9997,
-          "quantumultx": 9997
+          "mihomo": 9994,
+          "singbox": 9994,
+          "surge": 9994,
+          "loon": 9994,
+          "shadowrocket": 9994,
+          "quantumultx": 9994
         }
       }
     }
@@ -23193,13 +23238,13 @@
     },
     {
       "path": "README.md",
-      "sha256": "a17bb5984589b1597af2cc3eadcaa91e17328281be3cf7cd8fdf5642cba41eb4",
-      "size": 911918
+      "sha256": "c7905c0b358f40959c7839c1fa0dc4cab2e6227d239f8d635314f083bf4b75d0",
+      "size": 913908
     },
     {
       "path": "catalog.json",
-      "sha256": "d762643132e576c8683965daf609ce71e6ff1cea99cc71527eef701203f2732b",
-      "size": 1248456
+      "sha256": "90e2f51f1bd80f7e505063622b02415f2084fc777d24df463e3c32645bc07174",
+      "size": 1251103
     },
     {
       "path": "loon/0x0.list",
@@ -24243,8 +24288,13 @@
     },
     {
       "path": "loon/category-ads-all.list",
-      "sha256": "a90431b768c2041ebf8ebe008d93227c638131566dfd88bddfa1210a964e49da",
-      "size": 27325
+      "sha256": "bee52ff6f48509246ec2715941ed47d914f780c9be20c24112d85eaca4823352",
+      "size": 27296
+    },
+    {
+      "path": "loon/category-ads-and-telemetry.list",
+      "sha256": "0b2819378ad5860cec1f038b5d68a3ff15c7a3c256007c35db1c17a491d8da16",
+      "size": 26018
     },
     {
       "path": "loon/category-ads-ir.list",
@@ -24253,13 +24303,13 @@
     },
     {
       "path": "loon/category-ads.list",
-      "sha256": "b619c2a846a0ba87f7adb9a2329427e95fcc103d4e693d93f4be536e0d74b3b4",
-      "size": 25800
+      "sha256": "9e7d49c279f2f47cd8553246904ac24fd07d50f9e6f2a031d0d99ef7793f71a3",
+      "size": 25771
     },
     {
       "path": "loon/category-ai-chat-not-cn.list",
-      "sha256": "30b4ee87ef712bfed56f4c332e906e18f53f9e7280c543f3a58d7a9c9a307038",
-      "size": 5723
+      "sha256": "ce526bef60e50a2d91b261716a4e24cc42d9fad03e2a8ff6208e824b97145820",
+      "size": 5746
     },
     {
       "path": "loon/category-ai-cn.list",
@@ -24268,8 +24318,8 @@
     },
     {
       "path": "loon/category-ai-not-cn.list",
-      "sha256": "30b4ee87ef712bfed56f4c332e906e18f53f9e7280c543f3a58d7a9c9a307038",
-      "size": 5723
+      "sha256": "ce526bef60e50a2d91b261716a4e24cc42d9fad03e2a8ff6208e824b97145820",
+      "size": 5746
     },
     {
       "path": "loon/category-ai-ru.list",
@@ -24318,8 +24368,8 @@
     },
     {
       "path": "loon/category-bank-ru.list",
-      "sha256": "74f3071b843c3444de13fe0ce77bbc656c6fcd6c13a53940984b8cb0b79b0364",
-      "size": 8237
+      "sha256": "9d6b66dacd5bf8f0a89ca64be2e546679162213035c899676b41b79239243363",
+      "size": 9416
     },
     {
       "path": "loon/category-betting-ru.list",
@@ -24368,8 +24418,8 @@
     },
     {
       "path": "loon/category-companies.list",
-      "sha256": "eb17ed7858a90750d83ce459b0891f192d571117ef859786efec9b02891d95ca",
-      "size": 223326
+      "sha256": "663a774c94cdd9595a3229a6638a31a74ae1399db048e67e8b7609588b62ed6c",
+      "size": 223916
     },
     {
       "path": "loon/category-consent-management.list",
@@ -24473,8 +24523,8 @@
     },
     {
       "path": "loon/category-finance.list",
-      "sha256": "a3c046e1de0256eeeb8c0dea6bb14df53730c55f539dbb85108b63e2d7b54d4a",
-      "size": 16800
+      "sha256": "ff3b09430046a3adba43ec811ab5a677c7cbf79b25ee7c02b949ffd7dced3668",
+      "size": 17979
     },
     {
       "path": "loon/category-food-cn.list",
@@ -24708,8 +24758,8 @@
     },
     {
       "path": "loon/category-ru.list",
-      "sha256": "8f3fbfaf983ba20f28d0f9b6e6c083285f903afbf5663e065a5278cb001c1aff",
-      "size": 21802
+      "sha256": "a47ed93313d1bcbf7cbd45c1e4d4e5a26268463e46224bd8560f4cf33a811098",
+      "size": 21281
     },
     {
       "path": "loon/category-scholar-cn.list",
@@ -24785,6 +24835,11 @@
       "path": "loon/category-tech-media.list",
       "sha256": "ef674056ecf69306bc32edaf023216666f53f65f59bfbfa21148a632c4cb7dfe",
       "size": 750
+    },
+    {
+      "path": "loon/category-telemetry.list",
+      "sha256": "e4e7cf3477c990a7cd720f910b9a0af5376b199276139a94957f11aa9a25298d",
+      "size": 246
     },
     {
       "path": "loon/category-tm.list",
@@ -25068,8 +25123,8 @@
     },
     {
       "path": "loon/cn-ip.list",
-      "sha256": "d02789d850f20ed05fc6786738e371e73e44154e885a81dfc48dac6dbc732daf",
-      "size": 352401
+      "sha256": "a65d1c7be53a12922b236f40ec0f863e4b138b666833a4ec7e615e904c37caa5",
+      "size": 352292
     },
     {
       "path": "loon/cn.list",
@@ -26153,8 +26208,8 @@
     },
     {
       "path": "loon/geolocation-not-cn.list",
-      "sha256": "aca9b3630b862c2c3f87bb93b4df45cb2a9397d9bd4714684b069e1c7115ce0a",
-      "size": 691324
+      "sha256": "b36df860c40f63621d48808c64cfc83d90cbb0533ec03febad30ca5f597bcff6",
+      "size": 693447
     },
     {
       "path": "loon/gettyimages.list",
@@ -29058,8 +29113,13 @@
     },
     {
       "path": "loon/sber.list",
-      "sha256": "fe6873d985cc8ec01c14918916b8ab3aedca5d537260e5ef8cb7c0bdc0a55512",
-      "size": 2408
+      "sha256": "397fc7d580d128ab95d88fe3b1fd2a14fdba67d41e87c304f282bf1da233d3ed",
+      "size": 2460
+    },
+    {
+      "path": "loon/sberbank.list",
+      "sha256": "2c1f9b060d3fe04e484842eff2be5b3c8f34b63044f474a6cd52ea6490926013",
+      "size": 406
     },
     {
       "path": "loon/scala.list",
@@ -30688,8 +30748,8 @@
     },
     {
       "path": "loon/yandex.list",
-      "sha256": "3753f20c2f9b5f0aea30b62db315bd09576eb675ece741ccb75dcbff3760e43b",
-      "size": 2623
+      "sha256": "9a25db33b780804cd0b53a92a4aad7d71a547ca3a0a3c7b0768e85ab2a6c733c",
+      "size": 3213
     },
     {
       "path": "loon/ycombinator.list",
@@ -31958,8 +32018,13 @@
     },
     {
       "path": "mihomo/category-ads-all.yaml",
-      "sha256": "d33a15d29a942fe3b2eab74a40bfcf581f8237df7a208bdff100508a94b31072",
-      "size": 32821
+      "sha256": "60b56f629d9abf81967448e88ccf41f60c87a3a25ed182ef2d3d6adfbb9ffee0",
+      "size": 32786
+    },
+    {
+      "path": "mihomo/category-ads-and-telemetry.yaml",
+      "sha256": "64f8cdc95a3b983f7a62cef6a387c0b1c81ee0803c5aa6ae4bab365fbb8b6e0b",
+      "size": 31202
     },
     {
       "path": "mihomo/category-ads-ir.yaml",
@@ -31968,13 +32033,13 @@
     },
     {
       "path": "mihomo/category-ads.yaml",
-      "sha256": "264dca564098fe6230b4b87c0066b92bf8ff00d6a9d4dc492a82eb7217bb8cd5",
-      "size": 30954
+      "sha256": "23c83a35d76764a013de1acfeec2682197b4b9b899dcbd96aa42de8d30499465",
+      "size": 30919
     },
     {
       "path": "mihomo/category-ai-chat-not-cn.yaml",
-      "sha256": "d5fdfc153235d029f16985d628089823cfd0086a3b80cd200a1ab4dadb189583",
-      "size": 6938
+      "sha256": "73aa4689883465c95d3bb6820797e0545baa373a2c54d5eb94a5f72aea47944e",
+      "size": 6967
     },
     {
       "path": "mihomo/category-ai-cn.yaml",
@@ -31983,8 +32048,8 @@
     },
     {
       "path": "mihomo/category-ai-not-cn.yaml",
-      "sha256": "d5fdfc153235d029f16985d628089823cfd0086a3b80cd200a1ab4dadb189583",
-      "size": 6938
+      "sha256": "73aa4689883465c95d3bb6820797e0545baa373a2c54d5eb94a5f72aea47944e",
+      "size": 6967
     },
     {
       "path": "mihomo/category-ai-ru.yaml",
@@ -32033,8 +32098,8 @@
     },
     {
       "path": "mihomo/category-bank-ru.yaml",
-      "sha256": "1a0d1c3432fad6d129be4fa3381e4fe008839c6957ba1e8adb08b8c85c4100b7",
-      "size": 10071
+      "sha256": "99ac885655dc462cd6105881a6bc7350f9c9d8f20cd7c193c1389420f57d5af4",
+      "size": 11532
     },
     {
       "path": "mihomo/category-betting-ru.yaml",
@@ -32083,8 +32148,8 @@
     },
     {
       "path": "mihomo/category-companies.yaml",
-      "sha256": "e3100f5bd8c4f0094e90ffcc673b8c928ce62ce3ed74d2345576f2592c174f1d",
-      "size": 269428
+      "sha256": "6485958270209b1a159cbc0a18046ef93ad6aaf8b58bd54be358f0016c9b0185",
+      "size": 270150
     },
     {
       "path": "mihomo/category-consent-management.yaml",
@@ -32188,8 +32253,8 @@
     },
     {
       "path": "mihomo/category-finance.yaml",
-      "sha256": "2ab0663013db473c3b145e29824c0afa45f8cc588cff9db1309adc01e326eab6",
-      "size": 20446
+      "sha256": "26bae66ee32be16067de1971c95efd63ec9c2b80326c5dbda4954768ad4d4bce",
+      "size": 21907
     },
     {
       "path": "mihomo/category-food-cn.yaml",
@@ -32423,8 +32488,8 @@
     },
     {
       "path": "mihomo/category-ru.yaml",
-      "sha256": "cc6cea3307438f04f524da3f69e91829b2cc78798a87d88d3f903149eb25162b",
-      "size": 26732
+      "sha256": "55ada0bf48bd632950339a12c6935c794f81d7a76a2283be10855266e03a114a",
+      "size": 26085
     },
     {
       "path": "mihomo/category-scholar-cn.yaml",
@@ -32500,6 +32565,11 @@
       "path": "mihomo/category-tech-media.yaml",
       "sha256": "a4a628fdce3e0c3d28a75913e694c5f4846ab52f884ace34513603f062360390",
       "size": 916
+    },
+    {
+      "path": "mihomo/category-telemetry.yaml",
+      "sha256": "f646fc1e2f4d32618a4d61fb731d902c562d30be455f3484b65b85edf750fb3f",
+      "size": 292
     },
     {
       "path": "mihomo/category-tm.yaml",
@@ -32783,8 +32853,8 @@
     },
     {
       "path": "mihomo/cn-ip.yaml",
-      "sha256": "013006e5fd8d396a83a1b423453212fffd89825ea6b9a2a5f67f86ef61449504",
-      "size": 302426
+      "sha256": "c3a9ee9b74c163bcfe40a1970674866c70e035de48ea14408a1bb83f1c20527c",
+      "size": 302332
     },
     {
       "path": "mihomo/cn.yaml",
@@ -33868,8 +33938,8 @@
     },
     {
       "path": "mihomo/geolocation-not-cn.yaml",
-      "sha256": "580ebfac1bae57eff5d65c8f6be65a1e2429b0970b8ed519b9eee0a6ae400fdc",
-      "size": 842967
+      "sha256": "6296cbaa97866d7fb8bfd435657a772abcd58e2ef9f699316797f921235f079e",
+      "size": 845600
     },
     {
       "path": "mihomo/gettyimages.yaml",
@@ -36773,8 +36843,13 @@
     },
     {
       "path": "mihomo/sber.yaml",
-      "sha256": "08d8f4260cce1a0e39898d144b53a8d11fb8d40df8e0e097396117b0df68c93a",
-      "size": 2964
+      "sha256": "1fd8df8cc93b5fc3f47075c0965292c12d959ad51606e46fd1515939a9ae824f",
+      "size": 3028
+    },
+    {
+      "path": "mihomo/sberbank.yaml",
+      "sha256": "bd930f69e2a5bab72f4915ff132ce31d289e228eade6c1a7606124539ffb911f",
+      "size": 506
     },
     {
       "path": "mihomo/scala.yaml",
@@ -38403,8 +38478,8 @@
     },
     {
       "path": "mihomo/yandex.yaml",
-      "sha256": "209124940cfca3f92b62159943f13aca589699d4c59a6b071dfbffcba0cbddfe",
-      "size": 3227
+      "sha256": "939d4d0b46d4262256acdb3626b4f167102e89b6a62d0e37c6bfdfa2c148e81c",
+      "size": 3949
     },
     {
       "path": "mihomo/ycombinator.yaml",
@@ -39673,8 +39748,13 @@
     },
     {
       "path": "quantumultx/category-ads-all.list",
-      "sha256": "1d7d521d9f0936457576b51a92e941ace171b39ec70e7fccc7188b600da6ef53",
-      "size": 40825
+      "sha256": "89d472b2bc4521dba32b02793d2e998693f391902c6144840cf9dd0006e1e6a1",
+      "size": 40781
+    },
+    {
+      "path": "quantumultx/category-ads-and-telemetry.list",
+      "sha256": "620b0d0ce18686cc5bdf83e9b795606b8dfc05ca8eb00d9d67f9e4f931a47e8d",
+      "size": 47218
     },
     {
       "path": "quantumultx/category-ads-ir.list",
@@ -39683,13 +39763,13 @@
     },
     {
       "path": "quantumultx/category-ads.list",
-      "sha256": "79bd9f4a4fb941a24ceec792345b90feaddb4a7bcb5792a097e38c1fa95f26d2",
-      "size": 35073
+      "sha256": "b1c467c7bc1ed0f41e7cdf19e7aa07c43677c00884e6bfb753053d4d22f9b754",
+      "size": 35033
     },
     {
       "path": "quantumultx/category-ai-chat-not-cn.list",
-      "sha256": "8e3e7e6f1476f81a0e8d6205582f71ee9eac8c5c7fb63bf836202d34074c25a1",
-      "size": 9859
+      "sha256": "714b144b5f23f9cdeb4685a155e7a2a19cd64c7c1385498e6e8acdd9b5015f60",
+      "size": 9904
     },
     {
       "path": "quantumultx/category-ai-cn.list",
@@ -39698,8 +39778,8 @@
     },
     {
       "path": "quantumultx/category-ai-not-cn.list",
-      "sha256": "26de711d3cb0c5a982542a7c05b2e2934e82ae9713bd30c868d0e1e4f737a0d2",
-      "size": 8919
+      "sha256": "a27692324be69645b37822f2c7db4db3eb5455e0ecadbeb644bcfe63c3f91b5a",
+      "size": 8959
     },
     {
       "path": "quantumultx/category-ai-ru.list",
@@ -39748,8 +39828,8 @@
     },
     {
       "path": "quantumultx/category-bank-ru.list",
-      "sha256": "f7918b412c75cdd37c78c857da7283cd6108486207c69965502b31f1cf3898aa",
-      "size": 12797
+      "sha256": "8531c36f471585b9457246234550c9381328934d3f04a5a310f57a9225944e64",
+      "size": 14681
     },
     {
       "path": "quantumultx/category-betting-ru.list",
@@ -39798,8 +39878,8 @@
     },
     {
       "path": "quantumultx/category-companies.list",
-      "sha256": "122a12e307c7933fcfedc3c5268f305ece0bb794d3dc5294a100f361a6821eb9",
-      "size": 353410
+      "sha256": "57d50b69aea89831a3f55f624499e628f3602d528ee05dde9018f2c28a3ff13e",
+      "size": 354374
     },
     {
       "path": "quantumultx/category-consent-management.list",
@@ -39903,8 +39983,8 @@
     },
     {
       "path": "quantumultx/category-finance.list",
-      "sha256": "c06f75e449b8729b3a81e6c4201de72aaf8fadafb99a4898e4290218ec3aca9f",
-      "size": 25890
+      "sha256": "0dc0288243f7a74a5eb4af4b24b85cb61fa4bbd8771e4b7ef7e5899de3cd904a",
+      "size": 27774
     },
     {
       "path": "quantumultx/category-food-cn.list",
@@ -40138,8 +40218,8 @@
     },
     {
       "path": "quantumultx/category-ru.list",
-      "sha256": "b032be71ae5bf2ea258e0a98ff43df93100bb14b72ea5466297799ae72dd88c2",
-      "size": 30002
+      "sha256": "876f07c7763165a472aa4fb2aca1400e1f06530e80abcc69620c81fcf2c2b7cd",
+      "size": 29271
     },
     {
       "path": "quantumultx/category-scholar-cn.list",
@@ -40215,6 +40295,11 @@
       "path": "quantumultx/category-tech-media.list",
       "sha256": "2a09aa41c8c257038359749de55d91386ef61bfeb9b81090d3f755b7216ba8f5",
       "size": 1218
+    },
+    {
+      "path": "quantumultx/category-telemetry.list",
+      "sha256": "7307279cd00c1b5d70a0731192a075d1b8176cf50c40922c24cda0af318b320b",
+      "size": 348
     },
     {
       "path": "quantumultx/category-tm.list",
@@ -40498,8 +40583,8 @@
     },
     {
       "path": "quantumultx/cn-ip.list",
-      "sha256": "b6a96447eaf9ac92ce3a876d4a085dc721167520e877159b80e56367c695935f",
-      "size": 302416
+      "sha256": "3aac551171b5513befb9e71eb48f4b49b4a39c63bd2872785b2bfe3bb450b5da",
+      "size": 302322
     },
     {
       "path": "quantumultx/cn.list",
@@ -41583,8 +41668,8 @@
     },
     {
       "path": "quantumultx/geolocation-not-cn.list",
-      "sha256": "e0e0e5a286173b71d033d8a885fbd8a5e3eecb8b74baeeec935df3bb5e5fbce6",
-      "size": 1101466
+      "sha256": "24e1e3949cb658793033f2915e9e36fe1aee87189567592743853529baf8c562",
+      "size": 1105034
     },
     {
       "path": "quantumultx/gettyimages.list",
@@ -44488,8 +44573,13 @@
     },
     {
       "path": "quantumultx/sber.list",
-      "sha256": "22e84b57f8e1d737754c6903ab8e8721f0a1b5677c69403f11120cca86a2de54",
-      "size": 2681
+      "sha256": "6c9c6f1d61c8554cda162682acb19e5f5341255b5fa76e672fa9124c2ab51e35",
+      "size": 2739
+    },
+    {
+      "path": "quantumultx/sberbank.list",
+      "sha256": "020797c493c53c9f29cc829e62611eb52b6d4bf307ab6cf6dd01c0c948c9988b",
+      "size": 511
     },
     {
       "path": "quantumultx/scala.list",
@@ -46118,8 +46208,8 @@
     },
     {
       "path": "quantumultx/yandex.list",
-      "sha256": "0a2246bd1273308726d7da7171fae5cd32ae74336afb9f9653db7d75f3ed52d0",
-      "size": 3118
+      "sha256": "5dc7ba928281be44751de26d3bd24162ec8ed831a0192ae8d22176744e2a1292",
+      "size": 3818
     },
     {
       "path": "quantumultx/ycombinator.list",
@@ -47388,8 +47478,13 @@
     },
     {
       "path": "shadowrocket/category-ads-all.list",
-      "sha256": "a90431b768c2041ebf8ebe008d93227c638131566dfd88bddfa1210a964e49da",
-      "size": 27325
+      "sha256": "bee52ff6f48509246ec2715941ed47d914f780c9be20c24112d85eaca4823352",
+      "size": 27296
+    },
+    {
+      "path": "shadowrocket/category-ads-and-telemetry.list",
+      "sha256": "0b2819378ad5860cec1f038b5d68a3ff15c7a3c256007c35db1c17a491d8da16",
+      "size": 26018
     },
     {
       "path": "shadowrocket/category-ads-ir.list",
@@ -47398,13 +47493,13 @@
     },
     {
       "path": "shadowrocket/category-ads.list",
-      "sha256": "b619c2a846a0ba87f7adb9a2329427e95fcc103d4e693d93f4be536e0d74b3b4",
-      "size": 25800
+      "sha256": "9e7d49c279f2f47cd8553246904ac24fd07d50f9e6f2a031d0d99ef7793f71a3",
+      "size": 25771
     },
     {
       "path": "shadowrocket/category-ai-chat-not-cn.list",
-      "sha256": "30b4ee87ef712bfed56f4c332e906e18f53f9e7280c543f3a58d7a9c9a307038",
-      "size": 5723
+      "sha256": "ce526bef60e50a2d91b261716a4e24cc42d9fad03e2a8ff6208e824b97145820",
+      "size": 5746
     },
     {
       "path": "shadowrocket/category-ai-cn.list",
@@ -47413,8 +47508,8 @@
     },
     {
       "path": "shadowrocket/category-ai-not-cn.list",
-      "sha256": "30b4ee87ef712bfed56f4c332e906e18f53f9e7280c543f3a58d7a9c9a307038",
-      "size": 5723
+      "sha256": "ce526bef60e50a2d91b261716a4e24cc42d9fad03e2a8ff6208e824b97145820",
+      "size": 5746
     },
     {
       "path": "shadowrocket/category-ai-ru.list",
@@ -47463,8 +47558,8 @@
     },
     {
       "path": "shadowrocket/category-bank-ru.list",
-      "sha256": "74f3071b843c3444de13fe0ce77bbc656c6fcd6c13a53940984b8cb0b79b0364",
-      "size": 8237
+      "sha256": "9d6b66dacd5bf8f0a89ca64be2e546679162213035c899676b41b79239243363",
+      "size": 9416
     },
     {
       "path": "shadowrocket/category-betting-ru.list",
@@ -47513,8 +47608,8 @@
     },
     {
       "path": "shadowrocket/category-companies.list",
-      "sha256": "eb17ed7858a90750d83ce459b0891f192d571117ef859786efec9b02891d95ca",
-      "size": 223326
+      "sha256": "663a774c94cdd9595a3229a6638a31a74ae1399db048e67e8b7609588b62ed6c",
+      "size": 223916
     },
     {
       "path": "shadowrocket/category-consent-management.list",
@@ -47618,8 +47713,8 @@
     },
     {
       "path": "shadowrocket/category-finance.list",
-      "sha256": "a3c046e1de0256eeeb8c0dea6bb14df53730c55f539dbb85108b63e2d7b54d4a",
-      "size": 16800
+      "sha256": "ff3b09430046a3adba43ec811ab5a677c7cbf79b25ee7c02b949ffd7dced3668",
+      "size": 17979
     },
     {
       "path": "shadowrocket/category-food-cn.list",
@@ -47853,8 +47948,8 @@
     },
     {
       "path": "shadowrocket/category-ru.list",
-      "sha256": "8f3fbfaf983ba20f28d0f9b6e6c083285f903afbf5663e065a5278cb001c1aff",
-      "size": 21802
+      "sha256": "a47ed93313d1bcbf7cbd45c1e4d4e5a26268463e46224bd8560f4cf33a811098",
+      "size": 21281
     },
     {
       "path": "shadowrocket/category-scholar-cn.list",
@@ -47930,6 +48025,11 @@
       "path": "shadowrocket/category-tech-media.list",
       "sha256": "ef674056ecf69306bc32edaf023216666f53f65f59bfbfa21148a632c4cb7dfe",
       "size": 750
+    },
+    {
+      "path": "shadowrocket/category-telemetry.list",
+      "sha256": "e4e7cf3477c990a7cd720f910b9a0af5376b199276139a94957f11aa9a25298d",
+      "size": 246
     },
     {
       "path": "shadowrocket/category-tm.list",
@@ -48213,8 +48313,8 @@
     },
     {
       "path": "shadowrocket/cn-ip.list",
-      "sha256": "d02789d850f20ed05fc6786738e371e73e44154e885a81dfc48dac6dbc732daf",
-      "size": 352401
+      "sha256": "a65d1c7be53a12922b236f40ec0f863e4b138b666833a4ec7e615e904c37caa5",
+      "size": 352292
     },
     {
       "path": "shadowrocket/cn.list",
@@ -49298,8 +49398,8 @@
     },
     {
       "path": "shadowrocket/geolocation-not-cn.list",
-      "sha256": "aca9b3630b862c2c3f87bb93b4df45cb2a9397d9bd4714684b069e1c7115ce0a",
-      "size": 691324
+      "sha256": "b36df860c40f63621d48808c64cfc83d90cbb0533ec03febad30ca5f597bcff6",
+      "size": 693447
     },
     {
       "path": "shadowrocket/gettyimages.list",
@@ -52203,8 +52303,13 @@
     },
     {
       "path": "shadowrocket/sber.list",
-      "sha256": "fe6873d985cc8ec01c14918916b8ab3aedca5d537260e5ef8cb7c0bdc0a55512",
-      "size": 2408
+      "sha256": "397fc7d580d128ab95d88fe3b1fd2a14fdba67d41e87c304f282bf1da233d3ed",
+      "size": 2460
+    },
+    {
+      "path": "shadowrocket/sberbank.list",
+      "sha256": "2c1f9b060d3fe04e484842eff2be5b3c8f34b63044f474a6cd52ea6490926013",
+      "size": 406
     },
     {
       "path": "shadowrocket/scala.list",
@@ -53833,8 +53938,8 @@
     },
     {
       "path": "shadowrocket/yandex.list",
-      "sha256": "3753f20c2f9b5f0aea30b62db315bd09576eb675ece741ccb75dcbff3760e43b",
-      "size": 2623
+      "sha256": "9a25db33b780804cd0b53a92a4aad7d71a547ca3a0a3c7b0768e85ab2a6c733c",
+      "size": 3213
     },
     {
       "path": "shadowrocket/ycombinator.list",
@@ -55103,8 +55208,13 @@
     },
     {
       "path": "singbox/category-ads-all.srs",
-      "sha256": "a26872638143dc40ebf7ab9fbb207358fa2fad464cf02b757ac60393e1914b8e",
-      "size": 7514
+      "sha256": "b0ee79f47ec59a159eb3c6635401ce66029d6efaad17029aedd389f570cf5b15",
+      "size": 7494
+    },
+    {
+      "path": "singbox/category-ads-and-telemetry.srs",
+      "sha256": "bb066dd57058331346f999241cf2ad51d9304673d2fcb191918c5f170e54dc38",
+      "size": 7212
     },
     {
       "path": "singbox/category-ads-ir.srs",
@@ -55113,12 +55223,12 @@
     },
     {
       "path": "singbox/category-ads.srs",
-      "sha256": "b115e0377646bcd92d61674bd40f7f809074662f9a7f1ecf07613d6f271fdf1e",
-      "size": 7122
+      "sha256": "e659ca7326ffcab29915551a31f127c6a026fc1f06cdca6198810829fb37d12c",
+      "size": 7133
     },
     {
       "path": "singbox/category-ai-chat-not-cn.srs",
-      "sha256": "a026b2d40d9c238e8def1510b66fa872a2cde5d3810868dda6f5421ea93a5587",
+      "sha256": "66e38061f5ac913dc05ee9f1c9da82a5d5fb8046c14c2de464f7ea15bc875d88",
       "size": 1950
     },
     {
@@ -55128,7 +55238,7 @@
     },
     {
       "path": "singbox/category-ai-not-cn.srs",
-      "sha256": "a026b2d40d9c238e8def1510b66fa872a2cde5d3810868dda6f5421ea93a5587",
+      "sha256": "66e38061f5ac913dc05ee9f1c9da82a5d5fb8046c14c2de464f7ea15bc875d88",
       "size": 1950
     },
     {
@@ -55178,8 +55288,8 @@
     },
     {
       "path": "singbox/category-bank-ru.srs",
-      "sha256": "dc41cbf7ebe71a890df057bd7957bd455e417afa7d56d8971afdf37dd3697adc",
-      "size": 2404
+      "sha256": "f3d04b70b6b1120c9f32104faa17fee7984a25be581616e07bf8fefc831e8e88",
+      "size": 2428
     },
     {
       "path": "singbox/category-betting-ru.srs",
@@ -55228,8 +55338,8 @@
     },
     {
       "path": "singbox/category-companies.srs",
-      "sha256": "0ad222740fb612fbcea0b51c7145a4a5ed01a2e14edd81274bed58269163e1ee",
-      "size": 52395
+      "sha256": "f4d7829b21302cfc11816cbb212750079c5c4e2f8fefa471b85f410d58599949",
+      "size": 52522
     },
     {
       "path": "singbox/category-consent-management.srs",
@@ -55333,8 +55443,8 @@
     },
     {
       "path": "singbox/category-finance.srs",
-      "sha256": "80ad6883719b2fd9ad1570dd3d23ba6acb520e9869cb3e492a7d2903593d8ed2",
-      "size": 4577
+      "sha256": "e3ac2d5c407da7d2ec02c4e6e033483fd7ebfc29af25a23fb81022ca6547ad1c",
+      "size": 4612
     },
     {
       "path": "singbox/category-food-cn.srs",
@@ -55568,8 +55678,8 @@
     },
     {
       "path": "singbox/category-ru.srs",
-      "sha256": "7b5db8881d0de3202c39c816b64b4b305b12c43669fd31207790925aea9dccea",
-      "size": 6147
+      "sha256": "5987ceb83c642c60518564d0c9f7d8e76465f66c4fefd24d008364c1504efcd5",
+      "size": 6029
     },
     {
       "path": "singbox/category-scholar-cn.srs",
@@ -55645,6 +55755,11 @@
       "path": "singbox/category-tech-media.srs",
       "sha256": "1432c33c444f7efec1fcc248684aa2965480fab3bb17a5904f672eb2e10ccc9e",
       "size": 322
+    },
+    {
+      "path": "singbox/category-telemetry.srs",
+      "sha256": "eb618cbea24281b61e534a1ca2f5b6c2541d785cd952e39e869fdf4803c00764",
+      "size": 198
     },
     {
       "path": "singbox/category-tm.srs",
@@ -55928,8 +56043,8 @@
     },
     {
       "path": "singbox/cn-ip.srs",
-      "sha256": "a6e7b6662fcfbd57b0113f70e76584c6b91139fbecf8e1ec3e5eb11439005a53",
-      "size": 37276
+      "sha256": "e071d9fcb9aa446b8e55922ec39f022cc625cf042ec7aeab7698d6950acefef1",
+      "size": 37257
     },
     {
       "path": "singbox/cn.srs",
@@ -57013,8 +57128,8 @@
     },
     {
       "path": "singbox/geolocation-not-cn.srs",
-      "sha256": "0cba085521b64ff66ce333f9e484e62b63b0d77d1aa050d3394afbfbdbd79d95",
-      "size": 150660
+      "sha256": "e91ce7d44811a7b0934513bc9415f5d13a052d8bf53c97b896c0a6abd674ab01",
+      "size": 150883
     },
     {
       "path": "singbox/gettyimages.srs",
@@ -59918,8 +60033,13 @@
     },
     {
       "path": "singbox/sber.srs",
-      "sha256": "26794e9f1b55bc1e2941126152f509b9cbc3ddc545789166d588a52d279ab9cb",
-      "size": 848
+      "sha256": "e24a6d016fe54118971f302699ca223efaaccd7af962e07ae6e00b813fb96ea5",
+      "size": 862
+    },
+    {
+      "path": "singbox/sberbank.srs",
+      "sha256": "6a42fe68521dd69ce4e3cfd8725cd674ccb999dfd9a91c0afeff42d221c3b064",
+      "size": 198
     },
     {
       "path": "singbox/scala.srs",
@@ -61548,8 +61668,8 @@
     },
     {
       "path": "singbox/yandex.srs",
-      "sha256": "edf233e47c9d1ee57e37161dbd4e87d1e41660e48dd00dad5e5cea940e2c1681",
-      "size": 914
+      "sha256": "b3ac94ce8cc96b38fb9a951f5279240716dd93dcb365e7b932309ddb74a0b227",
+      "size": 1088
     },
     {
       "path": "singbox/ycombinator.srs",
@@ -62818,8 +62938,13 @@
     },
     {
       "path": "surge/category-ads-all.list",
-      "sha256": "a90431b768c2041ebf8ebe008d93227c638131566dfd88bddfa1210a964e49da",
-      "size": 27325
+      "sha256": "bee52ff6f48509246ec2715941ed47d914f780c9be20c24112d85eaca4823352",
+      "size": 27296
+    },
+    {
+      "path": "surge/category-ads-and-telemetry.list",
+      "sha256": "0b2819378ad5860cec1f038b5d68a3ff15c7a3c256007c35db1c17a491d8da16",
+      "size": 26018
     },
     {
       "path": "surge/category-ads-ir.list",
@@ -62828,13 +62953,13 @@
     },
     {
       "path": "surge/category-ads.list",
-      "sha256": "b619c2a846a0ba87f7adb9a2329427e95fcc103d4e693d93f4be536e0d74b3b4",
-      "size": 25800
+      "sha256": "9e7d49c279f2f47cd8553246904ac24fd07d50f9e6f2a031d0d99ef7793f71a3",
+      "size": 25771
     },
     {
       "path": "surge/category-ai-chat-not-cn.list",
-      "sha256": "30b4ee87ef712bfed56f4c332e906e18f53f9e7280c543f3a58d7a9c9a307038",
-      "size": 5723
+      "sha256": "ce526bef60e50a2d91b261716a4e24cc42d9fad03e2a8ff6208e824b97145820",
+      "size": 5746
     },
     {
       "path": "surge/category-ai-cn.list",
@@ -62843,8 +62968,8 @@
     },
     {
       "path": "surge/category-ai-not-cn.list",
-      "sha256": "30b4ee87ef712bfed56f4c332e906e18f53f9e7280c543f3a58d7a9c9a307038",
-      "size": 5723
+      "sha256": "ce526bef60e50a2d91b261716a4e24cc42d9fad03e2a8ff6208e824b97145820",
+      "size": 5746
     },
     {
       "path": "surge/category-ai-ru.list",
@@ -62893,8 +63018,8 @@
     },
     {
       "path": "surge/category-bank-ru.list",
-      "sha256": "74f3071b843c3444de13fe0ce77bbc656c6fcd6c13a53940984b8cb0b79b0364",
-      "size": 8237
+      "sha256": "9d6b66dacd5bf8f0a89ca64be2e546679162213035c899676b41b79239243363",
+      "size": 9416
     },
     {
       "path": "surge/category-betting-ru.list",
@@ -62943,8 +63068,8 @@
     },
     {
       "path": "surge/category-companies.list",
-      "sha256": "eb17ed7858a90750d83ce459b0891f192d571117ef859786efec9b02891d95ca",
-      "size": 223326
+      "sha256": "663a774c94cdd9595a3229a6638a31a74ae1399db048e67e8b7609588b62ed6c",
+      "size": 223916
     },
     {
       "path": "surge/category-consent-management.list",
@@ -63048,8 +63173,8 @@
     },
     {
       "path": "surge/category-finance.list",
-      "sha256": "a3c046e1de0256eeeb8c0dea6bb14df53730c55f539dbb85108b63e2d7b54d4a",
-      "size": 16800
+      "sha256": "ff3b09430046a3adba43ec811ab5a677c7cbf79b25ee7c02b949ffd7dced3668",
+      "size": 17979
     },
     {
       "path": "surge/category-food-cn.list",
@@ -63283,8 +63408,8 @@
     },
     {
       "path": "surge/category-ru.list",
-      "sha256": "8f3fbfaf983ba20f28d0f9b6e6c083285f903afbf5663e065a5278cb001c1aff",
-      "size": 21802
+      "sha256": "a47ed93313d1bcbf7cbd45c1e4d4e5a26268463e46224bd8560f4cf33a811098",
+      "size": 21281
     },
     {
       "path": "surge/category-scholar-cn.list",
@@ -63360,6 +63485,11 @@
       "path": "surge/category-tech-media.list",
       "sha256": "ef674056ecf69306bc32edaf023216666f53f65f59bfbfa21148a632c4cb7dfe",
       "size": 750
+    },
+    {
+      "path": "surge/category-telemetry.list",
+      "sha256": "e4e7cf3477c990a7cd720f910b9a0af5376b199276139a94957f11aa9a25298d",
+      "size": 246
     },
     {
       "path": "surge/category-tm.list",
@@ -63643,8 +63773,8 @@
     },
     {
       "path": "surge/cn-ip.list",
-      "sha256": "d02789d850f20ed05fc6786738e371e73e44154e885a81dfc48dac6dbc732daf",
-      "size": 352401
+      "sha256": "a65d1c7be53a12922b236f40ec0f863e4b138b666833a4ec7e615e904c37caa5",
+      "size": 352292
     },
     {
       "path": "surge/cn.list",
@@ -64728,8 +64858,8 @@
     },
     {
       "path": "surge/geolocation-not-cn.list",
-      "sha256": "aca9b3630b862c2c3f87bb93b4df45cb2a9397d9bd4714684b069e1c7115ce0a",
-      "size": 691324
+      "sha256": "b36df860c40f63621d48808c64cfc83d90cbb0533ec03febad30ca5f597bcff6",
+      "size": 693447
     },
     {
       "path": "surge/gettyimages.list",
@@ -67633,8 +67763,13 @@
     },
     {
       "path": "surge/sber.list",
-      "sha256": "fe6873d985cc8ec01c14918916b8ab3aedca5d537260e5ef8cb7c0bdc0a55512",
-      "size": 2408
+      "sha256": "397fc7d580d128ab95d88fe3b1fd2a14fdba67d41e87c304f282bf1da233d3ed",
+      "size": 2460
+    },
+    {
+      "path": "surge/sberbank.list",
+      "sha256": "2c1f9b060d3fe04e484842eff2be5b3c8f34b63044f474a6cd52ea6490926013",
+      "size": 406
     },
     {
       "path": "surge/scala.list",
@@ -69263,8 +69398,8 @@
     },
     {
       "path": "surge/yandex.list",
-      "sha256": "3753f20c2f9b5f0aea30b62db315bd09576eb675ece741ccb75dcbff3760e43b",
-      "size": 2623
+      "sha256": "9a25db33b780804cd0b53a92a4aad7d71a547ca3a0a3c7b0768e85ab2a6c733c",
+      "size": 3213
     },
     {
       "path": "surge/ycombinator.list",

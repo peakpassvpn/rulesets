@@ -1,0 +1,6 @@
+host,copilot-telemetry-service.githubusercontent.com,category-telemetry
+host,copilot-telemetry.githubusercontent.com,category-telemetry
+host,incoming-telemetry.thunderbird.net,category-telemetry
+host,incoming.telemetry.mozilla.org,category-telemetry
+host-suffix,cafe.github.com,category-telemetry
+host-suffix,collector.github.com,category-telemetry
