@@ -9,7 +9,7 @@
     },
     "china_ip": {
       "repository": "gaoyifan/china-operator-ip",
-      "commit": "9cb30577f2fba34468a056dd2bed51a7c443c471",
+      "commit": "ca55cb421c4a3928a35b67e0c7936a603abd9aa5",
       "license": "MIT",
       "url": "https://github.com/gaoyifan/china-operator-ip"
     },
