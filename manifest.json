@@ -13,13 +13,13 @@
   "sources": {
     "v2fly": {
       "repository": "v2fly/domain-list-community",
-      "commit": "c6adacf29cc4fb05e04651fcf03e00989ef9f797",
+      "commit": "dd4e3c080cee602512768e8109f89fafaa94b8ca",
       "license": "MIT",
       "url": "https://github.com/v2fly/domain-list-community"
     },
     "china_ip": {
       "repository": "gaoyifan/china-operator-ip",
-      "commit": "ca55cb421c4a3928a35b67e0c7936a603abd9aa5",
+      "commit": "d1c8af69aeb45fb8a073c99bc80111bf17de5de2",
       "license": "MIT",
       "url": "https://github.com/gaoyifan/china-operator-ip"
     },
@@ -3544,18 +3544,18 @@
         }
       },
       "category-companies": {
-        "canonical_count": 7677,
-        "portable_count": 7674,
+        "canonical_count": 7682,
+        "portable_count": 7679,
         "omitted_from_portable_clients": {
           "unsupported_rules": 3
         },
         "clients": {
-          "mihomo": 7677,
-          "singbox": 7677,
-          "surge": 7674,
-          "loon": 7674,
-          "shadowrocket": 7674,
-          "quantumultx": 7674
+          "mihomo": 7682,
+          "singbox": 7682,
+          "surge": 7679,
+          "loon": 7679,
+          "shadowrocket": 7679,
+          "quantumultx": 7679
         }
       },
       "category-consent-management": {
@@ -3814,18 +3814,18 @@
         }
       },
       "category-entertainment": {
-        "canonical_count": 2068,
-        "portable_count": 2059,
+        "canonical_count": 2069,
+        "portable_count": 2060,
         "omitted_from_portable_clients": {
           "unsupported_rules": 9
         },
         "clients": {
-          "mihomo": 2068,
-          "singbox": 2068,
-          "surge": 2059,
-          "loon": 2059,
-          "shadowrocket": 2059,
-          "quantumultx": 2059
+          "mihomo": 2069,
+          "singbox": 2069,
+          "surge": 2060,
+          "loon": 2060,
+          "shadowrocket": 2060,
+          "quantumultx": 2060
         }
       },
       "category-entertainment-cn": {
@@ -3964,33 +3964,33 @@
         }
       },
       "category-games": {
-        "canonical_count": 1138,
-        "portable_count": 1134,
+        "canonical_count": 1139,
+        "portable_count": 1135,
         "omitted_from_portable_clients": {
           "unsupported_rules": 4
         },
         "clients": {
-          "mihomo": 1138,
-          "singbox": 1138,
-          "surge": 1134,
-          "loon": 1134,
-          "shadowrocket": 1134,
-          "quantumultx": 1134
+          "mihomo": 1139,
+          "singbox": 1139,
+          "surge": 1135,
+          "loon": 1135,
+          "shadowrocket": 1135,
+          "quantumultx": 1135
         }
       },
       "category-games-not-cn": {
-        "canonical_count": 857,
-        "portable_count": 854,
+        "canonical_count": 858,
+        "portable_count": 855,
         "omitted_from_portable_clients": {
           "unsupported_rules": 3
         },
         "clients": {
-          "mihomo": 857,
-          "singbox": 857,
-          "surge": 854,
-          "loon": 854,
-          "shadowrocket": 854,
-          "quantumultx": 854
+          "mihomo": 858,
+          "singbox": 858,
+          "surge": 855,
+          "loon": 855,
+          "shadowrocket": 855,
+          "quantumultx": 855
         }
       },
       "category-games-cn": {
@@ -4084,18 +4084,18 @@
         }
       },
       "category-ip-geo-detect": {
-        "canonical_count": 238,
-        "portable_count": 238,
+        "canonical_count": 239,
+        "portable_count": 239,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 238,
-          "singbox": 238,
-          "surge": 238,
-          "loon": 238,
-          "shadowrocket": 238,
-          "quantumultx": 238
+          "mihomo": 239,
+          "singbox": 239,
+          "surge": 239,
+          "loon": 239,
+          "shadowrocket": 239,
+          "quantumultx": 239
         }
       },
       "category-ipfs": {
@@ -4564,18 +4564,18 @@
         }
       },
       "category-ru": {
-        "canonical_count": 799,
-        "portable_count": 799,
+        "canonical_count": 836,
+        "portable_count": 836,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 799,
-          "singbox": 799,
-          "surge": 799,
-          "loon": 799,
-          "shadowrocket": 799,
-          "quantumultx": 799
+          "mihomo": 836,
+          "singbox": 836,
+          "surge": 836,
+          "loon": 836,
+          "shadowrocket": 836,
+          "quantumultx": 836
         }
       },
       "category-scholar-not-cn": {
@@ -8884,18 +8884,18 @@
         }
       },
       "geolocation-not-cn": {
-        "canonical_count": 24356,
-        "portable_count": 24211,
+        "canonical_count": 24361,
+        "portable_count": 24216,
         "omitted_from_portable_clients": {
           "unsupported_rules": 145
         },
         "clients": {
-          "mihomo": 24356,
-          "singbox": 24356,
-          "surge": 24211,
-          "loon": 24211,
-          "shadowrocket": 24211,
-          "quantumultx": 24211
+          "mihomo": 24361,
+          "singbox": 24361,
+          "surge": 24216,
+          "loon": 24216,
+          "shadowrocket": 24216,
+          "quantumultx": 24216
         }
       },
       "geolocation-cn": {
@@ -16204,18 +16204,18 @@
         }
       },
       "playstation": {
-        "canonical_count": 4,
-        "portable_count": 4,
+        "canonical_count": 5,
+        "portable_count": 5,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 4,
-          "singbox": 4,
-          "surge": 4,
-          "loon": 4,
-          "shadowrocket": 4,
-          "quantumultx": 4
+          "mihomo": 5,
+          "singbox": 5,
+          "surge": 5,
+          "loon": 5,
+          "shadowrocket": 5,
+          "quantumultx": 5
         }
       },
       "plex": {
@@ -18514,18 +18514,18 @@
         }
       },
       "sony": {
-        "canonical_count": 115,
-        "portable_count": 115,
+        "canonical_count": 120,
+        "portable_count": 120,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 115,
-          "singbox": 115,
-          "surge": 115,
-          "loon": 115,
-          "shadowrocket": 115,
-          "quantumultx": 115
+          "mihomo": 120,
+          "singbox": 120,
+          "surge": 120,
+          "loon": 120,
+          "shadowrocket": 120,
+          "quantumultx": 120
         }
       },
       "sonypictures": {
@@ -23209,18 +23209,18 @@
         }
       },
       "cn-ip": {
-        "canonical_count": 10008,
-        "portable_count": 10008,
+        "canonical_count": 10009,
+        "portable_count": 10009,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 10008,
-          "singbox": 10008,
-          "surge": 10008,
-          "loon": 10008,
-          "shadowrocket": 10008,
-          "quantumultx": 10008
+          "mihomo": 10009,
+          "singbox": 10009,
+          "surge": 10009,
+          "loon": 10009,
+          "shadowrocket": 10009,
+          "quantumultx": 10009
         }
       }
     }
@@ -23238,12 +23238,12 @@
     },
     {
       "path": "README.md",
-      "sha256": "8e5a77e3f8a2eb32289ca63a634c3196dd77231b1181bc8c0ddff47b168cc373",
+      "sha256": "f42bd8d284a56a9353694fc0cad7a2cf64dab114b618101f5640b6ea1445544a",
       "size": 913910
     },
     {
       "path": "catalog.json",
-      "sha256": "7a055e61559f9220ca7c3248a9a38fc880039648808851a868217dc292b38f4d",
+      "sha256": "38668015393ebfa66b68ffc9908da9efe26640c080a843b786464dafdf155cc0",
       "size": 1251103
     },
     {
@@ -24418,8 +24418,8 @@
     },
     {
       "path": "loon/category-companies.list",
-      "sha256": "663a774c94cdd9595a3229a6638a31a74ae1399db048e67e8b7609588b62ed6c",
-      "size": 223916
+      "sha256": "fba83b8416ef364ce63ba4a0cb4733fd3e065fce2a95e8a9a6967bccf33b9073",
+      "size": 224067
     },
     {
       "path": "loon/category-consent-management.list",
@@ -24518,8 +24518,8 @@
     },
     {
       "path": "loon/category-entertainment.list",
-      "sha256": "59a9ec262cbef33405b3450b60e8d1cb85647e9a42599c3886e33379aca9cce5",
-      "size": 60901
+      "sha256": "122453dce2e79e6789ba434bd43371b2d041b59d049582117738aa1d88fb48c7",
+      "size": 60938
     },
     {
       "path": "loon/category-finance.list",
@@ -24563,13 +24563,13 @@
     },
     {
       "path": "loon/category-games-not-cn.list",
-      "sha256": "138083528b263b68e884e6be99c1aa8314975a49735d7699ea48dd3f8eb90874",
-      "size": 25856
+      "sha256": "540011b5c339b523d6d6448fbe414f17959294d37138ddf354146c26cf521518",
+      "size": 25893
     },
     {
       "path": "loon/category-games.list",
-      "sha256": "5b1462d6db4091d743cdcf55aff1219b2f1dec37c52ff4bd112918b7b4d29ac0",
-      "size": 33352
+      "sha256": "d75b4406e0ecb87ebf77ad8d571cd588ae8cbd0142372114c5d1b0827b1e02e5",
+      "size": 33389
     },
     {
       "path": "loon/category-gov-ir.list",
@@ -24598,8 +24598,8 @@
     },
     {
       "path": "loon/category-ip-geo-detect.list",
-      "sha256": "87e9ee07a0a550b25f93fb75991df71788d7bc7fd670ef21c32c86152f4711df",
-      "size": 6324
+      "sha256": "fe2465a1f086febad908c87b336a4280884b33fc709debc93daca684b585e79c",
+      "size": 6352
     },
     {
       "path": "loon/category-ipfs.list",
@@ -24758,8 +24758,8 @@
     },
     {
       "path": "loon/category-ru.list",
-      "sha256": "a47ed93313d1bcbf7cbd45c1e4d4e5a26268463e46224bd8560f4cf33a811098",
-      "size": 21281
+      "sha256": "c46c0278853d955fe48112b8375d742352f30cdc960b885221f7ea0313fb256f",
+      "size": 22237
     },
     {
       "path": "loon/category-scholar-cn.list",
@@ -25123,8 +25123,8 @@
     },
     {
       "path": "loon/cn-ip.list",
-      "sha256": "9d324103eb2da2d994447a9de8e2729b3f69c69162dc641052ed6cc32a3d9b53",
-      "size": 352828
+      "sha256": "17ac4c66e5d7c98b2a372ecc316172ba19814a864029e8349739be8412355089",
+      "size": 352865
     },
     {
       "path": "loon/cn.list",
@@ -26208,8 +26208,8 @@
     },
     {
       "path": "loon/geolocation-not-cn.list",
-      "sha256": "b36df860c40f63621d48808c64cfc83d90cbb0533ec03febad30ca5f597bcff6",
-      "size": 693447
+      "sha256": "03a6db20ec0899db73baef0a3083ecbd2197fb9f0ebec987a02fa8f3c70b29ab",
+      "size": 693598
     },
     {
       "path": "loon/gettyimages.list",
@@ -28643,8 +28643,8 @@
     },
     {
       "path": "loon/playstation.list",
-      "sha256": "4e67ad3cf4e9f4a626cc0f3a231701fdd02f738945b76713922fc80cd015f5d3",
-      "size": 128
+      "sha256": "1cc4f46a7b53ff4c5a233ea8cb180ad7a1e083bd55e594a81b5f598c97cfc8be",
+      "size": 165
     },
     {
       "path": "loon/plex.list",
@@ -29413,8 +29413,8 @@
     },
     {
       "path": "loon/sony.list",
-      "sha256": "607b38419f5e50a7a4c9a0e97455c53968c2d72941ca92e9c0978e48251faebd",
-      "size": 3066
+      "sha256": "9db61db86970373f360f14ed041774fbe9dce17b0b1d384ff2a6a7f509139b7d",
+      "size": 3217
     },
     {
       "path": "loon/sonypictures.list",
@@ -32148,8 +32148,8 @@
     },
     {
       "path": "mihomo/category-companies.yaml",
-      "sha256": "6485958270209b1a159cbc0a18046ef93ad6aaf8b58bd54be358f0016c9b0185",
-      "size": 270150
+      "sha256": "8737f78f5aee15f1573f7b49abafe7c45991cdcc72466bd9a781d2a19aa3f96b",
+      "size": 270331
     },
     {
       "path": "mihomo/category-consent-management.yaml",
@@ -32248,8 +32248,8 @@
     },
     {
       "path": "mihomo/category-entertainment.yaml",
-      "sha256": "56cd976f9960fb09ee05ac0d96485e64dcf9acb971f94c79b4b097865cc8c194",
-      "size": 73830
+      "sha256": "db98ac113dd2e386cc3b90923137b608d081e8b04b929ccd923c65f877613c24",
+      "size": 73873
     },
     {
       "path": "mihomo/category-finance.yaml",
@@ -32293,13 +32293,13 @@
     },
     {
       "path": "mihomo/category-games-not-cn.yaml",
-      "sha256": "820b086f2b15bbceeaafe67e08f8d9fc944e9456d5881c3731cf6f0d234d0028",
-      "size": 31177
+      "sha256": "2facab1c8c44c3e30388f0d01391dfd6efff2c442c6355daa6a8f873d2ac0326",
+      "size": 31220
     },
     {
       "path": "mihomo/category-games.yaml",
-      "sha256": "7f5561f58bd987846aeb44e079b6dc32f07004b2d8af63fb136da0fccb61b5e3",
-      "size": 40400
+      "sha256": "f1c1f23424e61bba996cad1e028c0284e971d7a5ccc12849f256d97a0bb6a54c",
+      "size": 40443
     },
     {
       "path": "mihomo/category-gov-ir.yaml",
@@ -32328,8 +32328,8 @@
     },
     {
       "path": "mihomo/category-ip-geo-detect.yaml",
-      "sha256": "89a913e17d3490cb45865eb64a24d258d028462bc261ec3d8c89eacdd50f6e6c",
-      "size": 7762
+      "sha256": "71caceb2493c1ad9a70807dfa24a8aa05eb0b37b8f66903a8d3fa2e3f64ea72c",
+      "size": 7796
     },
     {
       "path": "mihomo/category-ipfs.yaml",
@@ -32488,8 +32488,8 @@
     },
     {
       "path": "mihomo/category-ru.yaml",
-      "sha256": "55ada0bf48bd632950339a12c6935c794f81d7a76a2283be10855266e03a114a",
-      "size": 26085
+      "sha256": "1608235ead0828ca9f8202e8ab8cc361e0bb3b638592b600ff07d5fe64a1b7c2",
+      "size": 27263
     },
     {
       "path": "mihomo/category-scholar-cn.yaml",
@@ -32853,8 +32853,8 @@
     },
     {
       "path": "mihomo/cn-ip.yaml",
-      "sha256": "37ad8a1b1b30f5bef554f1779f02c63f664495ee8db099d53e86d2d80f253e25",
-      "size": 302798
+      "sha256": "fc50311a9430894e2399f6cae1edd699dab84d81ff7bdbd393334a9cc58fb8da",
+      "size": 302830
     },
     {
       "path": "mihomo/cn.yaml",
@@ -33938,8 +33938,8 @@
     },
     {
       "path": "mihomo/geolocation-not-cn.yaml",
-      "sha256": "6296cbaa97866d7fb8bfd435657a772abcd58e2ef9f699316797f921235f079e",
-      "size": 845600
+      "sha256": "51ea548255ea474199b3c08f20236db245ff406cc14a8295630110f123f1c5d7",
+      "size": 845781
     },
     {
       "path": "mihomo/gettyimages.yaml",
@@ -36373,8 +36373,8 @@
     },
     {
       "path": "mihomo/playstation.yaml",
-      "sha256": "3890dd5cf71c97420baf6b0436dfede8474abb1e4ddde2edd714aac9c1bff5b0",
-      "size": 162
+      "sha256": "96a0a7df66b0d390cd3711e4d2176a4bdcd0e19ec3f727ac9226b7ae2d71f593",
+      "size": 205
     },
     {
       "path": "mihomo/plex.yaml",
@@ -37143,8 +37143,8 @@
     },
     {
       "path": "mihomo/sony.yaml",
-      "sha256": "f2b21c375f7cfd3c215c3af15ff26d29ab264bb21be3b3338c7489d6be03e9d8",
-      "size": 3766
+      "sha256": "69c581e088a616458f52bc1a3fb8251d105eed34ed773f3f83fe03c1dbd29172",
+      "size": 3947
     },
     {
       "path": "mihomo/sonypictures.yaml",
@@ -39878,8 +39878,8 @@
     },
     {
       "path": "quantumultx/category-companies.list",
-      "sha256": "57d50b69aea89831a3f55f624499e628f3602d528ee05dde9018f2c28a3ff13e",
-      "size": 354374
+      "sha256": "a308eb1d67d9366b53e03bcc7fe47fb8f9c646bdc40ec325153fb55195a35da5",
+      "size": 354610
     },
     {
       "path": "quantumultx/category-consent-management.list",
@@ -39978,8 +39978,8 @@
     },
     {
       "path": "quantumultx/category-entertainment.list",
-      "sha256": "34298f5bdd56878e261d2063895023e88ca750f50d99c77cf3afff9adb05aa42",
-      "size": 104140
+      "sha256": "484640c52569850abd0c9a281e07ec4ace879441357efff01394fa402d165663",
+      "size": 104198
     },
     {
       "path": "quantumultx/category-finance.list",
@@ -40023,13 +40023,13 @@
     },
     {
       "path": "quantumultx/category-games-not-cn.list",
-      "sha256": "2035b864182874861a48ac14f6ae8b6c7008c1a3584696cf7798e887a0db687f",
-      "size": 42936
+      "sha256": "f6893796260a306e7a565d1e72a723490877f367b7f55c8b7946fa7b2387963c",
+      "size": 42993
     },
     {
       "path": "quantumultx/category-games.list",
-      "sha256": "4417172bb5893c614e632ff841b636c9dbe7ba4073c3af31fbdff12722af4f69",
-      "size": 48094
+      "sha256": "dd2b3c10403096cfb6a0c977458757c4bbc3db7ebdead9866bd686eb5f188b59",
+      "size": 48144
     },
     {
       "path": "quantumultx/category-gov-ir.list",
@@ -40058,8 +40058,8 @@
     },
     {
       "path": "quantumultx/category-ip-geo-detect.list",
-      "sha256": "44f2319ac72f96ce68e1b0bc81e09552236515f6717b1286b58289f355adffcc",
-      "size": 11322
+      "sha256": "b30647587de95dbb2b4a919d0c11ded16020d6ce93836f0ce605414b2ea7077b",
+      "size": 11371
     },
     {
       "path": "quantumultx/category-ipfs.list",
@@ -40218,8 +40218,8 @@
     },
     {
       "path": "quantumultx/category-ru.list",
-      "sha256": "876f07c7763165a472aa4fb2aca1400e1f06530e80abcc69620c81fcf2c2b7cd",
-      "size": 29271
+      "sha256": "1a0771793e043105e8b810182fdba69397f6e3c4347d579a335f008fbf0639fb",
+      "size": 30597
     },
     {
       "path": "quantumultx/category-scholar-cn.list",
@@ -40583,8 +40583,8 @@
     },
     {
       "path": "quantumultx/cn-ip.list",
-      "sha256": "74c8fc4e59189ebe77ab53730fc41064cd1aea5c3784bf595a38fd9f1d8c4a93",
-      "size": 302788
+      "sha256": "8847f8dcc03b4670a081b356a3907e368f92414d81509718a187859db5511b67",
+      "size": 302820
     },
     {
       "path": "quantumultx/cn.list",
@@ -41668,8 +41668,8 @@
     },
     {
       "path": "quantumultx/geolocation-not-cn.list",
-      "sha256": "24e1e3949cb658793033f2915e9e36fe1aee87189567592743853529baf8c562",
-      "size": 1105034
+      "sha256": "55a76c2308897f98b6171fd928a8d54c4d1e38b19909127c41948a58381c8e37",
+      "size": 1105270
     },
     {
       "path": "quantumultx/gettyimages.list",
@@ -44103,8 +44103,8 @@
     },
     {
       "path": "quantumultx/playstation.list",
-      "sha256": "7ddbeadd1fa594cd936949368bbdc6ba1618814a40b069ad014baf545d2df8e4",
-      "size": 168
+      "sha256": "ce40378f9d25767b1b6a3446abd67cc569d03aa8ba6f63143e0357ad99deefa2",
+      "size": 215
     },
     {
       "path": "quantumultx/plex.list",
@@ -44873,8 +44873,8 @@
     },
     {
       "path": "quantumultx/sony.list",
-      "sha256": "3614739fec08587ee9a2481a6e76408a69ec66da9fdbac3b7422e90138843eec",
-      "size": 3411
+      "sha256": "b0c36229dda4004ac0dbd2d682500b091ae56e1d2d938627c75e33e5c3ba6841",
+      "size": 3577
     },
     {
       "path": "quantumultx/sonypictures.list",
@@ -47608,8 +47608,8 @@
     },
     {
       "path": "shadowrocket/category-companies.list",
-      "sha256": "663a774c94cdd9595a3229a6638a31a74ae1399db048e67e8b7609588b62ed6c",
-      "size": 223916
+      "sha256": "fba83b8416ef364ce63ba4a0cb4733fd3e065fce2a95e8a9a6967bccf33b9073",
+      "size": 224067
     },
     {
       "path": "shadowrocket/category-consent-management.list",
@@ -47708,8 +47708,8 @@
     },
     {
       "path": "shadowrocket/category-entertainment.list",
-      "sha256": "59a9ec262cbef33405b3450b60e8d1cb85647e9a42599c3886e33379aca9cce5",
-      "size": 60901
+      "sha256": "122453dce2e79e6789ba434bd43371b2d041b59d049582117738aa1d88fb48c7",
+      "size": 60938
     },
     {
       "path": "shadowrocket/category-finance.list",
@@ -47753,13 +47753,13 @@
     },
     {
       "path": "shadowrocket/category-games-not-cn.list",
-      "sha256": "138083528b263b68e884e6be99c1aa8314975a49735d7699ea48dd3f8eb90874",
-      "size": 25856
+      "sha256": "540011b5c339b523d6d6448fbe414f17959294d37138ddf354146c26cf521518",
+      "size": 25893
     },
     {
       "path": "shadowrocket/category-games.list",
-      "sha256": "5b1462d6db4091d743cdcf55aff1219b2f1dec37c52ff4bd112918b7b4d29ac0",
-      "size": 33352
+      "sha256": "d75b4406e0ecb87ebf77ad8d571cd588ae8cbd0142372114c5d1b0827b1e02e5",
+      "size": 33389
     },
     {
       "path": "shadowrocket/category-gov-ir.list",
@@ -47788,8 +47788,8 @@
     },
     {
       "path": "shadowrocket/category-ip-geo-detect.list",
-      "sha256": "87e9ee07a0a550b25f93fb75991df71788d7bc7fd670ef21c32c86152f4711df",
-      "size": 6324
+      "sha256": "fe2465a1f086febad908c87b336a4280884b33fc709debc93daca684b585e79c",
+      "size": 6352
     },
     {
       "path": "shadowrocket/category-ipfs.list",
@@ -47948,8 +47948,8 @@
     },
     {
       "path": "shadowrocket/category-ru.list",
-      "sha256": "a47ed93313d1bcbf7cbd45c1e4d4e5a26268463e46224bd8560f4cf33a811098",
-      "size": 21281
+      "sha256": "c46c0278853d955fe48112b8375d742352f30cdc960b885221f7ea0313fb256f",
+      "size": 22237
     },
     {
       "path": "shadowrocket/category-scholar-cn.list",
@@ -48313,8 +48313,8 @@
     },
     {
       "path": "shadowrocket/cn-ip.list",
-      "sha256": "9d324103eb2da2d994447a9de8e2729b3f69c69162dc641052ed6cc32a3d9b53",
-      "size": 352828
+      "sha256": "17ac4c66e5d7c98b2a372ecc316172ba19814a864029e8349739be8412355089",
+      "size": 352865
     },
     {
       "path": "shadowrocket/cn.list",
@@ -49398,8 +49398,8 @@
     },
     {
       "path": "shadowrocket/geolocation-not-cn.list",
-      "sha256": "b36df860c40f63621d48808c64cfc83d90cbb0533ec03febad30ca5f597bcff6",
-      "size": 693447
+      "sha256": "03a6db20ec0899db73baef0a3083ecbd2197fb9f0ebec987a02fa8f3c70b29ab",
+      "size": 693598
     },
     {
       "path": "shadowrocket/gettyimages.list",
@@ -51833,8 +51833,8 @@
     },
     {
       "path": "shadowrocket/playstation.list",
-      "sha256": "4e67ad3cf4e9f4a626cc0f3a231701fdd02f738945b76713922fc80cd015f5d3",
-      "size": 128
+      "sha256": "1cc4f46a7b53ff4c5a233ea8cb180ad7a1e083bd55e594a81b5f598c97cfc8be",
+      "size": 165
     },
     {
       "path": "shadowrocket/plex.list",
@@ -52603,8 +52603,8 @@
     },
     {
       "path": "shadowrocket/sony.list",
-      "sha256": "607b38419f5e50a7a4c9a0e97455c53968c2d72941ca92e9c0978e48251faebd",
-      "size": 3066
+      "sha256": "9db61db86970373f360f14ed041774fbe9dce17b0b1d384ff2a6a7f509139b7d",
+      "size": 3217
     },
     {
       "path": "shadowrocket/sonypictures.list",
@@ -55338,8 +55338,8 @@
     },
     {
       "path": "singbox/category-companies.srs",
-      "sha256": "f4d7829b21302cfc11816cbb212750079c5c4e2f8fefa471b85f410d58599949",
-      "size": 52522
+      "sha256": "d9577ce305ec6b5d640a20b4e1333fd7ccba6dba883c8a65fb767c9ecfbc9610",
+      "size": 52568
     },
     {
       "path": "singbox/category-consent-management.srs",
@@ -55438,8 +55438,8 @@
     },
     {
       "path": "singbox/category-entertainment.srs",
-      "sha256": "220c8cda1111ee2c459d2b11dd9e1b1f7727783bf221d2099f34b20b1afe2dd9",
-      "size": 17092
+      "sha256": "6a2af4efbf2ec902e23f713373b1f62de568708660d2aa459020d55227f5f1e5",
+      "size": 17104
     },
     {
       "path": "singbox/category-finance.srs",
@@ -55483,13 +55483,13 @@
     },
     {
       "path": "singbox/category-games-not-cn.srs",
-      "sha256": "b0d7a35981fad3bd17b77e901a24c2f85845733dfb678390fe7859957fa9692a",
-      "size": 7681
+      "sha256": "f3fd499ce739ae70018c5eb43a08b0d569a11ada9dddc7c1fb97891f8957b867",
+      "size": 7674
     },
     {
       "path": "singbox/category-games.srs",
-      "sha256": "495c48afc7bdba2a3e93de4bab75ce2142c8fa8e5762c80a0fd2bbb7f09d2d01",
-      "size": 9505
+      "sha256": "77607a3cc4ac14122a80a5e765e9dc67566c8d76cf3e586741fdaee321e3a392",
+      "size": 9502
     },
     {
       "path": "singbox/category-gov-ir.srs",
@@ -55518,8 +55518,8 @@
     },
     {
       "path": "singbox/category-ip-geo-detect.srs",
-      "sha256": "82ea00a12ba8fda0a0c377c5d57a3140cc5fdd64f6501cd6bcfdcfef53a5a2c9",
-      "size": 1903
+      "sha256": "ee5a7a38827c61afc301f4379dbdb46dc15f5a36e4a74c84c182699a15e07b31",
+      "size": 1916
     },
     {
       "path": "singbox/category-ipfs.srs",
@@ -55678,8 +55678,8 @@
     },
     {
       "path": "singbox/category-ru.srs",
-      "sha256": "5987ceb83c642c60518564d0c9f7d8e76465f66c4fefd24d008364c1504efcd5",
-      "size": 6029
+      "sha256": "9a9642c795a17191bc8b6a5ef08412c6eb87a55a9b47c7cb83760fb18ebcf275",
+      "size": 6266
     },
     {
       "path": "singbox/category-scholar-cn.srs",
@@ -56043,7 +56043,7 @@
     },
     {
       "path": "singbox/cn-ip.srs",
-      "sha256": "4cdb3d4e6b82b5fb0603cfc078b80f775344a0f71f586dbce4d0ee47ac75a070",
+      "sha256": "29e1d721bfbe77cda8e8745afae9227575bee3aaff9180d5f3ae1eec1afa06c6",
       "size": 37245
     },
     {
@@ -57128,8 +57128,8 @@
     },
     {
       "path": "singbox/geolocation-not-cn.srs",
-      "sha256": "e91ce7d44811a7b0934513bc9415f5d13a052d8bf53c97b896c0a6abd674ab01",
-      "size": 150883
+      "sha256": "2910addcffaeccf7fad83263dd7a5aa1fb3b75042ebd0ba08197e6a503816238",
+      "size": 150917
     },
     {
       "path": "singbox/gettyimages.srs",
@@ -59563,8 +59563,8 @@
     },
     {
       "path": "singbox/playstation.srs",
-      "sha256": "aecbb13323d4ec81e61ca6c637b2db110ff6326692628ec81590aa55c0d10130",
-      "size": 116
+      "sha256": "92cdd7fa8144ed6dce29f0ecc8c2b7499dbbda5a6388cf7a98626ff1eb342c6a",
+      "size": 126
     },
     {
       "path": "singbox/plex.srs",
@@ -60333,8 +60333,8 @@
     },
     {
       "path": "singbox/sony.srs",
-      "sha256": "11fa9327b96ecf9e332df9f68f83d0d500ba52ba4b1b63cb737a3b68add87eae",
-      "size": 958
+      "sha256": "e7f55562864c20a3be7c18bd674b5f7de8442dd254e32f4603e478bcae5db3b0",
+      "size": 1008
     },
     {
       "path": "singbox/sonypictures.srs",
@@ -63068,8 +63068,8 @@
     },
     {
       "path": "surge/category-companies.list",
-      "sha256": "663a774c94cdd9595a3229a6638a31a74ae1399db048e67e8b7609588b62ed6c",
-      "size": 223916
+      "sha256": "fba83b8416ef364ce63ba4a0cb4733fd3e065fce2a95e8a9a6967bccf33b9073",
+      "size": 224067
     },
     {
       "path": "surge/category-consent-management.list",
@@ -63168,8 +63168,8 @@
     },
     {
       "path": "surge/category-entertainment.list",
-      "sha256": "59a9ec262cbef33405b3450b60e8d1cb85647e9a42599c3886e33379aca9cce5",
-      "size": 60901
+      "sha256": "122453dce2e79e6789ba434bd43371b2d041b59d049582117738aa1d88fb48c7",
+      "size": 60938
     },
     {
       "path": "surge/category-finance.list",
@@ -63213,13 +63213,13 @@
     },
     {
       "path": "surge/category-games-not-cn.list",
-      "sha256": "138083528b263b68e884e6be99c1aa8314975a49735d7699ea48dd3f8eb90874",
-      "size": 25856
+      "sha256": "540011b5c339b523d6d6448fbe414f17959294d37138ddf354146c26cf521518",
+      "size": 25893
     },
     {
       "path": "surge/category-games.list",
-      "sha256": "5b1462d6db4091d743cdcf55aff1219b2f1dec37c52ff4bd112918b7b4d29ac0",
-      "size": 33352
+      "sha256": "d75b4406e0ecb87ebf77ad8d571cd588ae8cbd0142372114c5d1b0827b1e02e5",
+      "size": 33389
     },
     {
       "path": "surge/category-gov-ir.list",
@@ -63248,8 +63248,8 @@
     },
     {
       "path": "surge/category-ip-geo-detect.list",
-      "sha256": "87e9ee07a0a550b25f93fb75991df71788d7bc7fd670ef21c32c86152f4711df",
-      "size": 6324
+      "sha256": "fe2465a1f086febad908c87b336a4280884b33fc709debc93daca684b585e79c",
+      "size": 6352
     },
     {
       "path": "surge/category-ipfs.list",
@@ -63408,8 +63408,8 @@
     },
     {
       "path": "surge/category-ru.list",
-      "sha256": "a47ed93313d1bcbf7cbd45c1e4d4e5a26268463e46224bd8560f4cf33a811098",
-      "size": 21281
+      "sha256": "c46c0278853d955fe48112b8375d742352f30cdc960b885221f7ea0313fb256f",
+      "size": 22237
     },
     {
       "path": "surge/category-scholar-cn.list",
@@ -63773,8 +63773,8 @@
     },
     {
       "path": "surge/cn-ip.list",
-      "sha256": "9d324103eb2da2d994447a9de8e2729b3f69c69162dc641052ed6cc32a3d9b53",
-      "size": 352828
+      "sha256": "17ac4c66e5d7c98b2a372ecc316172ba19814a864029e8349739be8412355089",
+      "size": 352865
     },
     {
       "path": "surge/cn.list",
@@ -64858,8 +64858,8 @@
     },
     {
       "path": "surge/geolocation-not-cn.list",
-      "sha256": "b36df860c40f63621d48808c64cfc83d90cbb0533ec03febad30ca5f597bcff6",
-      "size": 693447
+      "sha256": "03a6db20ec0899db73baef0a3083ecbd2197fb9f0ebec987a02fa8f3c70b29ab",
+      "size": 693598
     },
     {
       "path": "surge/gettyimages.list",
@@ -67293,8 +67293,8 @@
     },
     {
       "path": "surge/playstation.list",
-      "sha256": "4e67ad3cf4e9f4a626cc0f3a231701fdd02f738945b76713922fc80cd015f5d3",
-      "size": 128
+      "sha256": "1cc4f46a7b53ff4c5a233ea8cb180ad7a1e083bd55e594a81b5f598c97cfc8be",
+      "size": 165
     },
     {
       "path": "surge/plex.list",
@@ -68063,8 +68063,8 @@
     },
     {
       "path": "surge/sony.list",
-      "sha256": "607b38419f5e50a7a4c9a0e97455c53968c2d72941ca92e9c0978e48251faebd",
-      "size": 3066
+      "sha256": "9db61db86970373f360f14ed041774fbe9dce17b0b1d384ff2a6a7f509139b7d",
+      "size": 3217
     },
     {
       "path": "surge/sonypictures.list",

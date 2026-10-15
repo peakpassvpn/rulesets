@@ -5832,6 +5832,7 @@ host-suffix,playshowtv.com,category-companies
 host-suffix,playstation,category-companies
 host-suffix,playstation.com,category-companies
 host-suffix,playstation.net,category-companies
+host-suffix,playstationnetwork.com,category-companies
 host-suffix,plex.com,category-companies
 host-suffix,plex.services,category-companies
 host-suffix,plex.tv,category-companies
@@ -6148,6 +6149,7 @@ host-suffix,sc-gw.com,category-companies
 host-suffix,sc-static.net,category-companies
 host-suffix,scaleform.com,category-companies
 host-suffix,scartel.ru,category-companies
+host-suffix,scea.com,category-companies
 host-suffix,scene7.com,category-companies
 host-suffix,schemer.com,category-companies
 host-suffix,scnshop.cc,category-companies
@@ -6355,6 +6357,7 @@ host-suffix,sony.com.ni,category-companies
 host-suffix,sony.com.pa,category-companies
 host-suffix,sony.com.pe,category-companies
 host-suffix,sony.com.ph,category-companies
+host-suffix,sony.com.py,category-companies
 host-suffix,sony.com.sg,category-companies
 host-suffix,sony.com.sv,category-companies
 host-suffix,sony.com.tr,category-companies
@@ -6397,8 +6400,10 @@ host-suffix,sonydesign.com,category-companies
 host-suffix,sonydna.com,category-companies
 host-suffix,sonyentertainmentnetwork.com,category-companies
 host-suffix,sonyglobalsolutions.jp,category-companies
+host-suffix,sonyinteractive.com,category-companies
 host-suffix,sonykigyo.jp,category-companies
 host-suffix,sonylatvija.com,category-companies
+host-suffix,sonymusic.com.hk,category-companies
 host-suffix,sonynetwork.co.jp,category-companies
 host-suffix,sonypcl.jp,category-companies
 host-suffix,sonypictures.com,category-companies

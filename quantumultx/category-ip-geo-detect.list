@@ -21,6 +21,7 @@ host-suffix,bgp.he.net,category-ip-geo-detect
 host-suffix,bgp.tools,category-ip-geo-detect
 host-suffix,bigdatacloud.net,category-ip-geo-detect
 host-suffix,browserleaks.com,category-ip-geo-detect
+host-suffix,bulkgeoip.com,category-ip-geo-detect
 host-suffix,check-host.net,category-ip-geo-detect
 host-suffix,checkip.com.vn,category-ip-geo-detect
 host-suffix,checkip.org,category-ip-geo-detect

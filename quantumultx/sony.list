@@ -7,6 +7,8 @@ host-suffix,playshowtv.com,sony
 host-suffix,playstation,sony
 host-suffix,playstation.com,sony
 host-suffix,playstation.net,sony
+host-suffix,playstationnetwork.com,sony
+host-suffix,scea.com,sony
 host-suffix,so-net.ne.jp,sony
 host-suffix,so-net.net.tw,sony
 host-suffix,sony,sony
@@ -54,6 +56,7 @@ host-suffix,sony.com.ni,sony
 host-suffix,sony.com.pa,sony
 host-suffix,sony.com.pe,sony
 host-suffix,sony.com.ph,sony
+host-suffix,sony.com.py,sony
 host-suffix,sony.com.sg,sony
 host-suffix,sony.com.sv,sony
 host-suffix,sony.com.tr,sony
@@ -96,8 +99,10 @@ host-suffix,sonydesign.com,sony
 host-suffix,sonydna.com,sony
 host-suffix,sonyentertainmentnetwork.com,sony
 host-suffix,sonyglobalsolutions.jp,sony
+host-suffix,sonyinteractive.com,sony
 host-suffix,sonykigyo.jp,sony
 host-suffix,sonylatvija.com,sony
+host-suffix,sonymusic.com.hk,sony
 host-suffix,sonynetwork.co.jp,sony
 host-suffix,sonypcl.jp,sony
 host-suffix,sonypictures.com,sony
