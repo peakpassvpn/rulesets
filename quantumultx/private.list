@@ -1,6 +1,8 @@
 host,asusrouter.com,private
 host,instant.arubanetworks.com,private
 host,local.adguard.org,private
+host,localhost.weixin.qq.com,private
+host,localhost.work.weixin.qq.com,private
 host,miwifi.com,private
 host,oasisauth.h3c.com,private
 host,router.asus.com,private

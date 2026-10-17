@@ -13,13 +13,13 @@
   "sources": {
     "v2fly": {
       "repository": "v2fly/domain-list-community",
-      "commit": "dd4e3c080cee602512768e8109f89fafaa94b8ca",
+      "commit": "4b6e9f1e16c0905e8c1f1b22f7669ceb9507da8b",
       "license": "MIT",
       "url": "https://github.com/v2fly/domain-list-community"
     },
     "china_ip": {
       "repository": "gaoyifan/china-operator-ip",
-      "commit": "dbb18122af76c7b051a7c5c0b6fa4ef9734a28d9",
+      "commit": "d08c9cdaea27758246d26831cd391cf726ac9aef",
       "license": "MIT",
       "url": "https://github.com/gaoyifan/china-operator-ip"
     },
@@ -3214,33 +3214,33 @@
         }
       },
       "category-ai-not-cn": {
-        "canonical_count": 190,
-        "portable_count": 189,
+        "canonical_count": 193,
+        "portable_count": 192,
         "omitted_from_portable_clients": {
           "unsupported_rules": 1
         },
         "clients": {
-          "mihomo": 190,
-          "singbox": 190,
-          "surge": 189,
-          "loon": 189,
-          "shadowrocket": 189,
-          "quantumultx": 189
+          "mihomo": 193,
+          "singbox": 193,
+          "surge": 192,
+          "loon": 192,
+          "shadowrocket": 192,
+          "quantumultx": 192
         }
       },
       "category-ai-chat-not-cn": {
-        "canonical_count": 190,
-        "portable_count": 189,
+        "canonical_count": 193,
+        "portable_count": 192,
         "omitted_from_portable_clients": {
           "unsupported_rules": 1
         },
         "clients": {
-          "mihomo": 190,
-          "singbox": 190,
-          "surge": 189,
-          "loon": 189,
-          "shadowrocket": 189,
-          "quantumultx": 189
+          "mihomo": 193,
+          "singbox": 193,
+          "surge": 192,
+          "loon": 192,
+          "shadowrocket": 192,
+          "quantumultx": 192
         }
       },
       "category-ai-cn": {
@@ -3544,18 +3544,18 @@
         }
       },
       "category-companies": {
-        "canonical_count": 7682,
-        "portable_count": 7679,
+        "canonical_count": 7684,
+        "portable_count": 7681,
         "omitted_from_portable_clients": {
           "unsupported_rules": 3
         },
         "clients": {
-          "mihomo": 7682,
-          "singbox": 7682,
-          "surge": 7679,
-          "loon": 7679,
-          "shadowrocket": 7679,
-          "quantumultx": 7679
+          "mihomo": 7684,
+          "singbox": 7684,
+          "surge": 7681,
+          "loon": 7681,
+          "shadowrocket": 7681,
+          "quantumultx": 7681
         }
       },
       "category-consent-management": {
@@ -3859,18 +3859,18 @@
         }
       },
       "category-finance": {
-        "canonical_count": 653,
-        "portable_count": 653,
+        "canonical_count": 654,
+        "portable_count": 654,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 653,
-          "singbox": 653,
-          "surge": 653,
-          "loon": 653,
-          "shadowrocket": 653,
-          "quantumultx": 653
+          "mihomo": 654,
+          "singbox": 654,
+          "surge": 654,
+          "loon": 654,
+          "shadowrocket": 654,
+          "quantumultx": 654
         }
       },
       "category-food-cn": {
@@ -4564,18 +4564,18 @@
         }
       },
       "category-ru": {
-        "canonical_count": 836,
-        "portable_count": 836,
+        "canonical_count": 838,
+        "portable_count": 838,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 836,
-          "singbox": 836,
-          "surge": 836,
-          "loon": 836,
-          "shadowrocket": 836,
-          "quantumultx": 836
+          "mihomo": 838,
+          "singbox": 838,
+          "surge": 838,
+          "loon": 838,
+          "shadowrocket": 838,
+          "quantumultx": 838
         }
       },
       "category-scholar-not-cn": {
@@ -6274,18 +6274,18 @@
         }
       },
       "cursor": {
-        "canonical_count": 4,
-        "portable_count": 4,
+        "canonical_count": 5,
+        "portable_count": 5,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 4,
-          "singbox": 4,
-          "surge": 4,
-          "loon": 4,
-          "shadowrocket": 4,
-          "quantumultx": 4
+          "mihomo": 5,
+          "singbox": 5,
+          "surge": 5,
+          "loon": 5,
+          "shadowrocket": 5,
+          "quantumultx": 5
         }
       },
       "cuttly": {
@@ -8884,18 +8884,18 @@
         }
       },
       "geolocation-not-cn": {
-        "canonical_count": 24361,
-        "portable_count": 24216,
+        "canonical_count": 24367,
+        "portable_count": 24222,
         "omitted_from_portable_clients": {
           "unsupported_rules": 145
         },
         "clients": {
-          "mihomo": 24361,
-          "singbox": 24361,
-          "surge": 24216,
-          "loon": 24216,
-          "shadowrocket": 24216,
-          "quantumultx": 24216
+          "mihomo": 24367,
+          "singbox": 24367,
+          "surge": 24222,
+          "loon": 24222,
+          "shadowrocket": 24222,
+          "quantumultx": 24222
         }
       },
       "geolocation-cn": {
@@ -15334,18 +15334,18 @@
         }
       },
       "openai": {
-        "canonical_count": 23,
-        "portable_count": 22,
+        "canonical_count": 24,
+        "portable_count": 23,
         "omitted_from_portable_clients": {
           "unsupported_rules": 1
         },
         "clients": {
-          "mihomo": 23,
-          "singbox": 23,
-          "surge": 22,
-          "loon": 22,
-          "shadowrocket": 22,
-          "quantumultx": 22
+          "mihomo": 24,
+          "singbox": 24,
+          "surge": 23,
+          "loon": 23,
+          "shadowrocket": 23,
+          "quantumultx": 23
         }
       },
       "opencollective": {
@@ -16429,18 +16429,18 @@
         }
       },
       "private": {
-        "canonical_count": 131,
-        "portable_count": 130,
+        "canonical_count": 133,
+        "portable_count": 132,
         "omitted_from_portable_clients": {
           "unsupported_rules": 1
         },
         "clients": {
-          "mihomo": 131,
-          "singbox": 131,
-          "surge": 130,
-          "loon": 130,
-          "shadowrocket": 130,
-          "quantumultx": 130
+          "mihomo": 133,
+          "singbox": 133,
+          "surge": 132,
+          "loon": 132,
+          "shadowrocket": 132,
+          "quantumultx": 132
         }
       },
       "progress": {
@@ -17704,18 +17704,18 @@
         }
       },
       "schwab": {
-        "canonical_count": 7,
-        "portable_count": 7,
+        "canonical_count": 8,
+        "portable_count": 8,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 7,
-          "singbox": 7,
-          "surge": 7,
-          "loon": 7,
-          "shadowrocket": 7,
-          "quantumultx": 7
+          "mihomo": 8,
+          "singbox": 8,
+          "surge": 8,
+          "loon": 8,
+          "shadowrocket": 8,
+          "quantumultx": 8
         }
       },
       "sci": {
@@ -20134,18 +20134,18 @@
         }
       },
       "timeweb": {
-        "canonical_count": 3,
-        "portable_count": 3,
+        "canonical_count": 5,
+        "portable_count": 5,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 3,
-          "singbox": 3,
-          "surge": 3,
-          "loon": 3,
-          "shadowrocket": 3,
-          "quantumultx": 3
+          "mihomo": 5,
+          "singbox": 5,
+          "surge": 5,
+          "loon": 5,
+          "shadowrocket": 5,
+          "quantumultx": 5
         }
       },
       "tinyurl": {
@@ -23209,18 +23209,18 @@
         }
       },
       "cn-ip": {
-        "canonical_count": 10019,
-        "portable_count": 10019,
+        "canonical_count": 10021,
+        "portable_count": 10021,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 10019,
-          "singbox": 10019,
-          "surge": 10019,
-          "loon": 10019,
-          "shadowrocket": 10019,
-          "quantumultx": 10019
+          "mihomo": 10021,
+          "singbox": 10021,
+          "surge": 10021,
+          "loon": 10021,
+          "shadowrocket": 10021,
+          "quantumultx": 10021
         }
       }
     }
@@ -23238,12 +23238,12 @@
     },
     {
       "path": "README.md",
-      "sha256": "b54fb800bee4aa8ded2db325fac6ac33e03b852f9e98fa4349fe1e93a88ac9fc",
+      "sha256": "31172a22b05448c57dd527daab7ea4d117000d581216692e8ea162e4bde2886d",
       "size": 913910
     },
     {
       "path": "catalog.json",
-      "sha256": "f5c57f2abfa1a52283498381def8e1758136b9487b3a6fad8e425307b83897f2",
+      "sha256": "a2d0fea60547c59212ec68e522de0c4970ca9253a8047b63b22fea1291645ace",
       "size": 1251103
     },
     {
@@ -24308,8 +24308,8 @@
     },
     {
       "path": "loon/category-ai-chat-not-cn.list",
-      "sha256": "ce526bef60e50a2d91b261716a4e24cc42d9fad03e2a8ff6208e824b97145820",
-      "size": 5746
+      "sha256": "5ac9723dc2d6e4854211f746d062855a3eb864fbe3f9c0a0be314333b0a8816a",
+      "size": 5824
     },
     {
       "path": "loon/category-ai-cn.list",
@@ -24318,8 +24318,8 @@
     },
     {
       "path": "loon/category-ai-not-cn.list",
-      "sha256": "ce526bef60e50a2d91b261716a4e24cc42d9fad03e2a8ff6208e824b97145820",
-      "size": 5746
+      "sha256": "5ac9723dc2d6e4854211f746d062855a3eb864fbe3f9c0a0be314333b0a8816a",
+      "size": 5824
     },
     {
       "path": "loon/category-ai-ru.list",
@@ -24418,8 +24418,8 @@
     },
     {
       "path": "loon/category-companies.list",
-      "sha256": "fba83b8416ef364ce63ba4a0cb4733fd3e065fce2a95e8a9a6967bccf33b9073",
-      "size": 224067
+      "sha256": "6e9471592dd3c57ac1fd3da039e2c078b2e114766e11d4648ee21fcf7393ad46",
+      "size": 224124
     },
     {
       "path": "loon/category-consent-management.list",
@@ -24523,8 +24523,8 @@
     },
     {
       "path": "loon/category-finance.list",
-      "sha256": "ff3b09430046a3adba43ec811ab5a677c7cbf79b25ee7c02b949ffd7dced3668",
-      "size": 17979
+      "sha256": "1d8fcc108eb5a2ff9f4af67f7bebb305b2a0c8d55909f20820d3bc2c55b39fca",
+      "size": 18007
     },
     {
       "path": "loon/category-food-cn.list",
@@ -24758,8 +24758,8 @@
     },
     {
       "path": "loon/category-ru.list",
-      "sha256": "c46c0278853d955fe48112b8375d742352f30cdc960b885221f7ea0313fb256f",
-      "size": 22237
+      "sha256": "53cd206c373febd04c44862832fa94b5ef4c33aca307f41cd60b7ed2f55a9aa0",
+      "size": 22294
     },
     {
       "path": "loon/category-scholar-cn.list",
@@ -25123,8 +25123,8 @@
     },
     {
       "path": "loon/cn-ip.list",
-      "sha256": "1e174c7065d51d639add627c27ffb3c6a10790b882fba0806b8cfde37ef569b6",
-      "size": 353223
+      "sha256": "874766188b54f022d2b2a367416580e0ef21466436acd4bca8655ec463dc05df",
+      "size": 353288
     },
     {
       "path": "loon/cn.list",
@@ -25333,8 +25333,8 @@
     },
     {
       "path": "loon/cursor.list",
-      "sha256": "bc37c340cc7db1cfa97dc3f2758a70099e3d63767d6d61df7d38aa66303a4f8f",
-      "size": 105
+      "sha256": "163435ec43226a0b8a9322048cd132fc65ae20dc4de7a0bcb3b43d87f32e393c",
+      "size": 132
     },
     {
       "path": "loon/cuttly.list",
@@ -26208,8 +26208,8 @@
     },
     {
       "path": "loon/geolocation-not-cn.list",
-      "sha256": "03a6db20ec0899db73baef0a3083ecbd2197fb9f0ebec987a02fa8f3c70b29ab",
-      "size": 693598
+      "sha256": "ad724981fd6697c0bc6deccc927724e1a646d7ae6dcb981e9fb7fcd841a51674",
+      "size": 693761
     },
     {
       "path": "loon/gettyimages.list",
@@ -28353,8 +28353,8 @@
     },
     {
       "path": "loon/openai.list",
-      "sha256": "cf7a1447db0f6a1a93b633df719e0c45188e7276909bc6aa193ef2bbaa5e29a1",
-      "size": 741
+      "sha256": "22781e0cf564e8b1b27b910ea205c2aeda6c7980671c3096f38744632a7b03f0",
+      "size": 766
     },
     {
       "path": "loon/opencollective.list",
@@ -28718,8 +28718,8 @@
     },
     {
       "path": "loon/private.list",
-      "sha256": "6802ad34cea360eda5b8fa9e9c9214747b9c4bf654f6335657bc70a838ea1861",
-      "size": 4188
+      "sha256": "4d8998599ecf7fe503438fff8568cb22278962fc873fee9576dbc96fe73abb16",
+      "size": 4255
     },
     {
       "path": "loon/progress.list",
@@ -29143,8 +29143,8 @@
     },
     {
       "path": "loon/schwab.list",
-      "sha256": "b61bb0cc3e5f7113dc4ad953af2cd2c773f5798f182b47d510befd5c95fe5280",
-      "size": 206
+      "sha256": "2a672931e35ec2b4f87262c778ddb8ecb9de99c826c51e34349ee4f8f8e27c18",
+      "size": 234
     },
     {
       "path": "loon/sci-hub.list",
@@ -29953,8 +29953,8 @@
     },
     {
       "path": "loon/timeweb.list",
-      "sha256": "7d528cb4630289a9c776a035de396b15bb7e85c7ac339f3cee50e68898bd8a28",
-      "size": 81
+      "sha256": "51b6c0531bdec8661b707f47d4e80a01bd47483eeb3a7f1830939fbda3bbc321",
+      "size": 138
     },
     {
       "path": "loon/tinyurl.list",
@@ -32038,8 +32038,8 @@
     },
     {
       "path": "mihomo/category-ai-chat-not-cn.yaml",
-      "sha256": "73aa4689883465c95d3bb6820797e0545baa373a2c54d5eb94a5f72aea47944e",
-      "size": 6967
+      "sha256": "d5a8aeb729c14b3373cae633a521de79dde721f14565a69d70cb74b5b87592f5",
+      "size": 7063
     },
     {
       "path": "mihomo/category-ai-cn.yaml",
@@ -32048,8 +32048,8 @@
     },
     {
       "path": "mihomo/category-ai-not-cn.yaml",
-      "sha256": "73aa4689883465c95d3bb6820797e0545baa373a2c54d5eb94a5f72aea47944e",
-      "size": 6967
+      "sha256": "d5a8aeb729c14b3373cae633a521de79dde721f14565a69d70cb74b5b87592f5",
+      "size": 7063
     },
     {
       "path": "mihomo/category-ai-ru.yaml",
@@ -32148,8 +32148,8 @@
     },
     {
       "path": "mihomo/category-companies.yaml",
-      "sha256": "8737f78f5aee15f1573f7b49abafe7c45991cdcc72466bd9a781d2a19aa3f96b",
-      "size": 270331
+      "sha256": "c4e94f68047c916eab5cf5cb1ba9df2c9c3039c74de5c5477338e914d58556d7",
+      "size": 270400
     },
     {
       "path": "mihomo/category-consent-management.yaml",
@@ -32253,8 +32253,8 @@
     },
     {
       "path": "mihomo/category-finance.yaml",
-      "sha256": "26bae66ee32be16067de1971c95efd63ec9c2b80326c5dbda4954768ad4d4bce",
-      "size": 21907
+      "sha256": "5a7117e208ef6cbec71c625b574ed3935e5a04a95fe259d41b759007dae5957d",
+      "size": 21941
     },
     {
       "path": "mihomo/category-food-cn.yaml",
@@ -32488,8 +32488,8 @@
     },
     {
       "path": "mihomo/category-ru.yaml",
-      "sha256": "1608235ead0828ca9f8202e8ab8cc361e0bb3b638592b600ff07d5fe64a1b7c2",
-      "size": 27263
+      "sha256": "00e5663c89b34ef49a73855ebd4b282ef4738de96a0ba443c7673c18b2345942",
+      "size": 27332
     },
     {
       "path": "mihomo/category-scholar-cn.yaml",
@@ -32853,8 +32853,8 @@
     },
     {
       "path": "mihomo/cn-ip.yaml",
-      "sha256": "cf987f72bbd251afe5c31b8bab3810959b0ed48b4d31d414582c759a7d2f2d26",
-      "size": 303138
+      "sha256": "30a2619214eca43485307720ef8265fd0b664b8e4c2b0252d00d177e89785e57",
+      "size": 303193
     },
     {
       "path": "mihomo/cn.yaml",
@@ -33063,8 +33063,8 @@
     },
     {
       "path": "mihomo/cursor.yaml",
-      "sha256": "ab0090c01110c3bcc742676ccd277bc5bbb0001ee679239460623aa5188efe85",
-      "size": 139
+      "sha256": "e4d38549f3f9fb93bd10689f62c70023b8bd09ad003d07dcf7d25f8fddb43514",
+      "size": 172
     },
     {
       "path": "mihomo/cuttly.yaml",
@@ -33938,8 +33938,8 @@
     },
     {
       "path": "mihomo/geolocation-not-cn.yaml",
-      "sha256": "51ea548255ea474199b3c08f20236db245ff406cc14a8295630110f123f1c5d7",
-      "size": 845781
+      "sha256": "5a4422e0c18cbd348dfc19ddbae4667da0d3d61350323fc32eed56638c9ceb89",
+      "size": 845980
     },
     {
       "path": "mihomo/gettyimages.yaml",
@@ -36083,8 +36083,8 @@
     },
     {
       "path": "mihomo/openai.yaml",
-      "sha256": "5bedd015a2498cf21876a0431a16cbfb28af29a3e24c28ba000fc9a94612a54e",
-      "size": 960
+      "sha256": "588c0f3d6856f82579f2b86b4b330d726375db2d5c8d7e2acc95dc13b56d43f1",
+      "size": 991
     },
     {
       "path": "mihomo/opencollective.yaml",
@@ -36448,8 +36448,8 @@
     },
     {
       "path": "mihomo/private.yaml",
-      "sha256": "9e5efdcedbd9321194401cecb7a253ffe443ef851083309bac2988d870e5e7ca",
-      "size": 5031
+      "sha256": "0d4dff0c7d947a0de500c8fcbb98793685ab8defe38228aabac0a3f338f4d2b8",
+      "size": 5110
     },
     {
       "path": "mihomo/progress.yaml",
@@ -36873,8 +36873,8 @@
     },
     {
       "path": "mihomo/schwab.yaml",
-      "sha256": "6a9f6b3fe9fc3cf8e021dff67d0129ddf9d2df0da801f4646f48ee9cdf8350da",
-      "size": 258
+      "sha256": "ea40ce31e85ec3806350fa10b9502e4701e38d55356a2e028140355d6af5974b",
+      "size": 292
     },
     {
       "path": "mihomo/sci-hub.yaml",
@@ -37683,8 +37683,8 @@
     },
     {
       "path": "mihomo/timeweb.yaml",
-      "sha256": "82f52061a2a25b09425dcb98bdc0330df7bbe3441339e4c2fc63c5b928a174ca",
-      "size": 109
+      "sha256": "4d88490f4363e694bc4224a9a7ccac3339cd72f0556d56efa75ee129ad379e60",
+      "size": 178
     },
     {
       "path": "mihomo/tinyurl.yaml",
@@ -39768,8 +39768,8 @@
     },
     {
       "path": "quantumultx/category-ai-chat-not-cn.list",
-      "sha256": "714b144b5f23f9cdeb4685a155e7a2a19cd64c7c1385498e6e8acdd9b5015f60",
-      "size": 9904
+      "sha256": "bf7dd9ff9db5431f2ab26bf701a19aca70dd83b661e9de9e2efcf4162d853b78",
+      "size": 10048
     },
     {
       "path": "quantumultx/category-ai-cn.list",
@@ -39778,8 +39778,8 @@
     },
     {
       "path": "quantumultx/category-ai-not-cn.list",
-      "sha256": "a27692324be69645b37822f2c7db4db3eb5455e0ecadbeb644bcfe63c3f91b5a",
-      "size": 8959
+      "sha256": "3044cf7d036f4f2b6a7d2ae6cdb4599f674c7e6da317414611b5c9325bd4c84e",
+      "size": 9088
     },
     {
       "path": "quantumultx/category-ai-ru.list",
@@ -39878,8 +39878,8 @@
     },
     {
       "path": "quantumultx/category-companies.list",
-      "sha256": "a308eb1d67d9366b53e03bcc7fe47fb8f9c646bdc40ec325153fb55195a35da5",
-      "size": 354610
+      "sha256": "f5e9f17b8947751e30372eecbd35c4fc695eda4d36aeee30f8a5939c87a77a78",
+      "size": 354701
     },
     {
       "path": "quantumultx/category-consent-management.list",
@@ -39983,8 +39983,8 @@
     },
     {
       "path": "quantumultx/category-finance.list",
-      "sha256": "0dc0288243f7a74a5eb4af4b24b85cb61fa4bbd8771e4b7ef7e5899de3cd904a",
-      "size": 27774
+      "sha256": "ccac3efc3a13b4ec0315ed90e3ab74bdd153eb57b1af6481b31a1cb090fbf9f6",
+      "size": 27817
     },
     {
       "path": "quantumultx/category-food-cn.list",
@@ -40218,8 +40218,8 @@
     },
     {
       "path": "quantumultx/category-ru.list",
-      "sha256": "1a0771793e043105e8b810182fdba69397f6e3c4347d579a335f008fbf0639fb",
-      "size": 30597
+      "sha256": "8d29526c9870639bc28a41920083d673a07e881afa3f05a77c719e339b1c728c",
+      "size": 30674
     },
     {
       "path": "quantumultx/category-scholar-cn.list",
@@ -40583,8 +40583,8 @@
     },
     {
       "path": "quantumultx/cn-ip.list",
-      "sha256": "3020e9b9ecf2a115b7929593b58c82136e27506e9c390db3767e157e0d05f6b4",
-      "size": 303128
+      "sha256": "94264c931de7f9af7df3b69e63c36eca51142532f611d2c0de12775164197fcb",
+      "size": 303183
     },
     {
       "path": "quantumultx/cn.list",
@@ -40793,8 +40793,8 @@
     },
     {
       "path": "quantumultx/cursor.list",
-      "sha256": "3e82a6f7e3857c1eb6a86796e5c36dbc6dd47a0fdd30549185ac7ca9e2c7b5fa",
-      "size": 125
+      "sha256": "ba989bdb5064e45fb539a4979d8245a4b0f145079fe0f030edda445848488462",
+      "size": 157
     },
     {
       "path": "quantumultx/cuttly.list",
@@ -41668,8 +41668,8 @@
     },
     {
       "path": "quantumultx/geolocation-not-cn.list",
-      "sha256": "55a76c2308897f98b6171fd928a8d54c4d1e38b19909127c41948a58381c8e37",
-      "size": 1105270
+      "sha256": "888f31a8fa235e6a6d38f091aa912d1af9a4f9e7b1ab343c57af9c29834610be",
+      "size": 1105535
     },
     {
       "path": "quantumultx/gettyimages.list",
@@ -43813,8 +43813,8 @@
     },
     {
       "path": "quantumultx/openai.list",
-      "sha256": "c172f85cb74c0f6e9ac6acc12d537265a14b08c42fc6151c632296ab65d0f213",
-      "size": 851
+      "sha256": "fbed6bc8b3c6c79c0e22da6c93c9e93b18a3a648c3c4a93b014bdd373690529e",
+      "size": 881
     },
     {
       "path": "quantumultx/opencollective.list",
@@ -44178,8 +44178,8 @@
     },
     {
       "path": "quantumultx/private.list",
-      "sha256": "9480fdef9958de0e226aa8b6b029248bcc34ee4835328934e4b5801221793b45",
-      "size": 4968
+      "sha256": "c07d934afd00eb9068591dcf2550cd170ffe6c8e570c069ae2e7b730316b0d3b",
+      "size": 5047
     },
     {
       "path": "quantumultx/progress.list",
@@ -44603,8 +44603,8 @@
     },
     {
       "path": "quantumultx/schwab.list",
-      "sha256": "e332bb93cb28aab83e12c63953535ccaa28c36c2c0a22eaad38c602b4655aa3c",
-      "size": 241
+      "sha256": "345c5a9265ce815a5148e0f0c761116e2a6a9db880dac777a195fbe360593291",
+      "size": 274
     },
     {
       "path": "quantumultx/sci-hub.list",
@@ -45413,8 +45413,8 @@
     },
     {
       "path": "quantumultx/timeweb.list",
-      "sha256": "9bb8c6225cd168346fe7ceb655ab1af9f92fe9d1ca8d581bfe8f1dfafdd43c87",
-      "size": 99
+      "sha256": "bc915af9861461fbbb9fc959b928f2161ade5094b36149a62c10f913ab90a9fe",
+      "size": 168
     },
     {
       "path": "quantumultx/tinyurl.list",
@@ -47498,8 +47498,8 @@
     },
     {
       "path": "shadowrocket/category-ai-chat-not-cn.list",
-      "sha256": "ce526bef60e50a2d91b261716a4e24cc42d9fad03e2a8ff6208e824b97145820",
-      "size": 5746
+      "sha256": "5ac9723dc2d6e4854211f746d062855a3eb864fbe3f9c0a0be314333b0a8816a",
+      "size": 5824
     },
     {
       "path": "shadowrocket/category-ai-cn.list",
@@ -47508,8 +47508,8 @@
     },
     {
       "path": "shadowrocket/category-ai-not-cn.list",
-      "sha256": "ce526bef60e50a2d91b261716a4e24cc42d9fad03e2a8ff6208e824b97145820",
-      "size": 5746
+      "sha256": "5ac9723dc2d6e4854211f746d062855a3eb864fbe3f9c0a0be314333b0a8816a",
+      "size": 5824
     },
     {
       "path": "shadowrocket/category-ai-ru.list",
@@ -47608,8 +47608,8 @@
     },
     {
       "path": "shadowrocket/category-companies.list",
-      "sha256": "fba83b8416ef364ce63ba4a0cb4733fd3e065fce2a95e8a9a6967bccf33b9073",
-      "size": 224067
+      "sha256": "6e9471592dd3c57ac1fd3da039e2c078b2e114766e11d4648ee21fcf7393ad46",
+      "size": 224124
     },
     {
       "path": "shadowrocket/category-consent-management.list",
@@ -47713,8 +47713,8 @@
     },
     {
       "path": "shadowrocket/category-finance.list",
-      "sha256": "ff3b09430046a3adba43ec811ab5a677c7cbf79b25ee7c02b949ffd7dced3668",
-      "size": 17979
+      "sha256": "1d8fcc108eb5a2ff9f4af67f7bebb305b2a0c8d55909f20820d3bc2c55b39fca",
+      "size": 18007
     },
     {
       "path": "shadowrocket/category-food-cn.list",
@@ -47948,8 +47948,8 @@
     },
     {
       "path": "shadowrocket/category-ru.list",
-      "sha256": "c46c0278853d955fe48112b8375d742352f30cdc960b885221f7ea0313fb256f",
-      "size": 22237
+      "sha256": "53cd206c373febd04c44862832fa94b5ef4c33aca307f41cd60b7ed2f55a9aa0",
+      "size": 22294
     },
     {
       "path": "shadowrocket/category-scholar-cn.list",
@@ -48313,8 +48313,8 @@
     },
     {
       "path": "shadowrocket/cn-ip.list",
-      "sha256": "1e174c7065d51d639add627c27ffb3c6a10790b882fba0806b8cfde37ef569b6",
-      "size": 353223
+      "sha256": "874766188b54f022d2b2a367416580e0ef21466436acd4bca8655ec463dc05df",
+      "size": 353288
     },
     {
       "path": "shadowrocket/cn.list",
@@ -48523,8 +48523,8 @@
     },
     {
       "path": "shadowrocket/cursor.list",
-      "sha256": "bc37c340cc7db1cfa97dc3f2758a70099e3d63767d6d61df7d38aa66303a4f8f",
-      "size": 105
+      "sha256": "163435ec43226a0b8a9322048cd132fc65ae20dc4de7a0bcb3b43d87f32e393c",
+      "size": 132
     },
     {
       "path": "shadowrocket/cuttly.list",
@@ -49398,8 +49398,8 @@
     },
     {
       "path": "shadowrocket/geolocation-not-cn.list",
-      "sha256": "03a6db20ec0899db73baef0a3083ecbd2197fb9f0ebec987a02fa8f3c70b29ab",
-      "size": 693598
+      "sha256": "ad724981fd6697c0bc6deccc927724e1a646d7ae6dcb981e9fb7fcd841a51674",
+      "size": 693761
     },
     {
       "path": "shadowrocket/gettyimages.list",
@@ -51543,8 +51543,8 @@
     },
     {
       "path": "shadowrocket/openai.list",
-      "sha256": "cf7a1447db0f6a1a93b633df719e0c45188e7276909bc6aa193ef2bbaa5e29a1",
-      "size": 741
+      "sha256": "22781e0cf564e8b1b27b910ea205c2aeda6c7980671c3096f38744632a7b03f0",
+      "size": 766
     },
     {
       "path": "shadowrocket/opencollective.list",
@@ -51908,8 +51908,8 @@
     },
     {
       "path": "shadowrocket/private.list",
-      "sha256": "6802ad34cea360eda5b8fa9e9c9214747b9c4bf654f6335657bc70a838ea1861",
-      "size": 4188
+      "sha256": "4d8998599ecf7fe503438fff8568cb22278962fc873fee9576dbc96fe73abb16",
+      "size": 4255
     },
     {
       "path": "shadowrocket/progress.list",
@@ -52333,8 +52333,8 @@
     },
     {
       "path": "shadowrocket/schwab.list",
-      "sha256": "b61bb0cc3e5f7113dc4ad953af2cd2c773f5798f182b47d510befd5c95fe5280",
-      "size": 206
+      "sha256": "2a672931e35ec2b4f87262c778ddb8ecb9de99c826c51e34349ee4f8f8e27c18",
+      "size": 234
     },
     {
       "path": "shadowrocket/sci-hub.list",
@@ -53143,8 +53143,8 @@
     },
     {
       "path": "shadowrocket/timeweb.list",
-      "sha256": "7d528cb4630289a9c776a035de396b15bb7e85c7ac339f3cee50e68898bd8a28",
-      "size": 81
+      "sha256": "51b6c0531bdec8661b707f47d4e80a01bd47483eeb3a7f1830939fbda3bbc321",
+      "size": 138
     },
     {
       "path": "shadowrocket/tinyurl.list",
@@ -55228,8 +55228,8 @@
     },
     {
       "path": "singbox/category-ai-chat-not-cn.srs",
-      "sha256": "66e38061f5ac913dc05ee9f1c9da82a5d5fb8046c14c2de464f7ea15bc875d88",
-      "size": 1950
+      "sha256": "a66b3a63222a22dcb9bfe36f95b1fada077e8ba135c730d6a35ad2f5df148bff",
+      "size": 1959
     },
     {
       "path": "singbox/category-ai-cn.srs",
@@ -55238,8 +55238,8 @@
     },
     {
       "path": "singbox/category-ai-not-cn.srs",
-      "sha256": "66e38061f5ac913dc05ee9f1c9da82a5d5fb8046c14c2de464f7ea15bc875d88",
-      "size": 1950
+      "sha256": "a66b3a63222a22dcb9bfe36f95b1fada077e8ba135c730d6a35ad2f5df148bff",
+      "size": 1959
     },
     {
       "path": "singbox/category-ai-ru.srs",
@@ -55338,8 +55338,8 @@
     },
     {
       "path": "singbox/category-companies.srs",
-      "sha256": "d9577ce305ec6b5d640a20b4e1333fd7ccba6dba883c8a65fb767c9ecfbc9610",
-      "size": 52568
+      "sha256": "8965ea784e9c04bf0860f6f231c7e6cd0d1821fe51dde8d8b8b0fd9447b0c806",
+      "size": 52581
     },
     {
       "path": "singbox/category-consent-management.srs",
@@ -55443,8 +55443,8 @@
     },
     {
       "path": "singbox/category-finance.srs",
-      "sha256": "e3ac2d5c407da7d2ec02c4e6e033483fd7ebfc29af25a23fb81022ca6547ad1c",
-      "size": 4612
+      "sha256": "1d41c9c68a97c7855314a19d9a9f22fe9f23cf07e64d78dec875645901961c8c",
+      "size": 4627
     },
     {
       "path": "singbox/category-food-cn.srs",
@@ -55678,8 +55678,8 @@
     },
     {
       "path": "singbox/category-ru.srs",
-      "sha256": "9a9642c795a17191bc8b6a5ef08412c6eb87a55a9b47c7cb83760fb18ebcf275",
-      "size": 6266
+      "sha256": "518489af00d3178fc9c4dfbf869cee8971874a0a275ad77d820d863fd446258a",
+      "size": 6281
     },
     {
       "path": "singbox/category-scholar-cn.srs",
@@ -56043,8 +56043,8 @@
     },
     {
       "path": "singbox/cn-ip.srs",
-      "sha256": "85176840f99c168b7bc6b190257109b072703816e9620da35ea00af35f380594",
-      "size": 37226
+      "sha256": "c8bd269d7047486024c83736201ad6b2a2d7774ad62c0ae77d37c93ca891481b",
+      "size": 37253
     },
     {
       "path": "singbox/cn.srs",
@@ -56253,8 +56253,8 @@
     },
     {
       "path": "singbox/cursor.srs",
-      "sha256": "28f252b9b6c18cd51306687420dd51a1d65423b8a81e47220476510e23f8cdff",
-      "size": 89
+      "sha256": "7474ccd0b42e2be49035fd356065268f52c0b81421abf4a7d0bfbf7e7578d312",
+      "size": 94
     },
     {
       "path": "singbox/cuttly.srs",
@@ -57128,8 +57128,8 @@
     },
     {
       "path": "singbox/geolocation-not-cn.srs",
-      "sha256": "2910addcffaeccf7fad83263dd7a5aa1fb3b75042ebd0ba08197e6a503816238",
-      "size": 150917
+      "sha256": "9de7847fec5f08ce2b3cc989875bf7cb8ed7ac97d54f718ac36805d0a3a6b6c1",
+      "size": 150929
     },
     {
       "path": "singbox/gettyimages.srs",
@@ -59273,8 +59273,8 @@
     },
     {
       "path": "singbox/openai.srs",
-      "sha256": "0474346b33e3b8232a75511205be6daed754f1c77dafa2a4272b46927d61fd7d",
-      "size": 464
+      "sha256": "e299e5691c30f147470dab8b913fe40d8a84869475adc4197218f57ee413d95f",
+      "size": 473
     },
     {
       "path": "singbox/opencollective.srs",
@@ -59638,8 +59638,8 @@
     },
     {
       "path": "singbox/private.srs",
-      "sha256": "86e2d620c1d7f8022db4fa5d7194e59c4078503b72b727fe9a2e060acf9e1da3",
-      "size": 703
+      "sha256": "a596d49b157f182d95bf9ee35d1edae507c25e4108a1fa713ae6de4ef22b6eb0",
+      "size": 735
     },
     {
       "path": "singbox/progress.srs",
@@ -60063,8 +60063,8 @@
     },
     {
       "path": "singbox/schwab.srs",
-      "sha256": "470dd08923c3345523eff546d8a73490350e5dabcec7570d825196675a499efa",
-      "size": 133
+      "sha256": "fd2e335f52ce46df9f6ede7ecc42977cb7031334ad384614c86b9e952d4b5a39",
+      "size": 142
     },
     {
       "path": "singbox/sci-hub.srs",
@@ -60873,8 +60873,8 @@
     },
     {
       "path": "singbox/timeweb.srs",
-      "sha256": "75049799358c2c90f713e6e85ab1df20ba4638b03fa0be25aae085f81c3197e1",
-      "size": 83
+      "sha256": "dda66f5c75a452c68e98ed6675c02e5a3758229679050a5964f87b475b4d1df6",
+      "size": 109
     },
     {
       "path": "singbox/tinyurl.srs",
@@ -62958,8 +62958,8 @@
     },
     {
       "path": "surge/category-ai-chat-not-cn.list",
-      "sha256": "ce526bef60e50a2d91b261716a4e24cc42d9fad03e2a8ff6208e824b97145820",
-      "size": 5746
+      "sha256": "5ac9723dc2d6e4854211f746d062855a3eb864fbe3f9c0a0be314333b0a8816a",
+      "size": 5824
     },
     {
       "path": "surge/category-ai-cn.list",
@@ -62968,8 +62968,8 @@
     },
     {
       "path": "surge/category-ai-not-cn.list",
-      "sha256": "ce526bef60e50a2d91b261716a4e24cc42d9fad03e2a8ff6208e824b97145820",
-      "size": 5746
+      "sha256": "5ac9723dc2d6e4854211f746d062855a3eb864fbe3f9c0a0be314333b0a8816a",
+      "size": 5824
     },
     {
       "path": "surge/category-ai-ru.list",
@@ -63068,8 +63068,8 @@
     },
     {
       "path": "surge/category-companies.list",
-      "sha256": "fba83b8416ef364ce63ba4a0cb4733fd3e065fce2a95e8a9a6967bccf33b9073",
-      "size": 224067
+      "sha256": "6e9471592dd3c57ac1fd3da039e2c078b2e114766e11d4648ee21fcf7393ad46",
+      "size": 224124
     },
     {
       "path": "surge/category-consent-management.list",
@@ -63173,8 +63173,8 @@
     },
     {
       "path": "surge/category-finance.list",
-      "sha256": "ff3b09430046a3adba43ec811ab5a677c7cbf79b25ee7c02b949ffd7dced3668",
-      "size": 17979
+      "sha256": "1d8fcc108eb5a2ff9f4af67f7bebb305b2a0c8d55909f20820d3bc2c55b39fca",
+      "size": 18007
     },
     {
       "path": "surge/category-food-cn.list",
@@ -63408,8 +63408,8 @@
     },
     {
       "path": "surge/category-ru.list",
-      "sha256": "c46c0278853d955fe48112b8375d742352f30cdc960b885221f7ea0313fb256f",
-      "size": 22237
+      "sha256": "53cd206c373febd04c44862832fa94b5ef4c33aca307f41cd60b7ed2f55a9aa0",
+      "size": 22294
     },
     {
       "path": "surge/category-scholar-cn.list",
@@ -63773,8 +63773,8 @@
     },
     {
       "path": "surge/cn-ip.list",
-      "sha256": "1e174c7065d51d639add627c27ffb3c6a10790b882fba0806b8cfde37ef569b6",
-      "size": 353223
+      "sha256": "874766188b54f022d2b2a367416580e0ef21466436acd4bca8655ec463dc05df",
+      "size": 353288
     },
     {
       "path": "surge/cn.list",
@@ -63983,8 +63983,8 @@
     },
     {
       "path": "surge/cursor.list",
-      "sha256": "bc37c340cc7db1cfa97dc3f2758a70099e3d63767d6d61df7d38aa66303a4f8f",
-      "size": 105
+      "sha256": "163435ec43226a0b8a9322048cd132fc65ae20dc4de7a0bcb3b43d87f32e393c",
+      "size": 132
     },
     {
       "path": "surge/cuttly.list",
@@ -64858,8 +64858,8 @@
     },
     {
       "path": "surge/geolocation-not-cn.list",
-      "sha256": "03a6db20ec0899db73baef0a3083ecbd2197fb9f0ebec987a02fa8f3c70b29ab",
-      "size": 693598
+      "sha256": "ad724981fd6697c0bc6deccc927724e1a646d7ae6dcb981e9fb7fcd841a51674",
+      "size": 693761
     },
     {
       "path": "surge/gettyimages.list",
@@ -67003,8 +67003,8 @@
     },
     {
       "path": "surge/openai.list",
-      "sha256": "cf7a1447db0f6a1a93b633df719e0c45188e7276909bc6aa193ef2bbaa5e29a1",
-      "size": 741
+      "sha256": "22781e0cf564e8b1b27b910ea205c2aeda6c7980671c3096f38744632a7b03f0",
+      "size": 766
     },
     {
       "path": "surge/opencollective.list",
@@ -67368,8 +67368,8 @@
     },
     {
       "path": "surge/private.list",
-      "sha256": "6802ad34cea360eda5b8fa9e9c9214747b9c4bf654f6335657bc70a838ea1861",
-      "size": 4188
+      "sha256": "4d8998599ecf7fe503438fff8568cb22278962fc873fee9576dbc96fe73abb16",
+      "size": 4255
     },
     {
       "path": "surge/progress.list",
@@ -67793,8 +67793,8 @@
     },
     {
       "path": "surge/schwab.list",
-      "sha256": "b61bb0cc3e5f7113dc4ad953af2cd2c773f5798f182b47d510befd5c95fe5280",
-      "size": 206
+      "sha256": "2a672931e35ec2b4f87262c778ddb8ecb9de99c826c51e34349ee4f8f8e27c18",
+      "size": 234
     },
     {
       "path": "surge/sci-hub.list",
@@ -68603,8 +68603,8 @@
     },
     {
       "path": "surge/timeweb.list",
-      "sha256": "7d528cb4630289a9c776a035de396b15bb7e85c7ac339f3cee50e68898bd8a28",
-      "size": 81
+      "sha256": "51b6c0531bdec8661b707f47d4e80a01bd47483eeb3a7f1830939fbda3bbc321",
+      "size": 138
     },
     {
       "path": "surge/tinyurl.list",

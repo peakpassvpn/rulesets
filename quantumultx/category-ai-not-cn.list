@@ -78,6 +78,7 @@ host-suffix,cursor-cdn.com,category-ai-not-cn
 host-suffix,cursor.com,category-ai-not-cn
 host-suffix,cursor.sh,category-ai-not-cn
 host-suffix,cursorapi.com,category-ai-not-cn
+host-suffix,cursorvm.com,category-ai-not-cn
 host-suffix,deepmind.com,category-ai-not-cn
 host-suffix,deepmind.google,category-ai-not-cn
 host-suffix,deepwiki.com,category-ai-not-cn
@@ -155,6 +156,7 @@ host-suffix,opal.google,category-ai-not-cn
 host-suffix,opal.google.com,category-ai-not-cn
 host-suffix,openai.com,category-ai-not-cn
 host-suffix,openai.com.cdn.cloudflare.net,category-ai-not-cn
+host-suffix,openai.org,category-ai-not-cn
 host-suffix,openart.ai,category-ai-not-cn
 host-suffix,openclaw.ai,category-ai-not-cn
 host-suffix,opencode.ai,category-ai-not-cn
@@ -181,6 +183,7 @@ host-suffix,themeforest.net,category-ai-not-cn
 host-suffix,trae.ai,category-ai-not-cn
 host-suffix,tripo3d.ai,category-ai-not-cn
 host-suffix,turn.livekit.cloud,category-ai-not-cn
+host-suffix,typesafe.ai,category-ai-not-cn
 host-suffix,windsurf.build,category-ai-not-cn
 host-suffix,windsurf.com,category-ai-not-cn
 host-suffix,x.ai,category-ai-not-cn

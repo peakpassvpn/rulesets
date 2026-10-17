@@ -18,5 +18,6 @@ host-suffix,oaistatsig.com,openai
 host-suffix,oaiusercontent.com,openai
 host-suffix,openai.com,openai
 host-suffix,openai.com.cdn.cloudflare.net,openai
+host-suffix,openai.org,openai
 host-suffix,sora.com,openai
 host-suffix,turn.livekit.cloud,openai

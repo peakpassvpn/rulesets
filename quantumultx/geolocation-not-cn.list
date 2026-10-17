@@ -5855,6 +5855,7 @@ host-suffix,cursor-cdn.com,geolocation-not-cn
 host-suffix,cursor.com,geolocation-not-cn
 host-suffix,cursor.sh,geolocation-not-cn
 host-suffix,cursorapi.com,geolocation-not-cn
+host-suffix,cursorvm.com,geolocation-not-cn
 host-suffix,curve.fi,geolocation-not-cn
 host-suffix,curvybbwwives.com,geolocation-not-cn
 host-suffix,curvyerotic.com,geolocation-not-cn
@@ -16235,6 +16236,7 @@ host-suffix,op.gg,geolocation-not-cn
 host-suffix,op7979.com,geolocation-not-cn
 host-suffix,opac-project.eu,geolocation-not-cn
 host-suffix,openai.com,geolocation-not-cn
+host-suffix,openai.org,geolocation-not-cn
 host-suffix,openamt.com,geolocation-not-cn
 host-suffix,openapiplatform.com,geolocation-not-cn
 host-suffix,openapiservice.com,geolocation-not-cn
@@ -18645,6 +18647,7 @@ host-suffix,schwab.com,geolocation-not-cn
 host-suffix,schwab.com.hk,geolocation-not-cn
 host-suffix,schwab.com.sg,geolocation-not-cn
 host-suffix,schwabassetmanagement.com,geolocation-not-cn
+host-suffix,schwabcdn.com,geolocation-not-cn
 host-suffix,schwabplan.com,geolocation-not-cn
 host-suffix,sci-hub.ee,geolocation-not-cn
 host-suffix,sci-hub.it.nf,geolocation-not-cn
@@ -20691,6 +20694,8 @@ host-suffix,timesmembership.com,geolocation-not-cn
 host-suffix,timestalks.com,geolocation-not-cn
 host-suffix,timeweb.cloud,geolocation-not-cn
 host-suffix,timeweb.com,geolocation-not-cn
+host-suffix,timeweb.tech,geolocation-not-cn
+host-suffix,timewebcloud.kz,geolocation-not-cn
 host-suffix,timi1.me,geolocation-not-cn
 host-suffix,timo0.com,geolocation-not-cn
 host-suffix,ting53.xyz,geolocation-not-cn
@@ -21142,6 +21147,7 @@ host-suffix,typeisbeautiful.com,geolocation-not-cn
 host-suffix,typekit.com,geolocation-not-cn
 host-suffix,typekit.net,geolocation-not-cn
 host-suffix,typenetwork.com,geolocation-not-cn
+host-suffix,typesafe.ai,geolocation-not-cn
 host-suffix,typesquare.com,geolocation-not-cn
 host-suffix,typography.com,geolocation-not-cn
 host-suffix,tyre-cadcam.com,geolocation-not-cn
