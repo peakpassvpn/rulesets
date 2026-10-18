@@ -1,6 +1,4 @@
-host,flightsimulator.azureedge.net,xbox
 host,prodforza.blob.core.windows.net,xbox
-host-suffix,asobostudio.com,xbox
 host-suffix,beth.games,xbox
 host-suffix,bethesda.net,xbox
 host-suffix,bethesdagamestudios.com,xbox
@@ -8,7 +6,6 @@ host-suffix,bethsoft.com,xbox
 host-suffix,callersbane.com,xbox
 host-suffix,doom.com,xbox
 host-suffix,elderscrolls.com,xbox
-host-suffix,flightsimulator.com,xbox
 host-suffix,forza.net,xbox
 host-suffix,forzamotorsport.net,xbox
 host-suffix,forzaracingchampionship.com,xbox

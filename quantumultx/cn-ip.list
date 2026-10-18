@@ -3263,16 +3263,7 @@ ip-cidr,109.244.0.0/16,cn-ip
 ip-cidr,110.6.0.0/15,cn-ip
 ip-cidr,110.16.0.0/14,cn-ip
 ip-cidr,110.34.40.0/21,cn-ip
-ip-cidr,110.40.0.0/15,cn-ip
-ip-cidr,110.42.0.0/20,cn-ip
-ip-cidr,110.42.16.0/24,cn-ip
-ip-cidr,110.42.18.0/23,cn-ip
-ip-cidr,110.42.20.0/22,cn-ip
-ip-cidr,110.42.24.0/21,cn-ip
-ip-cidr,110.42.32.0/19,cn-ip
-ip-cidr,110.42.64.0/18,cn-ip
-ip-cidr,110.42.128.0/17,cn-ip
-ip-cidr,110.43.0.0/16,cn-ip
+ip-cidr,110.40.0.0/14,cn-ip
 ip-cidr,110.44.12.0/22,cn-ip
 ip-cidr,110.44.144.0/20,cn-ip
 ip-cidr,110.48.0.0/16,cn-ip
@@ -9595,6 +9586,7 @@ ip6-cidr,2407:fd80::/32,cn-ip
 ip6-cidr,2408:4000::/28,cn-ip
 ip6-cidr,2408:4010::/30,cn-ip
 ip6-cidr,2408:4014::/31,cn-ip
+ip6-cidr,2408:4016:1::/48,cn-ip
 ip6-cidr,2408:4016:2::/47,cn-ip
 ip6-cidr,2408:4016:4::/46,cn-ip
 ip6-cidr,2408:4016:8::/45,cn-ip

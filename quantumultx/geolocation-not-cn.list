@@ -2404,7 +2404,6 @@ host-suffix,asminternational.org,geolocation-not-cn
 host-suffix,asmr.gay,geolocation-not-cn
 host-suffix,asmrbuluo.com,geolocation-not-cn
 host-suffix,asn-online.org,geolocation-not-cn
-host-suffix,asobostudio.com,geolocation-not-cn
 host-suffix,asp-cc.com,geolocation-not-cn
 host-suffix,asp.net,geolocation-not-cn
 host-suffix,aspbjournals.org,geolocation-not-cn
@@ -3400,8 +3399,15 @@ host-suffix,beescrm.ru,geolocation-not-cn
 host-suffix,beforeigners.com,geolocation-not-cn
 host-suffix,befuck.com,geolocation-not-cn
 host-suffix,befuck.net,geolocation-not-cn
+host-suffix,beget.app,geolocation-not-cn
+host-suffix,beget.cloud,geolocation-not-cn
 host-suffix,beget.com,geolocation-not-cn
+host-suffix,beget.de,geolocation-not-cn
+host-suffix,beget.hosting,geolocation-not-cn
+host-suffix,beget.pro,geolocation-not-cn
 host-suffix,beget.ru,geolocation-not-cn
+host-suffix,beget.tech,geolocation-not-cn
+host-suffix,begetcdn.cloud,geolocation-not-cn
 host-suffix,begin-trade.com,geolocation-not-cn
 host-suffix,behance.net,geolocation-not-cn
 host-suffix,behindthescreenz.com,geolocation-not-cn
@@ -3429,6 +3435,7 @@ host-suffix,berkanawireless.com,geolocation-not-cn
 host-suffix,berkeley.edu,geolocation-not-cn
 host-suffix,berlincompanions.com,geolocation-not-cn
 host-suffix,beru.ru,geolocation-not-cn
+host-suffix,beserver.ru,geolocation-not-cn
 host-suffix,best-sex-games.com,geolocation-not-cn
 host-suffix,best2pay.net,geolocation-not-cn
 host-suffix,best4bim.com,geolocation-not-cn
@@ -3525,6 +3532,7 @@ host-suffix,beyondcore.com,geolocation-not-cn
 host-suffix,bfa.ru,geolocation-not-cn
 host-suffix,bfads.net,geolocation-not-cn
 host-suffix,bffshd.com,geolocation-not-cn
+host-suffix,bget.ru,geolocation-not-cn
 host-suffix,bgicdn.com,geolocation-not-cn
 host-suffix,bgm.tv,geolocation-not-cn
 host-suffix,bgov.com,geolocation-not-cn
@@ -8484,7 +8492,6 @@ host-suffix,flic.kr,geolocation-not-cn
 host-suffix,flickr,geolocation-not-cn
 host-suffix,flickr.com,geolocation-not-cn
 host-suffix,flickr.net,geolocation-not-cn
-host-suffix,flightsimulator.com,geolocation-not-cn
 host-suffix,flipfap.com,geolocation-not-cn
 host-suffix,flipnotestudio.com,geolocation-not-cn
 host-suffix,flipshare.com,geolocation-not-cn
@@ -17703,6 +17710,7 @@ host-suffix,pussyspace.com,geolocation-not-cn
 host-suffix,pussyspace.net,geolocation-not-cn
 host-suffix,putinho.net,geolocation-not-cn
 host-suffix,putty.org,geolocation-not-cn
+host-suffix,pv-cdn.net,geolocation-not-cn
 host-suffix,pvp.net,geolocation-not-cn
 host-suffix,pvp.tv,geolocation-not-cn
 host-suffix,pvt.sexy,geolocation-not-cn
@@ -19671,6 +19679,7 @@ host-suffix,springer.com,geolocation-not-cn
 host-suffix,springerlink.com,geolocation-not-cn
 host-suffix,springernature.com,geolocation-not-cn
 host-suffix,sprinklesapp.com,geolocation-not-cn
+host-suffix,sprut.io,geolocation-not-cn
 host-suffix,sptvbroadcast.com,geolocation-not-cn
 host-suffix,sputnikglobe.com,geolocation-not-cn
 host-suffix,sputnikimages.com,geolocation-not-cn
@@ -23074,6 +23083,7 @@ host-suffix,xn--8uq428d76d.tokyo,geolocation-not-cn
 host-suffix,xn--90ab.com,geolocation-not-cn
 host-suffix,xn--90ab2c.xn--p1ai,geolocation-not-cn
 host-suffix,xn--90absjljw3g.xn--p1ai,geolocation-not-cn
+host-suffix,xn--90aefb9d.xn--p1ai,geolocation-not-cn
 host-suffix,xn--90aifd0az.shop,geolocation-not-cn
 host-suffix,xn--90aifd0azb.xn--p1acf,geolocation-not-cn
 host-suffix,xn--90wwvt03e.com,geolocation-not-cn

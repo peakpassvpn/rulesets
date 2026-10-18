@@ -34,7 +34,6 @@ host-suffix,applicationinsights.io,microsoft
 host-suffix,applicationinsights.net,microsoft
 host-suffix,appserviceenvironment.cn,microsoft
 host-suffix,aria.ms,microsoft
-host-suffix,asobostudio.com,microsoft
 host-suffix,asp.net,microsoft
 host-suffix,aspnetcdn.com,microsoft
 host-suffix,atom.io,microsoft
@@ -198,7 +197,6 @@ host-suffix,engkoo.com,microsoft
 host-suffix,exp-tas.com,microsoft
 host-suffix,fasttrackreadysupport.com,microsoft
 host-suffix,femalefounderscomp.com,microsoft
-host-suffix,flightsimulator.com,microsoft
 host-suffix,flipwithsurface.com,microsoft
 host-suffix,fluidpreview.com,microsoft
 host-suffix,footprintdns.com,microsoft

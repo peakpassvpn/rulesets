@@ -15,13 +15,15 @@ host,c.ppy.sh,category-games-not-cn
 host,cdngarenanow-a.akamaihd.net,category-games-not-cn
 host,cloudsync-prod.s3.amazonaws.com,category-games-not-cn
 host,d1unuk07s6td74.cloudfront.net,category-games-not-cn
+host,d348twzf7a8p5.cloudfront.net,category-games-not-cn
 host,datarouter.apps.netherrealm.com,category-games-not-cn
+host,devforum-uploads.s3.dualstack.us-east-2.amazonaws.com,category-games-not-cn
 host,dlgarenanow-a.akamaihd.net,category-games-not-cn
 host,dlmobilegarena-a.akamaihd.net,category-games-not-cn
+host,doy2mn9upadnk.cloudfront.net,category-games-not-cn
 host,ea.tt.omtrdc.net,category-games-not-cn
 host,eaassets-a.akamaihd.net,category-games-not-cn
 host,f3b7q2p3.ssl.hwcdn.net,category-games-not-cn
-host,flightsimulator.azureedge.net,category-games-not-cn
 host,gamedownloads-rockstargames-com.akamaized.net,category-games-not-cn
 host,gog-cdn-lumen.secure2.footprint.net,category-games-not-cn
 host,gog-cdn.akamaized.net,category-games-not-cn
@@ -115,7 +117,6 @@ host-suffix,armaplatform.com,category-games-not-cn
 host-suffix,artstation.com,category-games-not-cn
 host-suffix,artstationmedia.com,category-games-not-cn
 host-suffix,artstorm.com,category-games-not-cn
-host-suffix,asobostudio.com,category-games-not-cn
 host-suffix,awayoutgame.com,category-games-not-cn
 host-suffix,ayudanintendo.com,category-games-not-cn
 host-suffix,battle.net,category-games-not-cn
@@ -276,7 +277,6 @@ host-suffix,fire-emblem-heroes.com,category-games-not-cn
 host-suffix,fireemblemawakening.com,category-games-not-cn
 host-suffix,firesidegatherings.com,category-games-not-cn
 host-suffix,fitgirl-repacks.site,category-games-not-cn
-host-suffix,flightsimulator.com,category-games-not-cn
 host-suffix,flipnotestudio.com,category-games-not-cn
 host-suffix,forgecdn.net,category-games-not-cn
 host-suffix,fortnite-vod.akamaized.net,category-games-not-cn

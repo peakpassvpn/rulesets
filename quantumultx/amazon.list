@@ -209,6 +209,7 @@ host-suffix,primevideo.com,amazon
 host-suffix,primevideo.info,amazon
 host-suffix,primevideo.org,amazon
 host-suffix,primevideo.tv,amazon
+host-suffix,pv-cdn.net,amazon
 host-suffix,route53.cn,amazon
 host-suffix,sagemaker.com.cn,amazon
 host-suffix,seattlespheres.com,amazon

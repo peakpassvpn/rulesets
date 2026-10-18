@@ -56,6 +56,7 @@ host,d2v9yioq9zuuq2.cloudfront.net,category-entertainment
 host,d2vjef5jvl6bfs.cloudfront.net,category-entertainment
 host,d2xmjdvx03ij56.cloudfront.net,category-entertainment
 host,d31dormfno8pk4.cloudfront.net,category-entertainment
+host,d348twzf7a8p5.cloudfront.net,category-entertainment
 host,d36nr0u3xmc4mm.cloudfront.net,category-entertainment
 host,d3aqoihi2n8ty8.cloudfront.net,category-entertainment
 host,d3c27h4odz752x.cloudfront.net,category-entertainment
@@ -70,6 +71,7 @@ host,datarouter.apps.netherrealm.com,category-entertainment
 host,dcb0z5ovq92mz.cloudfront.net,category-entertainment
 host,ddacn6pr5v0tl.cloudfront.net,category-entertainment
 host,ddpjwstwtpszg.cloudfront.net,category-entertainment
+host,devforum-uploads.s3.dualstack.us-east-2.amazonaws.com,category-entertainment
 host,dfp6rglgjqszk.cloudfront.net,category-entertainment
 host,dgeft87wbj63p.cloudfront.net,category-entertainment
 host,disney.my.sentry.io,category-entertainment
@@ -77,6 +79,7 @@ host,disneyplus.com.ssl.sc.omtrdc.net,category-entertainment
 host,dlgarenanow-a.akamaihd.net,category-entertainment
 host,dlmobilegarena-a.akamaihd.net,category-entertainment
 host,dmqdd6hw24ucf.cloudfront.net,category-entertainment
+host,doy2mn9upadnk.cloudfront.net,category-entertainment
 host,dqd0jw5gvbchn.cloudfront.net,category-entertainment
 host,dqrpb9wgowsf5.cloudfront.net,category-entertainment
 host,ds-linear-abematv.akamaized.net,category-entertainment
@@ -91,7 +94,6 @@ host,espn.hb.omtrdc.net,category-entertainment
 host,espndotcom.tt.omtrdc.net,category-entertainment
 host,f3b7q2p3.ssl.hwcdn.net,category-entertainment
 host,favoritescc-hamivideo2.cdn.hinet.net,category-entertainment
-host,flightsimulator.azureedge.net,category-entertainment
 host,gamedownloads-rockstargames-com.akamaized.net,category-entertainment
 host,gamer-cds.cdn.hinet.net,category-entertainment
 host,gamer2-cds.cdn.hinet.net,category-entertainment
@@ -328,7 +330,6 @@ host-suffix,armaplatform.com,category-entertainment
 host-suffix,artstation.com,category-entertainment
 host-suffix,artstationmedia.com,category-entertainment
 host-suffix,artstorm.com,category-entertainment
-host-suffix,asobostudio.com,category-entertainment
 host-suffix,att.tv,category-entertainment
 host-suffix,atttvnow.com,category-entertainment
 host-suffix,attwatchtv.com,category-entertainment
@@ -715,7 +716,6 @@ host-suffix,fireemblemawakening.com,category-entertainment
 host-suffix,fireside.fm,category-entertainment
 host-suffix,firesidegatherings.com,category-entertainment
 host-suffix,fitgirl-repacks.site,category-entertainment
-host-suffix,flightsimulator.com,category-entertainment
 host-suffix,flipnotestudio.com,category-entertainment
 host-suffix,forgecdn.net,category-entertainment
 host-suffix,formula1.com,category-entertainment
@@ -1401,6 +1401,7 @@ host-suffix,protondb.com,category-entertainment
 host-suffix,pscdn.co,category-entertainment
 host-suffix,ptzwx.com,category-entertainment
 host-suffix,pubg.com,category-entertainment
+host-suffix,pv-cdn.net,category-entertainment
 host-suffix,pvp.net,category-entertainment
 host-suffix,pvp.tv,category-entertainment
 host-suffix,pvzgw2.com,category-entertainment

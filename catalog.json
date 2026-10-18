@@ -3,17 +3,17 @@
   "sources": {
     "v2fly": {
       "repository": "v2fly/domain-list-community",
-      "commit": "4b6e9f1e16c0905e8c1f1b22f7669ceb9507da8b",
+      "commit": "6b0f8edc935ee0ad2cb386ac3efd451ee2380ac5",
       "license": "MIT",
       "url": "https://github.com/v2fly/domain-list-community"
     },
     "china_ip": {
       "repository": "gaoyifan/china-operator-ip",
-      "commit": "d08c9cdaea27758246d26831cd391cf726ac9aef",
+      "commit": "e910037c112045ecbc21891bd69e134a99bd4c8b",
       "license": "MIT",
       "url": "https://github.com/gaoyifan/china-operator-ip"
     },
-    "ruleset_count": 1546
+    "ruleset_count": 1548
   },
   "rulesets": [
     {
@@ -8459,6 +8459,39 @@
         },
         "quantumultx": {
           "path": "quantumultx/category-finance.list",
+          "format": "text",
+          "requires_force_policy": true
+        }
+      }
+    },
+    {
+      "id": "category-flight-simulator",
+      "upstream_key": "category-flight-simulator",
+      "behavior": "domain",
+      "group": "category",
+      "clients": {
+        "clash": {
+          "path": "mihomo/category-flight-simulator.yaml",
+          "format": "yaml"
+        },
+        "singbox": {
+          "path": "singbox/category-flight-simulator.srs",
+          "format": "srs"
+        },
+        "surge": {
+          "path": "surge/category-flight-simulator.list",
+          "format": "text"
+        },
+        "loon": {
+          "path": "loon/category-flight-simulator.list",
+          "format": "text"
+        },
+        "shadowrocket": {
+          "path": "shadowrocket/category-flight-simulator.list",
+          "format": "text"
+        },
+        "quantumultx": {
+          "path": "quantumultx/category-flight-simulator.list",
           "format": "text",
           "requires_force_policy": true
         }
@@ -46310,6 +46343,39 @@
         },
         "quantumultx": {
           "path": "quantumultx/vaptcha.list",
+          "format": "text",
+          "requires_force_policy": true
+        }
+      }
+    },
+    {
+      "id": "vatsim",
+      "upstream_key": "vatsim",
+      "behavior": "domain",
+      "group": "service",
+      "clients": {
+        "clash": {
+          "path": "mihomo/vatsim.yaml",
+          "format": "yaml"
+        },
+        "singbox": {
+          "path": "singbox/vatsim.srs",
+          "format": "srs"
+        },
+        "surge": {
+          "path": "surge/vatsim.list",
+          "format": "text"
+        },
+        "loon": {
+          "path": "loon/vatsim.list",
+          "format": "text"
+        },
+        "shadowrocket": {
+          "path": "shadowrocket/vatsim.list",
+          "format": "text"
+        },
+        "quantumultx": {
+          "path": "quantumultx/vatsim.list",
           "format": "text",
           "requires_force_policy": true
         }

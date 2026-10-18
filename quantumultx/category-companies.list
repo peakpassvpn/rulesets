@@ -940,7 +940,6 @@ host-suffix,as-hp.ca,category-companies
 host-suffix,asfiovnxocqpcry.com.cn,category-companies
 host-suffix,askfacebook.net,category-companies
 host-suffix,askfacebook.org,category-companies
-host-suffix,asobostudio.com,category-companies
 host-suffix,asp-cc.com,category-companies
 host-suffix,asp.net,category-companies
 host-suffix,aspnetcdn.com,category-companies
@@ -1578,8 +1577,15 @@ host-suffix,beatthatquote.com,category-companies
 host-suffix,beddit.tv,category-companies
 host-suffix,beesbfl.ru,category-companies
 host-suffix,beescrm.ru,category-companies
+host-suffix,beget.app,category-companies
+host-suffix,beget.cloud,category-companies
 host-suffix,beget.com,category-companies
+host-suffix,beget.de,category-companies
+host-suffix,beget.hosting,category-companies
+host-suffix,beget.pro,category-companies
 host-suffix,beget.ru,category-companies
+host-suffix,beget.tech,category-companies
+host-suffix,begetcdn.cloud,category-companies
 host-suffix,begin-trade.com,category-companies
 host-suffix,behance.net,category-companies
 host-suffix,behindthescreenz.com,category-companies
@@ -1587,6 +1593,7 @@ host-suffix,bellsouth.net,category-companies
 host-suffix,berizaryad.ru,category-companies
 host-suffix,berkanawireless.com,category-companies
 host-suffix,beru.ru,category-companies
+host-suffix,beserver.ru,category-companies
 host-suffix,best4bim.com,category-companies
 host-suffix,bestbeats4u.com,category-companies
 host-suffix,bestbim.com,category-companies
@@ -1600,6 +1607,7 @@ host-suffix,bethsoft.com,category-companies
 host-suffix,betterbim.com,category-companies
 host-suffix,betterwithautodesk.com,category-companies
 host-suffix,beyondcore.com,category-companies
+host-suffix,bget.ru,category-companies
 host-suffix,bhent.co.kr,category-companies
 host-suffix,biitii.com,category-companies
 host-suffix,bim-360.com,category-companies
@@ -3135,7 +3143,6 @@ host-suffix,flic.kr,category-companies
 host-suffix,flickr,category-companies
 host-suffix,flickr.com,category-companies
 host-suffix,flickr.net,category-companies
-host-suffix,flightsimulator.com,category-companies
 host-suffix,flipshare.com,category-companies
 host-suffix,flipwithsurface.com,category-companies
 host-suffix,flow.dev,category-companies
@@ -5921,6 +5928,7 @@ host-suffix,publicsuffix.org,category-companies
 host-suffix,publishproxy.com,category-companies
 host-suffix,pullstring.net,category-companies
 host-suffix,pushgrow.io,category-companies
+host-suffix,pv-cdn.net,category-companies
 host-suffix,pwabuilder.com,category-companies
 host-suffix,pxt.io,category-companies
 host-suffix,pyrobot.org,category-companies
@@ -6436,6 +6444,7 @@ host-suffix,sportmail.ru,category-companies
 host-suffix,sportsfacebook.com,category-companies
 host-suffix,sportstream.com,category-companies
 host-suffix,sprinklesapp.com,category-companies
+host-suffix,sprut.io,category-companies
 host-suffix,sptvbroadcast.com,category-companies
 host-suffix,sqlserveronlinux.com,category-companies
 host-suffix,squ1.com,category-companies
@@ -7174,6 +7183,7 @@ host-suffix,xn--80aqcf7a6do.com,category-companies
 host-suffix,xn--80arpq.xn--p1ai,category-companies
 host-suffix,xn--80asgb.xn--p1ai,category-companies
 host-suffix,xn--90absjljw3g.xn--p1ai,category-companies
+host-suffix,xn--90aefb9d.xn--p1ai,category-companies
 host-suffix,xn--9kr7l.com,category-companies
 host-suffix,xn--9trs65b.com,category-companies
 host-suffix,xn--cckwcxetd,category-companies

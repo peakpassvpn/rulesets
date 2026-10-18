@@ -15,15 +15,17 @@ host,c.ppy.sh,category-games
 host,cdngarenanow-a.akamaihd.net,category-games
 host,cloudsync-prod.s3.amazonaws.com,category-games
 host,d1unuk07s6td74.cloudfront.net,category-games
+host,d348twzf7a8p5.cloudfront.net,category-games
 host,datarouter.apps.netherrealm.com,category-games
+host,devforum-uploads.s3.dualstack.us-east-2.amazonaws.com,category-games
 host,dlgarenanow-a.akamaihd.net,category-games
 host,dlmobilegarena-a.akamaihd.net,category-games
+host,doy2mn9upadnk.cloudfront.net,category-games
 host,ea.tt.omtrdc.net,category-games
 host,eaassets-a.akamaihd.net,category-games
 host,end-api.shallow.ink,category-games
 host,end.shallow.ink,category-games
 host,f3b7q2p3.ssl.hwcdn.net,category-games
-host,flightsimulator.azureedge.net,category-games
 host,gamedownloads-rockstargames-com.akamaized.net,category-games
 host,gog-cdn-lumen.secure2.footprint.net,category-games
 host,gog-cdn.akamaized.net,category-games
@@ -171,7 +173,6 @@ host-suffix,armaplatform.com,category-games
 host-suffix,artstation.com,category-games
 host-suffix,artstationmedia.com,category-games
 host-suffix,artstorm.com,category-games
-host-suffix,asobostudio.com,category-games
 host-suffix,astral-vector.com,category-games
 host-suffix,awayoutgame.com,category-games
 host-suffix,ayudanintendo.com,category-games
@@ -359,7 +360,6 @@ host-suffix,fire-emblem-heroes.com,category-games
 host-suffix,fireemblemawakening.com,category-games
 host-suffix,firesidegatherings.com,category-games
 host-suffix,fitgirl-repacks.site,category-games
-host-suffix,flightsimulator.com,category-games
 host-suffix,flipnotestudio.com,category-games
 host-suffix,forevernine.com,category-games
 host-suffix,forgecdn.net,category-games
