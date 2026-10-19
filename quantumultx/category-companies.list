@@ -45,6 +45,7 @@ host,init-p01st-lb.push-apple.com.akadns.net,category-companies
 host,init-s01st-lb.push-apple.com.akadns.net,category-companies
 host,init.gc-lb.apple.com.akadns.net,category-companies
 host,iphone-ld.origin-apple.com.akadns.net,category-companies
+host,kp-config-smart-tv.akamaized.net,category-companies
 host,mesu-cdn.apple.com.akadns.net,category-companies
 host,mesu-china.apple.com.akadns.net,category-companies
 host,mozilla-ohttp.fastly-edge.com,category-companies
@@ -5401,6 +5402,7 @@ host-suffix,msturing.org,category-companies
 host-suffix,msudalosti.com,category-companies
 host-suffix,msunlimitedcloudsummit.com,category-companies
 host-suffix,mt.lv,category-companies
+host-suffix,mts-link.ru,category-companies
 host-suffix,mts-ws.net,category-companies
 host-suffix,mts.ru,category-companies
 host-suffix,mtsbank.ru,category-companies

@@ -1,2 +1,5 @@
+host,kp-config-smart-tv.akamaized.net,kinopoisk
+host,kp-configs-smart-tv.s3.eu-central-1.amazonaws.com,kinopoisk
 host-suffix,kinopoisk-ru.clstorage.net,kinopoisk
 host-suffix,kinopoisk.ru,kinopoisk
+host-suffix,kp.yandex.net,kinopoisk

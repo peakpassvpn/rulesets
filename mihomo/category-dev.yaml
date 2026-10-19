@@ -458,6 +458,7 @@ payload:
   - 'DOMAIN-SUFFIX,polymerproject.org'
   - 'DOMAIN-SUFFIX,poshtestgallery.com'
   - 'DOMAIN-SUFFIX,postgresql.org'
+  - 'DOMAIN-SUFFIX,postman.com'
   - 'DOMAIN-SUFFIX,pub.dev'
   - 'DOMAIN-SUFFIX,putty.org'
   - 'DOMAIN-SUFFIX,pwabuilder.com'

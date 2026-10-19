@@ -1,3 +1,5 @@
+host,kp-config-smart-tv.akamaized.net,yandex
+host,kp-configs-smart-tv.s3.eu-central-1.amazonaws.com,yandex
 host,report.ap.yandex-net.ru,yandex
 host-suffix,adfox.ru,yandex
 host-suffix,admetrica.ru,yandex

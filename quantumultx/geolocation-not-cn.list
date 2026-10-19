@@ -13432,6 +13432,7 @@ host-suffix,magentomobile.com,geolocation-not-cn
 host-suffix,magestic.com,geolocation-not-cn
 host-suffix,magicalmirai.com,geolocation-not-cn
 host-suffix,magicmovies.com,geolocation-not-cn
+host-suffix,magnific.com,geolocation-not-cn
 host-suffix,magnoliaav.com.cn,geolocation-not-cn
 host-suffix,mahajantech.com,geolocation-not-cn
 host-suffix,maidonanews.jp,geolocation-not-cn
@@ -14824,6 +14825,7 @@ host-suffix,msys2.org,geolocation-not-cn
 host-suffix,mt.lv,geolocation-not-cn
 host-suffix,mt0011.site,geolocation-not-cn
 host-suffix,mtao.fun,geolocation-not-cn
+host-suffix,mts-link.ru,geolocation-not-cn
 host-suffix,mts-ws.net,geolocation-not-cn
 host-suffix,mts.ru,geolocation-not-cn
 host-suffix,mtsbank.ru,geolocation-not-cn
@@ -17472,6 +17474,7 @@ host-suffix,postgresql.org,geolocation-not-cn
 host-suffix,postimages.org,geolocation-not-cn
 host-suffix,postimg.cc,geolocation-not-cn
 host-suffix,postini.com,geolocation-not-cn
+host-suffix,postman.com,geolocation-not-cn
 host-suffix,posty.kr,geolocation-not-cn
 host-suffix,postyourgirls.ws,geolocation-not-cn
 host-suffix,potenza.jp,geolocation-not-cn

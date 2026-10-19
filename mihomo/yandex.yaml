@@ -1,4 +1,6 @@
 payload:
+  - 'DOMAIN,kp-config-smart-tv.akamaized.net'
+  - 'DOMAIN,kp-configs-smart-tv.s3.eu-central-1.amazonaws.com'
   - 'DOMAIN,report.ap.yandex-net.ru'
   - 'DOMAIN-SUFFIX,adfox.ru'
   - 'DOMAIN-SUFFIX,admetrica.ru'

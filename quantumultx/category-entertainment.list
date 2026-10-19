@@ -112,6 +112,8 @@ host,images-fe.ssl-images-amazon.com,category-entertainment
 host,images-na.ssl-images-amazon.com,category-entertainment
 host,iosapps.itunes.g.aaplimg.com,category-entertainment
 host,itunesconnect.apple.com,category-entertainment
+host,kp-config-smart-tv.akamaized.net,category-entertainment
+host,kp-configs-smart-tv.s3.eu-central-1.amazonaws.com,category-entertainment
 host,lastfm-img.freetls.fastly.net,category-entertainment
 host,lastfm.freetls.fastly.net,category-entertainment
 host,lazer.ppy.sh,category-entertainment
@@ -1015,6 +1017,7 @@ host-suffix,konamiopen.jp,category-entertainment
 host-suffix,konamisportsclub.jp,category-entertainment
 host-suffix,konamistyle.jp,category-entertainment
 host-suffix,koubaibu.jp,category-entertainment
+host-suffix,kp.yandex.net,category-entertainment
 host-suffix,kpacg.com,category-entertainment
 host-suffix,kraftonde.com,category-entertainment
 host-suffix,kyurem.com,category-entertainment

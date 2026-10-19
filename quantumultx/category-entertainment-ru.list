@@ -1,3 +1,5 @@
+host,kp-config-smart-tv.akamaized.net,category-entertainment-ru
+host,kp-configs-smart-tv.s3.eu-central-1.amazonaws.com,category-entertainment-ru
 host-suffix,24h.tv,category-entertainment-ru
 host-suffix,amediateka.ru,category-entertainment-ru
 host-suffix,beeline.tv,category-entertainment-ru
@@ -9,6 +11,7 @@ host-suffix,kinescopecdn.net,category-entertainment-ru
 host-suffix,kinopoisk-ru.clstorage.net,category-entertainment-ru
 host-suffix,kinopoisk.ru,category-entertainment-ru
 host-suffix,kinorium.com,category-entertainment-ru
+host-suffix,kp.yandex.net,category-entertainment-ru
 host-suffix,more.tv,category-entertainment-ru
 host-suffix,okko.sport,category-entertainment-ru
 host-suffix,okko.tv,category-entertainment-ru

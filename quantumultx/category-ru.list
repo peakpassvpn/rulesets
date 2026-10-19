@@ -1,3 +1,5 @@
+host,kp-config-smart-tv.akamaized.net,category-ru
+host,kp-configs-smart-tv.s3.eu-central-1.amazonaws.com,category-ru
 host,mvideo.edna.io,category-ru
 host-suffix,1917live.red,category-ru
 host-suffix,24h.tv,category-ru
@@ -27,6 +29,7 @@ host-suffix,alefbank.com,category-ru
 host-suffix,alfa.me,category-ru
 host-suffix,alfabank.st,category-ru
 host-suffix,algoritmika.org,category-ru
+host-suffix,amt-insurance.com,category-ru
 host-suffix,antiphishing.nl,category-ru
 host-suffix,aodahl.com,category-ru
 host-suffix,apptrackpets.com,category-ru
@@ -57,6 +60,13 @@ host-suffix,beget.pro,category-ru
 host-suffix,beget.tech,category-ru
 host-suffix,begetcdn.cloud,category-ru
 host-suffix,best2pay.net,category-ru
+host-suffix,bitrix.info,category-ru
+host-suffix,bitrix24.com,category-ru
+host-suffix,bitrix24.net,category-ru
+host-suffix,bitrix24.tech,category-ru
+host-suffix,bitrix24public.com,category-ru
+host-suffix,bitrixphone.com,category-ru
+host-suffix,bitrixsoft.com,category-ru
 host-suffix,bizmrg.com,category-ru
 host-suffix,bk6bba-resources.com,category-ru
 host-suffix,book1917.live,category-ru
@@ -75,6 +85,7 @@ host-suffix,cdek.shopping,category-ru
 host-suffix,cdn-vk.net,category-ru
 host-suffix,cdnvideohub.com,category-ru
 host-suffix,cert-gib.com,category-ru
+host-suffix,chat2desk.com,category-ru
 host-suffix,chipcore.com,category-ru
 host-suffix,chizhik.club,category-ru
 host-suffix,cian.site,category-ru
@@ -285,6 +296,7 @@ host-suffix,jivochat.de,category-ru
 host-suffix,jivochat.es,category-ru
 host-suffix,jivochat.ng,category-ru
 host-suffix,jivosite.com,category-ru
+host-suffix,joyreactor.cc,category-ru
 host-suffix,jump.taxi,category-ru
 host-suffix,justveryok.com,category-ru
 host-suffix,kaspersky-labs.com,category-ru
@@ -331,9 +343,11 @@ host-suffix,kontur-inc.com,category-ru
 host-suffix,kontur.host,category-ru
 host-suffix,koronapay.com,category-ru
 host-suffix,koshelek.app,category-ru
+host-suffix,ktalk.host,category-ru
 host-suffix,ktech.team,category-ru
 host-suffix,lenta.com,category-ru
 host-suffix,lenta.tech,category-ru
+host-suffix,lexgarant.com,category-ru
 host-suffix,lovina.app,category-ru
 host-suffix,magnit.com,category-ru
 host-suffix,mail-carrotquest.io,category-ru
@@ -438,6 +452,7 @@ host-suffix,pobeda.page,category-ru
 host-suffix,polza.ai,category-ru
 host-suffix,popmechanic.io,category-ru
 host-suffix,poudobnee.com,category-ru
+host-suffix,pravmir.com,category-ru
 host-suffix,premier.one,category-ru
 host-suffix,premiumlive.site,category-ru
 host-suffix,priovtb.com,category-ru
@@ -459,8 +474,10 @@ host-suffix,rbth.com,category-ru
 host-suffix,reaviz.com,category-ru
 host-suffix,reg.cloud,category-ru
 host-suffix,reg.com,category-ru
+host-suffix,renins.com,category-ru
 host-suffix,reso-med.com,category-ru
 host-suffix,restream-media.net,category-ru
+host-suffix,robohall.tech,category-ru
 host-suffix,robotext.io,category-ru
 host-suffix,rocketozon.by,category-ru
 host-suffix,roistat.com,category-ru

@@ -3,17 +3,17 @@
   "sources": {
     "v2fly": {
       "repository": "v2fly/domain-list-community",
-      "commit": "6b0f8edc935ee0ad2cb386ac3efd451ee2380ac5",
+      "commit": "6ee52f2c36634aeabeb9c4ba486ca02cd84c3d4f",
       "license": "MIT",
       "url": "https://github.com/v2fly/domain-list-community"
     },
     "china_ip": {
       "repository": "gaoyifan/china-operator-ip",
-      "commit": "e910037c112045ecbc21891bd69e134a99bd4c8b",
+      "commit": "d5b6e937175c73deeda076aaaea2182822cba5a3",
       "license": "MIT",
       "url": "https://github.com/gaoyifan/china-operator-ip"
     },
-    "ruleset_count": 1548
+    "ruleset_count": 1549
   },
   "rulesets": [
     {
@@ -5060,6 +5060,39 @@
         },
         "quantumultx": {
           "path": "quantumultx/bitly.list",
+          "format": "text",
+          "requires_force_policy": true
+        }
+      }
+    },
+    {
+      "id": "bitrix",
+      "upstream_key": "bitrix",
+      "behavior": "domain",
+      "group": "service",
+      "clients": {
+        "clash": {
+          "path": "mihomo/bitrix.yaml",
+          "format": "yaml"
+        },
+        "singbox": {
+          "path": "singbox/bitrix.srs",
+          "format": "srs"
+        },
+        "surge": {
+          "path": "surge/bitrix.list",
+          "format": "text"
+        },
+        "loon": {
+          "path": "loon/bitrix.list",
+          "format": "text"
+        },
+        "shadowrocket": {
+          "path": "shadowrocket/bitrix.list",
+          "format": "text"
+        },
+        "quantumultx": {
+          "path": "quantumultx/bitrix.list",
           "format": "text",
           "requires_force_policy": true
         }
