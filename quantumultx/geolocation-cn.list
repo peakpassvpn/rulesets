@@ -6018,6 +6018,8 @@ host-suffix,szlcsc.com,geolocation-cn
 host-suffix,sznews.com,geolocation-cn
 host-suffix,szpgm.com,geolocation-cn
 host-suffix,szse.cn,geolocation-cn
+host-suffix,szu.app,geolocation-cn
+host-suffix,szu.moe,geolocation-cn
 host-suffix,szzfgjj.com,geolocation-cn
 host-suffix,t.cn,geolocation-cn
 host-suffix,t00ls.cc,geolocation-cn

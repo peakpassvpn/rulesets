@@ -2707,8 +2707,10 @@ host-suffix,avhu.com,geolocation-not-cn
 host-suffix,avinetworks.com,geolocation-not-cn
 host-suffix,avinin.com,geolocation-not-cn
 host-suffix,avira.com,geolocation-not-cn
+host-suffix,avito.com,geolocation-not-cn
 host-suffix,avito.ru,geolocation-not-cn
 host-suffix,avito.st,geolocation-not-cn
+host-suffix,avito.tech,geolocation-not-cn
 host-suffix,avizoon.site,geolocation-not-cn
 host-suffix,avizoone.com,geolocation-not-cn
 host-suffix,avjb.com,geolocation-not-cn

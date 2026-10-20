@@ -2107,7 +2107,6 @@ ip-cidr,103.89.172.0/22,cn-ip
 ip-cidr,103.89.184.0/21,cn-ip
 ip-cidr,103.89.192.0/19,cn-ip
 ip-cidr,103.89.224.0/21,cn-ip
-ip-cidr,103.90.51.0/24,cn-ip
 ip-cidr,103.90.52.0/22,cn-ip
 ip-cidr,103.90.56.0/23,cn-ip
 ip-cidr,103.90.92.0/22,cn-ip
@@ -9589,6 +9588,7 @@ ip6-cidr,2407:fd80::/32,cn-ip
 ip6-cidr,2408:4000::/28,cn-ip
 ip6-cidr,2408:4010::/30,cn-ip
 ip6-cidr,2408:4014::/31,cn-ip
+ip6-cidr,2408:4016:1::/48,cn-ip
 ip6-cidr,2408:4016:2::/47,cn-ip
 ip6-cidr,2408:4016:4::/46,cn-ip
 ip6-cidr,2408:4016:8::/45,cn-ip
