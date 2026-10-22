@@ -103,6 +103,7 @@ host,metrics.21-school.ru,category-ads-and-telemetry
 host,metrika.kontur.ru,category-ads-and-telemetry
 host,new-adv.ozon.ru,category-ads-and-telemetry
 host,o33249.ingest.sentry.io,category-ads-and-telemetry
+host,o33249.ingest.us.sentry.io,category-ads-and-telemetry
 host,o4504926511693824.ingest.sentry.io,category-ads-and-telemetry
 host,openai.qualtrics.com,category-ads-and-telemetry
 host,p3-ad-sign.byteimg.com,category-ads-and-telemetry

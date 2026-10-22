@@ -3,17 +3,17 @@
   "sources": {
     "v2fly": {
       "repository": "v2fly/domain-list-community",
-      "commit": "497bef95124ac98a70ed865bb8aaaa8e9a4ff66e",
+      "commit": "e8f6d1e5c4a01cda943c0784ffa834340eeab5ae",
       "license": "MIT",
       "url": "https://github.com/v2fly/domain-list-community"
     },
     "china_ip": {
       "repository": "gaoyifan/china-operator-ip",
-      "commit": "d72c0234fe25498f88e617a5a42ceb350f0dd078",
+      "commit": "c71fe73f6f4ab528b6462d82da162170f4ea8cfa",
       "license": "MIT",
       "url": "https://github.com/gaoyifan/china-operator-ip"
     },
-    "ruleset_count": 1549
+    "ruleset_count": 1550
   },
   "rulesets": [
     {
@@ -18458,6 +18458,39 @@
         },
         "quantumultx": {
           "path": "quantumultx/flutter.list",
+          "format": "text",
+          "requires_force_policy": true
+        }
+      }
+    },
+    {
+      "id": "fluxer",
+      "upstream_key": "fluxer",
+      "behavior": "domain",
+      "group": "service",
+      "clients": {
+        "clash": {
+          "path": "mihomo/fluxer.yaml",
+          "format": "yaml"
+        },
+        "singbox": {
+          "path": "singbox/fluxer.srs",
+          "format": "srs"
+        },
+        "surge": {
+          "path": "surge/fluxer.list",
+          "format": "text"
+        },
+        "loon": {
+          "path": "loon/fluxer.list",
+          "format": "text"
+        },
+        "shadowrocket": {
+          "path": "shadowrocket/fluxer.list",
+          "format": "text"
+        },
+        "quantumultx": {
+          "path": "quantumultx/fluxer.list",
           "format": "text",
           "requires_force_policy": true
         }

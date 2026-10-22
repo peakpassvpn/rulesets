@@ -7,6 +7,8 @@ host-suffix,ekahau.cloud,category-speedtest
 host-suffix,ekahau.com,category-speedtest
 host-suffix,fast.com,category-speedtest
 host-suffix,fastspeedtest.com,category-speedtest
+host-suffix,internet.yandex.com,category-speedtest
+host-suffix,internet.yandex.ru,category-speedtest
 host-suffix,librespeed.org,category-speedtest
 host-suffix,linkmeter.net,category-speedtest
 host-suffix,measurementlab.net,category-speedtest

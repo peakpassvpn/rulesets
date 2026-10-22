@@ -1,5 +1,6 @@
 host,browser-intake-datadoghq.com,openai
 host,o33249.ingest.sentry.io,openai
+host,o33249.ingest.us.sentry.io,openai
 host,openai.qualtrics.com,openai
 host,openaiapi-site.azureedge.net,openai
 host,openaiassets.blob.core.windows.net,openai
