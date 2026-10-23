@@ -3,17 +3,17 @@
   "sources": {
     "v2fly": {
       "repository": "v2fly/domain-list-community",
-      "commit": "e8f6d1e5c4a01cda943c0784ffa834340eeab5ae",
+      "commit": "5b6a77d14fb904a1255f02e2e1b2bcc36ed31f83",
       "license": "MIT",
       "url": "https://github.com/v2fly/domain-list-community"
     },
     "china_ip": {
       "repository": "gaoyifan/china-operator-ip",
-      "commit": "c71fe73f6f4ab528b6462d82da162170f4ea8cfa",
+      "commit": "efbcb7c14081ce36931c65e9e798417f8ec61b6f",
       "license": "MIT",
       "url": "https://github.com/gaoyifan/china-operator-ip"
     },
-    "ruleset_count": 1550
+    "ruleset_count": 1552
   },
   "rulesets": [
     {
@@ -15824,6 +15824,39 @@
       }
     },
     {
+      "id": "dsn-host",
+      "upstream_key": "dsn-host",
+      "behavior": "domain",
+      "group": "service",
+      "clients": {
+        "clash": {
+          "path": "mihomo/dsn-host.yaml",
+          "format": "yaml"
+        },
+        "singbox": {
+          "path": "singbox/dsn-host.srs",
+          "format": "srs"
+        },
+        "surge": {
+          "path": "surge/dsn-host.list",
+          "format": "text"
+        },
+        "loon": {
+          "path": "loon/dsn-host.list",
+          "format": "text"
+        },
+        "shadowrocket": {
+          "path": "shadowrocket/dsn-host.list",
+          "format": "text"
+        },
+        "quantumultx": {
+          "path": "quantumultx/dsn-host.list",
+          "format": "text",
+          "requires_force_policy": true
+        }
+      }
+    },
+    {
       "id": "duckduckgo",
       "upstream_key": "duckduckgo",
       "behavior": "domain",
@@ -17600,6 +17633,39 @@
         },
         "quantumultx": {
           "path": "quantumultx/fandom.list",
+          "format": "text",
+          "requires_force_policy": true
+        }
+      }
+    },
+    {
+      "id": "fanfiction",
+      "upstream_key": "fanfiction",
+      "behavior": "domain",
+      "group": "service",
+      "clients": {
+        "clash": {
+          "path": "mihomo/fanfiction.yaml",
+          "format": "yaml"
+        },
+        "singbox": {
+          "path": "singbox/fanfiction.srs",
+          "format": "srs"
+        },
+        "surge": {
+          "path": "surge/fanfiction.list",
+          "format": "text"
+        },
+        "loon": {
+          "path": "loon/fanfiction.list",
+          "format": "text"
+        },
+        "shadowrocket": {
+          "path": "shadowrocket/fanfiction.list",
+          "format": "text"
+        },
+        "quantumultx": {
+          "path": "quantumultx/fanfiction.list",
           "format": "text",
           "requires_force_policy": true
         }

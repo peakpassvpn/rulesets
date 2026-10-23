@@ -378,6 +378,7 @@ host-suffix,gaijin.net,category-games
 host-suffix,gaijinent.com,category-games
 host-suffix,game-repack.site,category-games
 host-suffix,gameabc.com,category-games
+host-suffix,gamebanana.com,category-games
 host-suffix,gamebonfire.com,category-games
 host-suffix,gameitop.com,category-games
 host-suffix,gameloop.com,category-games
@@ -759,6 +760,7 @@ host-suffix,qqgameapp.com,category-games
 host-suffix,quiltmc.org,category-games
 host-suffix,quixel.com,category-games
 host-suffix,quixel.se,category-games
+host-suffix,r2modman.com,category-games
 host-suffix,radgametools.com,category-games
 host-suffix,ravensoftware.com,category-games
 host-suffix,rayark.download,category-games
@@ -913,6 +915,7 @@ host-suffix,steamdb.info,category-games
 host-suffix,steamdeck.com,category-games
 host-suffix,steamgames.com,category-games
 host-suffix,steaminventoryhelper.com,category-games
+host-suffix,steamos.cloud,category-games
 host-suffix,steampowered.com,category-games
 host-suffix,steampowered.com.8686c.com,category-games
 host-suffix,steamserver.net,category-games
@@ -974,6 +977,8 @@ host-suffix,thesims3.com,category-games
 host-suffix,thesims4.com,category-games
 host-suffix,thesimssocial.com,category-games
 host-suffix,thewonderful101.com,category-games
+host-suffix,thunderstore.io,category-games
+host-suffix,thunderstore.org,category-games
 host-suffix,tiancity.com,category-games
 host-suffix,tiancitycdn.com,category-games
 host-suffix,tiberiumalliances.com,category-games
@@ -1055,10 +1060,12 @@ host-suffix,worldoftanks.com,category-games
 host-suffix,worldoftanks.eu,category-games
 host-suffix,worldofwarcraft.com,category-games
 host-suffix,worldofwarplanes.com,category-games
+host-suffix,worldofwarships.asia,category-games
 host-suffix,worldofwarships.com,category-games
 host-suffix,worldseriesofwarzone.com,category-games
 host-suffix,wotblitz.com,category-games
 host-suffix,wowsblitz.com,category-games
+host-suffix,wplace.live,category-games
 host-suffix,wtmobile.com,category-games
 host-suffix,wutheringwaves.cn,category-games
 host-suffix,xbox,category-games

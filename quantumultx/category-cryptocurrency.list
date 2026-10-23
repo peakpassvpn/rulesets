@@ -61,6 +61,8 @@ host-suffix,bitstamp.net,category-cryptocurrency
 host-suffix,bittrex.com,category-cryptocurrency
 host-suffix,blast.io,category-cryptocurrency
 host-suffix,blockchain.com,category-cryptocurrency
+host-suffix,blockchair.com,category-cryptocurrency
+host-suffix,blockchair.net,category-cryptocurrency
 host-suffix,blockfrost.io,category-cryptocurrency
 host-suffix,bmwweb.solutions,category-cryptocurrency
 host-suffix,bnappweb.black,category-cryptocurrency
@@ -102,10 +104,12 @@ host-suffix,coinonecorp.com,category-cryptocurrency
 host-suffix,coredao.org,category-cryptocurrency
 host-suffix,crypto.com,category-cryptocurrency
 host-suffix,cryptocompare.com,category-cryptocurrency
+host-suffix,cryptoid.info,category-cryptocurrency
 host-suffix,cryptomus.com,category-cryptocurrency
 host-suffix,curve.fi,category-cryptocurrency
 host-suffix,cyberx.com,category-cryptocurrency
 host-suffix,debank.com,category-cryptocurrency
+host-suffix,delets.cash,category-cryptocurrency
 host-suffix,delets.online,category-cryptocurrency
 host-suffix,deribit.com,category-cryptocurrency
 host-suffix,devcon.org,category-cryptocurrency
@@ -150,6 +154,7 @@ host-suffix,kraken.com,category-cryptocurrency
 host-suffix,kraken.onl,category-cryptocurrency
 host-suffix,kucoin.com,category-cryptocurrency
 host-suffix,kucoin.plus,category-cryptocurrency
+host-suffix,kurs.expert,category-cryptocurrency
 host-suffix,lighter.exchange,category-cryptocurrency
 host-suffix,lighter.xyz,category-cryptocurrency
 host-suffix,litecoin.org,category-cryptocurrency

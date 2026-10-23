@@ -703,6 +703,7 @@ host-suffix,famitsu.com,category-entertainment
 host-suffix,fanatical.com,category-entertainment
 host-suffix,fanbox.cc,category-entertainment
 host-suffix,fandango.com,category-entertainment
+host-suffix,fanfiction.net,category-entertainment
 host-suffix,fanfictionero.com,category-entertainment
 host-suffix,fast.com,category-entertainment
 host-suffix,fc-buddyfight.com,category-entertainment
@@ -741,6 +742,7 @@ host-suffix,gaijin.net,category-entertainment
 host-suffix,gaijinent.com,category-entertainment
 host-suffix,game-repack.site,category-entertainment
 host-suffix,gameapps.hk,category-entertainment
+host-suffix,gamebanana.com,category-entertainment
 host-suffix,gamebase.com.tw,category-entertainment
 host-suffix,gamebiz.jp,category-entertainment
 host-suffix,gamebusiness.jp,category-entertainment
@@ -1418,6 +1420,7 @@ host-suffix,quanben.io,category-entertainment
 host-suffix,quiltmc.org,category-entertainment
 host-suffix,quixel.com,category-entertainment
 host-suffix,quixel.se,category-entertainment
+host-suffix,r2modman.com,category-entertainment
 host-suffix,radgametools.com,category-entertainment
 host-suffix,radiko-cf.com,category-entertainment
 host-suffix,radiko.jp,category-entertainment
@@ -1624,6 +1627,7 @@ host-suffix,steamdb.info,category-entertainment
 host-suffix,steamdeck.com,category-entertainment
 host-suffix,steamgames.com,category-entertainment
 host-suffix,steaminventoryhelper.com,category-entertainment
+host-suffix,steamos.cloud,category-entertainment
 host-suffix,steampowered.com,category-entertainment
 host-suffix,steampowered.com.8686c.com,category-entertainment
 host-suffix,steamserver.net,category-entertainment
@@ -1679,6 +1683,8 @@ host-suffix,thewaltdisneycompany.com,category-entertainment
 host-suffix,thewonderful101.com,category-entertainment
 host-suffix,thisisgame.com,category-entertainment
 host-suffix,thisispolaris.com,category-entertainment
+host-suffix,thunderstore.io,category-entertainment
+host-suffix,thunderstore.org,category-entertainment
 host-suffix,tiberiumalliances.com,category-entertainment
 host-suffix,tiburon.com,category-entertainment
 host-suffix,tidal.com,category-entertainment
@@ -1824,10 +1830,12 @@ host-suffix,worldoftanks.com,category-entertainment
 host-suffix,worldoftanks.eu,category-entertainment
 host-suffix,worldofwarcraft.com,category-entertainment
 host-suffix,worldofwarplanes.com,category-entertainment
+host-suffix,worldofwarships.asia,category-entertainment
 host-suffix,worldofwarships.com,category-entertainment
 host-suffix,worldseriesofwarzone.com,category-entertainment
 host-suffix,wotblitz.com,category-entertainment
 host-suffix,wowsblitz.com,category-entertainment
+host-suffix,wplace.live,category-entertainment
 host-suffix,ws-blau.com,category-entertainment
 host-suffix,ws-tcg.com,category-entertainment
 host-suffix,wtmobile.com,category-entertainment

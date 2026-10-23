@@ -291,6 +291,7 @@ host-suffix,futunited.com,category-games-not-cn
 host-suffix,gaijin.net,category-games-not-cn
 host-suffix,gaijinent.com,category-games-not-cn
 host-suffix,game-repack.site,category-games-not-cn
+host-suffix,gamebanana.com,category-games-not-cn
 host-suffix,gamepass.com,category-games-not-cn
 host-suffix,gamesfirsthelsinki.com,category-games-not-cn
 host-suffix,gamesplanet.com,category-games-not-cn
@@ -578,6 +579,7 @@ host-suffix,pvzheroes.com,category-games-not-cn
 host-suffix,quiltmc.org,category-games-not-cn
 host-suffix,quixel.com,category-games-not-cn
 host-suffix,quixel.se,category-games-not-cn
+host-suffix,r2modman.com,category-games-not-cn
 host-suffix,radgametools.com,category-games-not-cn
 host-suffix,ravensoftware.com,category-games-not-cn
 host-suffix,rayark.download,category-games-not-cn
@@ -711,6 +713,7 @@ host-suffix,steamdb.info,category-games-not-cn
 host-suffix,steamdeck.com,category-games-not-cn
 host-suffix,steamgames.com,category-games-not-cn
 host-suffix,steaminventoryhelper.com,category-games-not-cn
+host-suffix,steamos.cloud,category-games-not-cn
 host-suffix,steampowered.com,category-games-not-cn
 host-suffix,steampowered.com.8686c.com,category-games-not-cn
 host-suffix,steamserver.net,category-games-not-cn
@@ -752,6 +755,8 @@ host-suffix,thesims3.com,category-games-not-cn
 host-suffix,thesims4.com,category-games-not-cn
 host-suffix,thesimssocial.com,category-games-not-cn
 host-suffix,thewonderful101.com,category-games-not-cn
+host-suffix,thunderstore.io,category-games-not-cn
+host-suffix,thunderstore.org,category-games-not-cn
 host-suffix,tiberiumalliances.com,category-games-not-cn
 host-suffix,tiburon.com,category-games-not-cn
 host-suffix,titanfall.com,category-games-not-cn
@@ -808,10 +813,12 @@ host-suffix,worldoftanks.com,category-games-not-cn
 host-suffix,worldoftanks.eu,category-games-not-cn
 host-suffix,worldofwarcraft.com,category-games-not-cn
 host-suffix,worldofwarplanes.com,category-games-not-cn
+host-suffix,worldofwarships.asia,category-games-not-cn
 host-suffix,worldofwarships.com,category-games-not-cn
 host-suffix,worldseriesofwarzone.com,category-games-not-cn
 host-suffix,wotblitz.com,category-games-not-cn
 host-suffix,wowsblitz.com,category-games-not-cn
+host-suffix,wplace.live,category-games-not-cn
 host-suffix,wtmobile.com,category-games-not-cn
 host-suffix,xbox,category-games-not-cn
 host-suffix,xbox.co,category-games-not-cn

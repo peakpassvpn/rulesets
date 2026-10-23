@@ -238,6 +238,7 @@ host-suffix,getbootstrap.com,category-dev
 host-suffix,getcomposer.org,category-dev
 host-suffix,getfedora.org,category-dev
 host-suffix,getpaint.net,category-dev
+host-suffix,getsafety.com,category-dev
 host-suffix,getsentry.com,category-dev
 host-suffix,getzola.org,category-dev
 host-suffix,gh.io,category-dev
@@ -468,6 +469,7 @@ host-suffix,pypi.org,category-dev
 host-suffix,pyrobot.org,category-dev
 host-suffix,python.org,category-dev
 host-suffix,pythonhosted.org,category-dev
+host-suffix,pyup.io,category-dev
 host-suffix,qt-project.org,category-dev
 host-suffix,qt.io,category-dev
 host-suffix,quay.io,category-dev
@@ -507,6 +509,7 @@ host-suffix,ruby-lang.org,category-dev
 host-suffix,rubygems.org,category-dev
 host-suffix,rust-lang.org,category-dev
 host-suffix,rustup.rs,category-dev
+host-suffix,safetycli.com,category-dev
 host-suffix,sankie.net,category-dev
 host-suffix,scala-lang.org,category-dev
 host-suffix,scala-sbt.org,category-dev
@@ -556,6 +559,7 @@ host-suffix,swiftui.com.cn,category-dev
 host-suffix,system76.com,category-dev
 host-suffix,talkingkotlin.com,category-dev
 host-suffix,tampermonkey.net,category-dev
+host-suffix,templatemonster.com,category-dev
 host-suffix,termius.com,category-dev
 host-suffix,termux.com,category-dev
 host-suffix,termux.dev,category-dev
@@ -572,6 +576,7 @@ host-suffix,tildacdn.com,category-dev
 host-suffix,tildacdn.net,category-dev
 host-suffix,timelinestoryteller.com,category-dev
 host-suffix,timestamp.apple.com,category-dev
+host-suffix,tmimgcdn.com,category-dev
 host-suffix,topcoder.com,category-dev
 host-suffix,ubuntu-touch.io,category-dev
 host-suffix,ubuntu.com,category-dev
