@@ -7,7 +7,14 @@ host-suffix,ookla-speedtest-central.hgconair.hgc.com.hk,speedtest
 host-suffix,ookla.com,speedtest
 host-suffix,ooklaserver.net,speedtest
 host-suffix,pingtest.net,speedtest
+host-suffix,speedtest.app,speedtest
+host-suffix,speedtest.cc,speedtest
 host-suffix,speedtest.co,speedtest
+host-suffix,speedtest.ee,speedtest
+host-suffix,speedtest.in,speedtest
+host-suffix,speedtest.me,speedtest
 host-suffix,speedtest.net,speedtest
+host-suffix,speedtest.ng,speedtest
+host-suffix,speedtest.tv,speedtest
 host-suffix,speedtestcustom.com,speedtest
 host-suffix,webtest.net,speedtest
