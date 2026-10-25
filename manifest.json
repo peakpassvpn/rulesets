@@ -13,21 +13,21 @@
   "sources": {
     "v2fly": {
       "repository": "v2fly/domain-list-community",
-      "commit": "597956ad5d1c063d80329d58a6aaadf6dcec43a7",
+      "commit": "44e37212c1154407744543bd1ea5e5750fd44902",
       "license": "MIT",
       "url": "https://github.com/v2fly/domain-list-community"
     },
     "china_ip": {
       "repository": "gaoyifan/china-operator-ip",
-      "commit": "d8512a760a32b3adadddd619831dcd4cc1e48df7",
+      "commit": "14ac65e3c3bedf75f5c87d383f6d05c87c0fd911",
       "license": "MIT",
       "url": "https://github.com/gaoyifan/china-operator-ip"
     },
-    "ruleset_count": 1552
+    "ruleset_count": 1553
   },
   "verification": {
     "status": "passed",
-    "ruleset_count": 1552,
+    "ruleset_count": 1553,
     "checks": {
       "mihomo_config": "passed",
       "singbox_srs_decompile": "passed"
@@ -709,33 +709,33 @@
         }
       },
       "agilebits": {
-        "canonical_count": 14,
-        "portable_count": 14,
+        "canonical_count": 15,
+        "portable_count": 15,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 14,
-          "singbox": 14,
-          "surge": 14,
-          "loon": 14,
-          "shadowrocket": 14,
-          "quantumultx": 14
+          "mihomo": 15,
+          "singbox": 15,
+          "surge": 15,
+          "loon": 15,
+          "shadowrocket": 15,
+          "quantumultx": 15
         }
       },
       "agora": {
-        "canonical_count": 3,
-        "portable_count": 3,
+        "canonical_count": 5,
+        "portable_count": 5,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 3,
-          "singbox": 3,
-          "surge": 3,
-          "loon": 3,
-          "shadowrocket": 3,
-          "quantumultx": 3
+          "mihomo": 5,
+          "singbox": 5,
+          "surge": 5,
+          "loon": 5,
+          "shadowrocket": 5,
+          "quantumultx": 5
         }
       },
       "aiqicha": {
@@ -1324,18 +1324,18 @@
         }
       },
       "apple": {
-        "canonical_count": 1585,
-        "portable_count": 1585,
+        "canonical_count": 1584,
+        "portable_count": 1584,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 1585,
-          "singbox": 1585,
-          "surge": 1585,
-          "loon": 1585,
-          "shadowrocket": 1585,
-          "quantumultx": 1585
+          "mihomo": 1584,
+          "singbox": 1584,
+          "surge": 1584,
+          "loon": 1584,
+          "shadowrocket": 1584,
+          "quantumultx": 1584
         }
       },
       "apple-dev": {
@@ -3169,48 +3169,48 @@
         }
       },
       "category-ads": {
-        "canonical_count": 844,
-        "portable_count": 843,
+        "canonical_count": 845,
+        "portable_count": 844,
         "omitted_from_portable_clients": {
           "unsupported_rules": 1
         },
         "clients": {
-          "mihomo": 844,
-          "singbox": 844,
-          "surge": 843,
-          "loon": 843,
-          "shadowrocket": 843,
-          "quantumultx": 843
+          "mihomo": 845,
+          "singbox": 845,
+          "surge": 844,
+          "loon": 844,
+          "shadowrocket": 844,
+          "quantumultx": 844
         }
       },
       "category-ads-all": {
-        "canonical_count": 900,
-        "portable_count": 899,
+        "canonical_count": 901,
+        "portable_count": 900,
         "omitted_from_portable_clients": {
           "unsupported_rules": 1
         },
         "clients": {
-          "mihomo": 900,
-          "singbox": 900,
-          "surge": 899,
-          "loon": 899,
-          "shadowrocket": 899,
-          "quantumultx": 899
+          "mihomo": 901,
+          "singbox": 901,
+          "surge": 900,
+          "loon": 900,
+          "shadowrocket": 900,
+          "quantumultx": 900
         }
       },
       "category-ads-and-telemetry": {
-        "canonical_count": 850,
-        "portable_count": 849,
+        "canonical_count": 851,
+        "portable_count": 850,
         "omitted_from_portable_clients": {
           "unsupported_rules": 1
         },
         "clients": {
-          "mihomo": 850,
-          "singbox": 850,
-          "surge": 849,
-          "loon": 849,
-          "shadowrocket": 849,
-          "quantumultx": 849
+          "mihomo": 851,
+          "singbox": 851,
+          "surge": 850,
+          "loon": 850,
+          "shadowrocket": 850,
+          "quantumultx": 850
         }
       },
       "category-ads-ir": {
@@ -3349,18 +3349,18 @@
         }
       },
       "category-bank-cn": {
-        "canonical_count": 135,
-        "portable_count": 135,
+        "canonical_count": 139,
+        "portable_count": 139,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 135,
-          "singbox": 135,
-          "surge": 135,
-          "loon": 135,
-          "shadowrocket": 135,
-          "quantumultx": 135
+          "mihomo": 139,
+          "singbox": 139,
+          "surge": 139,
+          "loon": 139,
+          "shadowrocket": 139,
+          "quantumultx": 139
         }
       },
       "category-bank-ir": {
@@ -3559,18 +3559,18 @@
         }
       },
       "category-companies": {
-        "canonical_count": 7696,
-        "portable_count": 7693,
+        "canonical_count": 7695,
+        "portable_count": 7692,
         "omitted_from_portable_clients": {
           "unsupported_rules": 3
         },
         "clients": {
-          "mihomo": 7696,
-          "singbox": 7696,
-          "surge": 7693,
-          "loon": 7693,
-          "shadowrocket": 7693,
-          "quantumultx": 7693
+          "mihomo": 7695,
+          "singbox": 7695,
+          "surge": 7692,
+          "loon": 7692,
+          "shadowrocket": 7692,
+          "quantumultx": 7692
         }
       },
       "category-consent-management": {
@@ -3769,18 +3769,18 @@
         }
       },
       "category-electronic-cn": {
-        "canonical_count": 91,
-        "portable_count": 91,
+        "canonical_count": 92,
+        "portable_count": 92,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 91,
-          "singbox": 91,
-          "surge": 91,
-          "loon": 91,
-          "shadowrocket": 91,
-          "quantumultx": 91
+          "mihomo": 92,
+          "singbox": 92,
+          "surge": 92,
+          "loon": 92,
+          "shadowrocket": 92,
+          "quantumultx": 92
         }
       },
       "category-emby": {
@@ -3829,33 +3829,33 @@
         }
       },
       "category-entertainment": {
-        "canonical_count": 2082,
-        "portable_count": 2073,
+        "canonical_count": 2089,
+        "portable_count": 2080,
         "omitted_from_portable_clients": {
           "unsupported_rules": 9
         },
         "clients": {
-          "mihomo": 2082,
-          "singbox": 2082,
-          "surge": 2073,
-          "loon": 2073,
-          "shadowrocket": 2073,
-          "quantumultx": 2073
+          "mihomo": 2089,
+          "singbox": 2089,
+          "surge": 2080,
+          "loon": 2080,
+          "shadowrocket": 2080,
+          "quantumultx": 2080
         }
       },
       "category-entertainment-cn": {
-        "canonical_count": 855,
-        "portable_count": 854,
+        "canonical_count": 854,
+        "portable_count": 853,
         "omitted_from_portable_clients": {
           "unsupported_rules": 1
         },
         "clients": {
-          "mihomo": 855,
-          "singbox": 855,
-          "surge": 854,
-          "loon": 854,
-          "shadowrocket": 854,
-          "quantumultx": 854
+          "mihomo": 854,
+          "singbox": 854,
+          "surge": 853,
+          "loon": 853,
+          "shadowrocket": 853,
+          "quantumultx": 853
         }
       },
       "category-entertainment-ru": {
@@ -3994,48 +3994,48 @@
         }
       },
       "category-games": {
-        "canonical_count": 1146,
-        "portable_count": 1142,
+        "canonical_count": 1152,
+        "portable_count": 1148,
         "omitted_from_portable_clients": {
           "unsupported_rules": 4
         },
         "clients": {
-          "mihomo": 1146,
-          "singbox": 1146,
-          "surge": 1142,
-          "loon": 1142,
-          "shadowrocket": 1142,
-          "quantumultx": 1142
+          "mihomo": 1152,
+          "singbox": 1152,
+          "surge": 1148,
+          "loon": 1148,
+          "shadowrocket": 1148,
+          "quantumultx": 1148
         }
       },
       "category-games-not-cn": {
-        "canonical_count": 865,
-        "portable_count": 862,
+        "canonical_count": 872,
+        "portable_count": 869,
         "omitted_from_portable_clients": {
           "unsupported_rules": 3
         },
         "clients": {
-          "mihomo": 865,
-          "singbox": 865,
-          "surge": 862,
-          "loon": 862,
-          "shadowrocket": 862,
-          "quantumultx": 862
+          "mihomo": 872,
+          "singbox": 872,
+          "surge": 869,
+          "loon": 869,
+          "shadowrocket": 869,
+          "quantumultx": 869
         }
       },
       "category-games-cn": {
-        "canonical_count": 283,
-        "portable_count": 282,
+        "canonical_count": 282,
+        "portable_count": 281,
         "omitted_from_portable_clients": {
           "unsupported_rules": 1
         },
         "clients": {
-          "mihomo": 283,
-          "singbox": 283,
-          "surge": 282,
-          "loon": 282,
-          "shadowrocket": 282,
-          "quantumultx": 282
+          "mihomo": 282,
+          "singbox": 282,
+          "surge": 281,
+          "loon": 281,
+          "shadowrocket": 281,
+          "quantumultx": 281
         }
       },
       "category-gov-ir": {
@@ -4474,18 +4474,18 @@
         }
       },
       "category-password-management": {
-        "canonical_count": 31,
-        "portable_count": 31,
+        "canonical_count": 32,
+        "portable_count": 32,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 31,
-          "singbox": 31,
-          "surge": 31,
-          "loon": 31,
-          "shadowrocket": 31,
-          "quantumultx": 31
+          "mihomo": 32,
+          "singbox": 32,
+          "surge": 32,
+          "loon": 32,
+          "shadowrocket": 32,
+          "quantumultx": 32
         }
       },
       "category-payment-ir": {
@@ -4609,48 +4609,48 @@
         }
       },
       "category-scholar-not-cn": {
-        "canonical_count": 475,
-        "portable_count": 475,
+        "canonical_count": 465,
+        "portable_count": 465,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 475,
-          "singbox": 475,
-          "surge": 475,
-          "loon": 475,
-          "shadowrocket": 475,
-          "quantumultx": 475
+          "mihomo": 465,
+          "singbox": 465,
+          "surge": 465,
+          "loon": 465,
+          "shadowrocket": 465,
+          "quantumultx": 465
         }
       },
       "category-scholar-cn": {
-        "canonical_count": 94,
-        "portable_count": 94,
+        "canonical_count": 96,
+        "portable_count": 96,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 94,
-          "singbox": 94,
-          "surge": 94,
-          "loon": 94,
-          "shadowrocket": 94,
-          "quantumultx": 94
+          "mihomo": 96,
+          "singbox": 96,
+          "surge": 96,
+          "loon": 96,
+          "shadowrocket": 96,
+          "quantumultx": 96
         }
       },
       "category-scholar-hk": {
-        "canonical_count": 32,
-        "portable_count": 32,
+        "canonical_count": 22,
+        "portable_count": 22,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 32,
-          "singbox": 32,
-          "surge": 32,
-          "loon": 32,
-          "shadowrocket": 32,
-          "quantumultx": 32
+          "mihomo": 22,
+          "singbox": 22,
+          "surge": 22,
+          "loon": 22,
+          "shadowrocket": 22,
+          "quantumultx": 22
         }
       },
       "category-scholar-ir": {
@@ -5058,6 +5058,21 @@
           "quantumultx": 2
         }
       },
+      "cdprojekt": {
+        "canonical_count": 7,
+        "portable_count": 7,
+        "omitted_from_portable_clients": {
+          "unsupported_rules": 0
+        },
+        "clients": {
+          "mihomo": 7,
+          "singbox": 7,
+          "surge": 7,
+          "loon": 7,
+          "shadowrocket": 7,
+          "quantumultx": 7
+        }
+      },
       "ceno": {
         "canonical_count": 2,
         "portable_count": 2,
@@ -5149,18 +5164,18 @@
         }
       },
       "chaoxing": {
-        "canonical_count": 33,
-        "portable_count": 33,
+        "canonical_count": 35,
+        "portable_count": 35,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 33,
-          "singbox": 33,
-          "surge": 33,
-          "loon": 33,
-          "shadowrocket": 33,
-          "quantumultx": 33
+          "mihomo": 35,
+          "singbox": 35,
+          "surge": 35,
+          "loon": 35,
+          "shadowrocket": 35,
+          "quantumultx": 35
         }
       },
       "chatango": {
@@ -5689,18 +5704,18 @@
         }
       },
       "cn": {
-        "canonical_count": 6159,
-        "portable_count": 6157,
+        "canonical_count": 6170,
+        "portable_count": 6168,
         "omitted_from_portable_clients": {
           "unsupported_rules": 2
         },
         "clients": {
-          "mihomo": 6159,
-          "singbox": 6159,
-          "surge": 6157,
-          "loon": 6157,
-          "shadowrocket": 6157,
-          "quantumultx": 6157
+          "mihomo": 6170,
+          "singbox": 6170,
+          "surge": 6168,
+          "loon": 6168,
+          "shadowrocket": 6168,
+          "quantumultx": 6168
         }
       },
       "cnb": {
@@ -7489,18 +7504,18 @@
         }
       },
       "eduhk": {
-        "canonical_count": 8,
-        "portable_count": 8,
+        "canonical_count": 3,
+        "portable_count": 3,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 8,
-          "singbox": 8,
-          "surge": 8,
-          "loon": 8,
-          "shadowrocket": 8,
-          "quantumultx": 8
+          "mihomo": 3,
+          "singbox": 3,
+          "surge": 3,
+          "loon": 3,
+          "shadowrocket": 3,
+          "quantumultx": 3
         }
       },
       "edx": {
@@ -8959,33 +8974,33 @@
         }
       },
       "geolocation-not-cn": {
-        "canonical_count": 24429,
-        "portable_count": 24284,
+        "canonical_count": 24426,
+        "portable_count": 24281,
         "omitted_from_portable_clients": {
           "unsupported_rules": 145
         },
         "clients": {
-          "mihomo": 24429,
-          "singbox": 24429,
-          "surge": 24284,
-          "loon": 24284,
-          "shadowrocket": 24284,
-          "quantumultx": 24284
+          "mihomo": 24426,
+          "singbox": 24426,
+          "surge": 24281,
+          "loon": 24281,
+          "shadowrocket": 24281,
+          "quantumultx": 24281
         }
       },
       "geolocation-cn": {
-        "canonical_count": 7835,
-        "portable_count": 7832,
+        "canonical_count": 7854,
+        "portable_count": 7851,
         "omitted_from_portable_clients": {
           "unsupported_rules": 3
         },
         "clients": {
-          "mihomo": 7835,
-          "singbox": 7835,
-          "surge": 7832,
-          "loon": 7832,
-          "shadowrocket": 7832,
-          "quantumultx": 7832
+          "mihomo": 7854,
+          "singbox": 7854,
+          "surge": 7851,
+          "loon": 7851,
+          "shadowrocket": 7851,
+          "quantumultx": 7851
         }
       },
       "gettyimages": {
@@ -10069,18 +10084,18 @@
         }
       },
       "hkbu": {
-        "canonical_count": 8,
-        "portable_count": 8,
+        "canonical_count": 3,
+        "portable_count": 3,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 8,
-          "singbox": 8,
-          "surge": 8,
-          "loon": 8,
-          "shadowrocket": 8,
-          "quantumultx": 8
+          "mihomo": 3,
+          "singbox": 3,
+          "surge": 3,
+          "loon": 3,
+          "shadowrocket": 3,
+          "quantumultx": 3
         }
       },
       "hkedcity": {
@@ -10669,18 +10684,18 @@
         }
       },
       "icloud": {
-        "canonical_count": 53,
-        "portable_count": 53,
+        "canonical_count": 52,
+        "portable_count": 52,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 53,
-          "singbox": 53,
-          "surge": 53,
-          "loon": 53,
-          "shadowrocket": 53,
-          "quantumultx": 53
+          "mihomo": 52,
+          "singbox": 52,
+          "surge": 52,
+          "loon": 52,
+          "shadowrocket": 52,
+          "quantumultx": 52
         }
       },
       "icloudprivaterelay": {
@@ -19804,18 +19819,18 @@
         }
       },
       "tencent-games": {
-        "canonical_count": 86,
-        "portable_count": 86,
+        "canonical_count": 85,
+        "portable_count": 85,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 86,
-          "singbox": 86,
-          "surge": 86,
-          "loon": 86,
-          "shadowrocket": 86,
-          "quantumultx": 86
+          "mihomo": 85,
+          "singbox": 85,
+          "surge": 85,
+          "loon": 85,
+          "shadowrocket": 85,
+          "quantumultx": 85
         }
       },
       "tencent-tme": {
@@ -23299,18 +23314,18 @@
         }
       },
       "cn-ip": {
-        "canonical_count": 10015,
-        "portable_count": 10015,
+        "canonical_count": 10014,
+        "portable_count": 10014,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 10015,
-          "singbox": 10015,
-          "surge": 10015,
-          "loon": 10015,
-          "shadowrocket": 10015,
-          "quantumultx": 10015
+          "mihomo": 10014,
+          "singbox": 10014,
+          "surge": 10014,
+          "loon": 10014,
+          "shadowrocket": 10014,
+          "quantumultx": 10014
         }
       }
     }
@@ -23328,13 +23343,13 @@
     },
     {
       "path": "README.md",
-      "sha256": "ec60d29e84acf3635a3b02ec929e677befd034776b74e619e1e55e63c68879ba",
-      "size": 917557
+      "sha256": "0d7095bebf26c019b301825a4ab4506afcb015748f5c18fd3ea913cdba6ad67e",
+      "size": 918151
     },
     {
       "path": "catalog.json",
-      "sha256": "b1c03ef2a319a8b85e8b31958b86eeb1fcf3facce51c5829bbd5f812122a0888",
-      "size": 1256050
+      "sha256": "943292e3a0ec76fb1a0a5c2d2b4efaad7a683e87f7c65a900a9f0f5aee75577a",
+      "size": 1256865
     },
     {
       "path": "loon/0x0.list",
@@ -23563,13 +23578,13 @@
     },
     {
       "path": "loon/agilebits.list",
-      "sha256": "1eb26b4774a5fcbf89bf74bc337a7319860980d7a5678a41e1345f7d076cc132",
-      "size": 427
+      "sha256": "8811cc0d843b98844f8a629d9fc7f8e9ef7f5b3362342be4e4ac9a276311ddf3",
+      "size": 455
     },
     {
       "path": "loon/agora.list",
-      "sha256": "417ef41891e1fa62b1bb40278cf676753a86775d8393f75dbf874750baa76049",
-      "size": 73
+      "sha256": "9e846fdc060b2f0fab2d4398db10d28110b544b45735d66bf83e13a1eb4c56f0",
+      "size": 126
     },
     {
       "path": "loon/aiqicha.list",
@@ -23803,8 +23818,8 @@
     },
     {
       "path": "loon/apple.list",
-      "sha256": "35c73470fa11fa0a5e8dd760d35be566d2b4fbdff686e081741cc81d91ea2d0c",
-      "size": 50871
+      "sha256": "f5c09dbda827954cd07745201ed3bf8c8a9b4d8235fc9d021bb9c3feb78a5223",
+      "size": 50847
     },
     {
       "path": "loon/appledaily.list",
@@ -24383,13 +24398,13 @@
     },
     {
       "path": "loon/category-ads-all.list",
-      "sha256": "bee52ff6f48509246ec2715941ed47d914f780c9be20c24112d85eaca4823352",
-      "size": 27296
+      "sha256": "ffb8ee3c4e84e62055b9cfcd6c5d3202e72469fb4c484c677ee67fc507f6c048",
+      "size": 27321
     },
     {
       "path": "loon/category-ads-and-telemetry.list",
-      "sha256": "f0fdba72d0707edb3134bd726e13afae413f22979988bf383acd3baeda1c9233",
-      "size": 26052
+      "sha256": "810bc7f6ae209fbcdca1d9b5b4c8552c9676531b5c3e3b9ca3529e513251ef0e",
+      "size": 26077
     },
     {
       "path": "loon/category-ads-ir.list",
@@ -24398,8 +24413,8 @@
     },
     {
       "path": "loon/category-ads.list",
-      "sha256": "ad1bacf4c023d8e5597b24d48344eebdc386d9df336deb19977f3ede7bf80c14",
-      "size": 25805
+      "sha256": "d46baa836362f1fa32bd6a6d65af4d7b4f9846828802e53d625ea30c12cd7d6d",
+      "size": 25830
     },
     {
       "path": "loon/category-ai-chat-not-cn.list",
@@ -24443,8 +24458,8 @@
     },
     {
       "path": "loon/category-bank-cn.list",
-      "sha256": "98ac9cdd523da54edf5509a112aa9d7968e003f54a22943163d88e16b6f12a4d",
-      "size": 3700
+      "sha256": "cc549074510385d95b86816a19b56f9a958dca655e91c28b4ed07f228e4f7619",
+      "size": 3805
     },
     {
       "path": "loon/category-bank-ir.list",
@@ -24513,8 +24528,8 @@
     },
     {
       "path": "loon/category-companies.list",
-      "sha256": "7bc4e8e92f2226e40e2cbfece8b8fc672666b8c3a8c430c705aac9ea1a033e29",
-      "size": 224437
+      "sha256": "c57ffe53423d2c3f2990d472faa0e604f75e4f8e53fa47bd50bdd96715759339",
+      "size": 224413
     },
     {
       "path": "loon/category-consent-management.list",
@@ -24583,8 +24598,8 @@
     },
     {
       "path": "loon/category-electronic-cn.list",
-      "sha256": "db5b45718c54ea6d74b3449980f7803c9089ef3bad41d924a0db819dbd428fa7",
-      "size": 2336
+      "sha256": "6e4b35c14537627113957fc8305e06e5562781f6e72f04a2ff02c6267e17fb17",
+      "size": 2367
     },
     {
       "path": "loon/category-emby.list",
@@ -24603,8 +24618,8 @@
     },
     {
       "path": "loon/category-entertainment-cn.list",
-      "sha256": "78b5ce7d749609505c715dc2a222a7daaa6506e2e9a8a701d3c9cd64f1010390",
-      "size": 22646
+      "sha256": "bc29e023e77e67ad3a05723c99e63b150d78d844251e79ae07a31df00ddb1efb",
+      "size": 22621
     },
     {
       "path": "loon/category-entertainment-ru.list",
@@ -24613,8 +24628,8 @@
     },
     {
       "path": "loon/category-entertainment.list",
-      "sha256": "a18ec9eda69a84fb7b331a3bab4923efd39c33dc15e4d26b23c16c49fa21f542",
-      "size": 61392
+      "sha256": "e3d007f59bcbdbac244acc7a46a53e8cc3d36ace89c796c1e211c5a3b63adcc9",
+      "size": 61594
     },
     {
       "path": "loon/category-finance.list",
@@ -24658,18 +24673,18 @@
     },
     {
       "path": "loon/category-games-cn.list",
-      "sha256": "1e185c649b393f9ef24030b7ad7f3f3a50ec80bfaa1766c0389cec3b7af0db93",
-      "size": 7550
+      "sha256": "ea3a6acb36d3616c247951d1cb22933264bc5a93dcb8975abebb1ec3b1a28388",
+      "size": 7525
     },
     {
       "path": "loon/category-games-not-cn.list",
-      "sha256": "8f475707bf9d8236258f12b38eea5ef73501e366c096d9e1635d5dbdd947b127",
-      "size": 26131
+      "sha256": "9fa540d9b34769791d386d53f5766133a813856afc17748a254e38861509208c",
+      "size": 26333
     },
     {
       "path": "loon/category-games.list",
-      "sha256": "9cbd4ce1c5737911df8c02ee1bd9415a0ce0222fa16506585c8e0c9d064731a4",
-      "size": 33627
+      "sha256": "1e1f2b1191bb707ec0751cacf9793b36f40504fe4dff22ed2c05042861c14bdd",
+      "size": 33804
     },
     {
       "path": "loon/category-gov-ir.list",
@@ -24818,8 +24833,8 @@
     },
     {
       "path": "loon/category-password-management.list",
-      "sha256": "8eb4a037f15ed9a49aa7de3fd2f40199ccc7b56ece8d55b37f34ed6083c19d93",
-      "size": 882
+      "sha256": "d71d960e461087513649a362f4d57f56026fde575d140ff3849437cf2b3325e4",
+      "size": 910
     },
     {
       "path": "loon/category-payment-ir.list",
@@ -24863,13 +24878,13 @@
     },
     {
       "path": "loon/category-scholar-cn.list",
-      "sha256": "57d70045992a71807103295cb401c4c40bcd67e1f7822eed09080b850e708a93",
-      "size": 2475
+      "sha256": "f241225580291743e6028f167206aca8a975cce0ff2c72eacbaa17fefa2509a5",
+      "size": 2528
     },
     {
       "path": "loon/category-scholar-hk.list",
-      "sha256": "dc18e8a90d807276ce2fa2102d571e41b22b1af5977608fb5013e00df0ac4158",
-      "size": 1139
+      "sha256": "bee4728798ebbd36904cef1f1722423f654fdb8480a4d1e5cd5039d424271967",
+      "size": 757
     },
     {
       "path": "loon/category-scholar-ir.list",
@@ -24878,8 +24893,8 @@
     },
     {
       "path": "loon/category-scholar-not-cn.list",
-      "sha256": "93498d5b9f9db2ac2fcac6db79d6c527fd4b13e773c656324802e9ba9948baf6",
-      "size": 13533
+      "sha256": "86296caa0b690d37d21d63a3dad121207ff99a4e7322298cf3995a0490e931e8",
+      "size": 13151
     },
     {
       "path": "loon/category-scholar-uk.list",
@@ -24978,8 +24993,8 @@
     },
     {
       "path": "loon/category-wiki-cn.list",
-      "sha256": "f5c18c2e5842587952eb1fe485d3babd71ac9b530fc3e378289639867794aa05",
-      "size": 427
+      "sha256": "59c4ab7d5e1f8d256bc35eef68f4c5326ecbcb01a0f9d6357fa8fd767f13f017",
+      "size": 428
     },
     {
       "path": "loon/cavporn.list",
@@ -25010,6 +25025,11 @@
       "path": "loon/cdn77.list",
       "sha256": "62621da9d13fa35e79cfed1288a0b85e760891bb06bb6e0670e0767dae1d1c0e",
       "size": 47
+    },
+    {
+      "path": "loon/cdprojekt.list",
+      "sha256": "1b330bd3ee6eefcdb499949fdfb9632d033d016262b9819841d5489092d64a2d",
+      "size": 201
     },
     {
       "path": "loon/ceno.list",
@@ -25043,8 +25063,8 @@
     },
     {
       "path": "loon/chaoxing.list",
-      "sha256": "0ca620315330e7eacede5bff54f36d169a042c26a27bd347fde1947ec2f049c0",
-      "size": 889
+      "sha256": "632682afa6949f0a6fc9b101fe94f539b500d0c736d9d31f8d2e0f2aeb539939",
+      "size": 942
     },
     {
       "path": "loon/chatango.list",
@@ -25223,13 +25243,13 @@
     },
     {
       "path": "loon/cn-ip.list",
-      "sha256": "cca8b1bbdc54aaca7a9990cddc4d92bd5dcfc99fc899b7a13b2d59f9ae90d177",
-      "size": 353098
+      "sha256": "7f7a222373a2e8d893ef600e923448bfe90db799169d2cc21cc37e518b141346",
+      "size": 353059
     },
     {
       "path": "loon/cn.list",
-      "sha256": "d9d759a2d9f7e8167ebb370166d714ba3c786ac9696d407af653a1cfa945b59e",
-      "size": 165258
+      "sha256": "99d17073816ddd7d3005a62abd94841440de25ffbcee4b8cb36c198ceadf7552",
+      "size": 165555
     },
     {
       "path": "loon/cnb.list",
@@ -25418,8 +25438,8 @@
     },
     {
       "path": "loon/cuhk.list",
-      "sha256": "1222afb9d116709bb8fea6e2224a80794ef9b84205528d9981855b6df7689681",
-      "size": 286
+      "sha256": "6108af9cf23080d0098006d907bacec1f4d89cca8b2c8c2293b0ef5d7ba0222c",
+      "size": 280
     },
     {
       "path": "loon/cuinc.list",
@@ -25828,8 +25848,8 @@
     },
     {
       "path": "loon/eduhk.list",
-      "sha256": "c9b36551512ec2ab48d75987fe8a9dc478529583522d943f948853fb78e5f33d",
-      "size": 280
+      "sha256": "199377a283022efc1fb6ce8003aa5786494b7db90357177640d59253c00129e5",
+      "size": 99
     },
     {
       "path": "loon/edx.list",
@@ -26318,13 +26338,13 @@
     },
     {
       "path": "loon/geolocation-cn.list",
-      "sha256": "076fb5c129cec850450ea6f6cbef9c4f5047afa1b40dcd9d044c6e7fa8be0449",
-      "size": 209388
+      "sha256": "41fcc8e49e1679ceb4e3468033cef1c1c99a5b46b45e9506b2b009bc27a01adb",
+      "size": 209881
     },
     {
       "path": "loon/geolocation-not-cn.list",
-      "sha256": "64b2e8cb5565320466c34ae23acd009fed5ed7866fc7b7b35a24feb9a926fb92",
-      "size": 695444
+      "sha256": "a258bb28fcc752244a0db57240a7d21110db329506257691d5ca161628d9abff",
+      "size": 695268
     },
     {
       "path": "loon/gettyimages.list",
@@ -26688,8 +26708,8 @@
     },
     {
       "path": "loon/hkbu.list",
-      "sha256": "4b7e6275380ff9846ceec96481d14473e35c85ac2405b77880cd5e1bd1f25062",
-      "size": 292
+      "sha256": "a24d559df5a6e4a42fcb1228ddd90f88c6c3e49708f96a7f79ee36390ccfbc40",
+      "size": 97
     },
     {
       "path": "loon/hkedcity.list",
@@ -26888,8 +26908,8 @@
     },
     {
       "path": "loon/icloud.list",
-      "sha256": "045d42ba03253cc1b6e8205aaee18214465c1ecb12000d04693f142359a27af9",
-      "size": 1442
+      "sha256": "fe1a774abc69ef92a9c2888cc30f78392e72c8a36eab6d5fa224af965f3e8877",
+      "size": 1418
     },
     {
       "path": "loon/icloudprivaterelay.list",
@@ -29928,8 +29948,8 @@
     },
     {
       "path": "loon/tencent-games.list",
-      "sha256": "436d63e1f928f6c2472e1dcb7d1e6e81cd0cff14562a962a87c5eb4806b3e78e",
-      "size": 2443
+      "sha256": "e7c9a4cc9dd38866b1d01da5e83d86bf3f902696ff0ba37f6f1dde29a4b461ed",
+      "size": 2418
     },
     {
       "path": "loon/tencent-tme.list",
@@ -31323,13 +31343,13 @@
     },
     {
       "path": "mihomo/agilebits.yaml",
-      "sha256": "ed60546f6d1d6201d178159036d90f51f4e88b8d4ddec4ae6adb05ec4dd75a1f",
-      "size": 521
+      "sha256": "70543bea9fd59e670f39e2e1ba4da687924392efbf6d06ef28b2e8005ed4fe71",
+      "size": 555
     },
     {
       "path": "mihomo/agora.yaml",
-      "sha256": "f7670162e88e56f96361cfed2b8f149bd20cf4b0b4c6eec289c0fca03444c229",
-      "size": 101
+      "sha256": "8d45eca1ee4e0d2bfc0c4a6eab0df2a828116f11076eeaa0b28eb563f356af72",
+      "size": 166
     },
     {
       "path": "mihomo/aiqicha.yaml",
@@ -31563,8 +31583,8 @@
     },
     {
       "path": "mihomo/apple.yaml",
-      "sha256": "f9c2d128520d23cec695f366f6887ba3aa61c5efa58bb8ebe5daed82fe261df6",
-      "size": 60391
+      "sha256": "b435be8ae7a8e15b9cbb3200d065365d9ca27c2939411d3c2d29b7f15b505a87",
+      "size": 60361
     },
     {
       "path": "mihomo/appledaily.yaml",
@@ -32143,13 +32163,13 @@
     },
     {
       "path": "mihomo/category-ads-all.yaml",
-      "sha256": "60b56f629d9abf81967448e88ccf41f60c87a3a25ed182ef2d3d6adfbb9ffee0",
-      "size": 32786
+      "sha256": "9ab548e5b8b34879251cdab380392141a67131978c92ec438ede7981fc654cbf",
+      "size": 32817
     },
     {
       "path": "mihomo/category-ads-and-telemetry.yaml",
-      "sha256": "e52bf8637b85c222c3575371fc6ed1e9d7ff3ded6fcebe89a9de8768c25798fe",
-      "size": 31242
+      "sha256": "25d08878e662dc3d75079837ed439607cf4dc8943db8832cd6214f09690b045a",
+      "size": 31273
     },
     {
       "path": "mihomo/category-ads-ir.yaml",
@@ -32158,8 +32178,8 @@
     },
     {
       "path": "mihomo/category-ads.yaml",
-      "sha256": "459c7d96ff1a8ba903f92d3b924b539bf790791d585097d9e9a086f80adf3594",
-      "size": 30959
+      "sha256": "569816f81334306cdbc9aee77471df49756308aafdc61682d2bf625e258efe4c",
+      "size": 30990
     },
     {
       "path": "mihomo/category-ai-chat-not-cn.yaml",
@@ -32203,8 +32223,8 @@
     },
     {
       "path": "mihomo/category-bank-cn.yaml",
-      "sha256": "46e50bf976455e5095876376e49b12b69f08dcac810f99dd8fbfdbceebd37bad",
-      "size": 4520
+      "sha256": "0719f3d8a2df5048733d4b914508913b6c7c7955449d43475cbecfbad4242f02",
+      "size": 4649
     },
     {
       "path": "mihomo/category-bank-ir.yaml",
@@ -32273,8 +32293,8 @@
     },
     {
       "path": "mihomo/category-companies.yaml",
-      "sha256": "891c69d418d19a0005af8e417c6fd5593127f346dc1fe6657e60097db7248712",
-      "size": 270785
+      "sha256": "a6f4b16b4261f2a11f5690f8d9aebab88401ee05c4c8fc51d91b26e4153a46bb",
+      "size": 270755
     },
     {
       "path": "mihomo/category-consent-management.yaml",
@@ -32343,8 +32363,8 @@
     },
     {
       "path": "mihomo/category-electronic-cn.yaml",
-      "sha256": "840dce00a6dfd6f9ac954412486d6ceb2f808c1350ff74a43de9989646efa591",
-      "size": 2892
+      "sha256": "3098e84802880ac847462a5e78903f2fc34c933a3e99788fbc0823d694e8d565",
+      "size": 2929
     },
     {
       "path": "mihomo/category-emby.yaml",
@@ -32363,8 +32383,8 @@
     },
     {
       "path": "mihomo/category-entertainment-cn.yaml",
-      "sha256": "547517f33aacde840515050d746e42f1fed5c3ede1437653622d80d6dd7046bf",
-      "size": 27827
+      "sha256": "c5ae844cd488e27d17120722a1537e3507047c4ef520ecca5e1bb45512103342",
+      "size": 27796
     },
     {
       "path": "mihomo/category-entertainment-ru.yaml",
@@ -32373,8 +32393,8 @@
     },
     {
       "path": "mihomo/category-entertainment.yaml",
-      "sha256": "e2da930dd64bdfaf8b4ee10ea15d797767fb4a1ea0eea4006db773d79b65ff01",
-      "size": 74405
+      "sha256": "d50aeeeeda05862290825390aaeaf1feb75cb30a174becf3a1784dc8a7d08c1c",
+      "size": 74649
     },
     {
       "path": "mihomo/category-finance.yaml",
@@ -32418,18 +32438,18 @@
     },
     {
       "path": "mihomo/category-games-cn.yaml",
-      "sha256": "b3923957b1a9c558f10d5bafada9542cb9e4774bb688ec7fbf4e54ccca79d02a",
-      "size": 9299
+      "sha256": "db1c0b7384c4399639f8c0ddf18288b123b921c735d7ef2bc9ee5d34fdd3101d",
+      "size": 9268
     },
     {
       "path": "mihomo/category-games-not-cn.yaml",
-      "sha256": "b53cf2aff1b54699eabad98dcf5008adcfd8b6e599db875fecf7759c14767c64",
-      "size": 31500
+      "sha256": "c0aa726130e0cbc08455d377f16048c45b3639a317126f2e463ea83c5e310f26",
+      "size": 31744
     },
     {
       "path": "mihomo/category-games.yaml",
-      "sha256": "b7034ed1982b23a27993728ea058c110290eaa794c4e26d787be0365e7f7727a",
-      "size": 40723
+      "sha256": "9a3026d6d81c203207bfcd36f8f2f4a6449ee39ed856e06b1e551bd2ba11a524",
+      "size": 40936
     },
     {
       "path": "mihomo/category-gov-ir.yaml",
@@ -32578,8 +32598,8 @@
     },
     {
       "path": "mihomo/category-password-management.yaml",
-      "sha256": "087f75e8adff9061474a987d5b4c45c1fb8d97395d894c9844aaf4e13f75d1e1",
-      "size": 1078
+      "sha256": "3042d41ba91ce77b31ea00135af4cf49e9d8c3cbd3526ccb89e9302a13c132c0",
+      "size": 1112
     },
     {
       "path": "mihomo/category-payment-ir.yaml",
@@ -32623,13 +32643,13 @@
     },
     {
       "path": "mihomo/category-scholar-cn.yaml",
-      "sha256": "74426396d9422c5ffb8371eb1b5786b42aa2a1de63f14b6956ced9ca25128aea",
-      "size": 3049
+      "sha256": "b8188b4154a6da2bbb8490313b47e708a2507cff09bc13650ce89dbcb476aa09",
+      "size": 3114
     },
     {
       "path": "mihomo/category-scholar-hk.yaml",
-      "sha256": "aa4ced7ddae7647dcb031e1ac79cadf00e06ae22fc124e647e236c9d14a8a7ac",
-      "size": 1341
+      "sha256": "deffc6a10e1d0763d6f68650a313ced03e219be56f761b2c209b1aee9771332a",
+      "size": 899
     },
     {
       "path": "mihomo/category-scholar-ir.yaml",
@@ -32638,8 +32658,8 @@
     },
     {
       "path": "mihomo/category-scholar-not-cn.yaml",
-      "sha256": "6f59066bf6ebde698da187081bbd15059e790b93aa9c06b919963c66d00e17f1",
-      "size": 16393
+      "sha256": "a9c877a0f98f01a01fc7613843986a86dbb9f4df2beecb0f88f5b52018761861",
+      "size": 15951
     },
     {
       "path": "mihomo/category-scholar-uk.yaml",
@@ -32738,8 +32758,8 @@
     },
     {
       "path": "mihomo/category-wiki-cn.yaml",
-      "sha256": "4dc8c3c394fa10c4d18d5f6517aaf0ff254994f85ab28f006199c7a2dd650d19",
-      "size": 533
+      "sha256": "aa848be1ca767964bd9c7a5ba3a0e6f6c48e3bf3d0d595e314a3ad299397f787",
+      "size": 534
     },
     {
       "path": "mihomo/cavporn.yaml",
@@ -32770,6 +32790,11 @@
       "path": "mihomo/cdn77.yaml",
       "sha256": "a50c9157c7a08becdba587e42fdeae9131b77ed8144369b6ed8ec6d67c7dc37e",
       "size": 69
+    },
+    {
+      "path": "mihomo/cdprojekt.yaml",
+      "sha256": "c0a82c40297f6382d169b708bfc0307d50dee502f917264a55058d7b73c0aadc",
+      "size": 253
     },
     {
       "path": "mihomo/ceno.yaml",
@@ -32803,8 +32828,8 @@
     },
     {
       "path": "mihomo/chaoxing.yaml",
-      "sha256": "fa5d55f1e9d0b9e721327459089c8d1080473f2f9db25c879903e0170c397ae0",
-      "size": 1097
+      "sha256": "25e19ba18d6ab36327d21ecb9cb072398d2c2ba540f0eb1adad201ae1403d68a",
+      "size": 1162
     },
     {
       "path": "mihomo/chatango.yaml",
@@ -32983,13 +33008,13 @@
     },
     {
       "path": "mihomo/cn-ip.yaml",
-      "sha256": "9253f90ddd310667cdd755ff677c9f8f97e7dd8da42685854b2e4bc3de6ae2bf",
-      "size": 303033
+      "sha256": "a1c977223b69ed4addd9accec591403408d56854772e5a6b386f31e0ff5066bb",
+      "size": 302999
     },
     {
       "path": "mihomo/cn.yaml",
-      "sha256": "cf4845562d9942086efe39d06d11aee0388e527a35383f611d69a1a280e24f51",
-      "size": 202321
+      "sha256": "7cd79f9fea6aa676e6560b524602bf3e92170735f263285445124c5ab087ea15",
+      "size": 202684
     },
     {
       "path": "mihomo/cnb.yaml",
@@ -33178,8 +33203,8 @@
     },
     {
       "path": "mihomo/cuhk.yaml",
-      "sha256": "1bbba42bb8e685d0c192c496558754b5d7d67656381354344edb3052b6b689b8",
-      "size": 344
+      "sha256": "1628572a27a04c81c93717c38f20a619660d268252d8c18a2b1645abb34b3e52",
+      "size": 338
     },
     {
       "path": "mihomo/cuinc.yaml",
@@ -33588,8 +33613,8 @@
     },
     {
       "path": "mihomo/eduhk.yaml",
-      "sha256": "466a6dae96f994c24a781a34cf925901660ac390b3cf16302e730169a2ffe6d5",
-      "size": 338
+      "sha256": "285aa537901cfbc9625c5b595f4ba86fd5045850dbad3d9bad0728b4d2f229a1",
+      "size": 127
     },
     {
       "path": "mihomo/edx.yaml",
@@ -34078,13 +34103,13 @@
     },
     {
       "path": "mihomo/geolocation-cn.yaml",
-      "sha256": "cc4b381a5e7a6b8d6c760f94b4bde1481b596660193b21834b36654e77323fe5",
-      "size": 256553
+      "sha256": "9cd368f13f3194215a5e6a3f18df9918d8c475416aa0f7073819dacc85bccb74",
+      "size": 257160
     },
     {
       "path": "mihomo/geolocation-not-cn.yaml",
-      "sha256": "751ead4b52aeda664923228891dbf7fb489cdc4e966c8ad4064e95849a2c9ced",
-      "size": 848035
+      "sha256": "f9334994e8b35874a73b56a5e458b47aafd7b5ec4a82ad7c6bdef87a683781bb",
+      "size": 847841
     },
     {
       "path": "mihomo/gettyimages.yaml",
@@ -34448,8 +34473,8 @@
     },
     {
       "path": "mihomo/hkbu.yaml",
-      "sha256": "1d6c860de7f96368a0f68c3127d2f95f41fdef54b5519351c81a6693a40b7550",
-      "size": 350
+      "sha256": "ed6dcaea3b5b5a971d14d63578d27ff74a2d72af665ac4135b773ed1638e958f",
+      "size": 125
     },
     {
       "path": "mihomo/hkedcity.yaml",
@@ -34648,8 +34673,8 @@
     },
     {
       "path": "mihomo/icloud.yaml",
-      "sha256": "f5b02ab14fe331fbe443875b071266d39cd710ab1610a284281377423c102afa",
-      "size": 1770
+      "sha256": "7ccfbaefe0ec10bf9dd04dd93e799d971961ca61ce5a6765b552a0801accb26d",
+      "size": 1740
     },
     {
       "path": "mihomo/icloudprivaterelay.yaml",
@@ -37688,8 +37713,8 @@
     },
     {
       "path": "mihomo/tencent-games.yaml",
-      "sha256": "7caf92c8fbae3f0e3a68ef728c3dfb058494a89fa3fed9aa7ae70798846503fc",
-      "size": 2969
+      "sha256": "26ed6bc75bfacb317464e073d16d46924a3f66841e1af0b5a008ca4023178e87",
+      "size": 2938
     },
     {
       "path": "mihomo/tencent-tme.yaml",
@@ -39083,13 +39108,13 @@
     },
     {
       "path": "quantumultx/agilebits.list",
-      "sha256": "1ee731edd4c93e366b49954015f2c068e15855c7c53231a353c10d3a82f63377",
-      "size": 539
+      "sha256": "753505600f4dd3b0d499d6fc932eb521695df5dc868658c5dd3892dcf4ef9521",
+      "size": 575
     },
     {
       "path": "quantumultx/agora.list",
-      "sha256": "5517041c7a539182f6ac014f8a99cabf8d0b68c068158cd73382474baa7e6093",
-      "size": 85
+      "sha256": "f55347cff2a67fa9dceefd0f9732d4f43fbeeb25a3e05e4bbcbf794186518e23",
+      "size": 146
     },
     {
       "path": "quantumultx/aiqicha.list",
@@ -39323,8 +39348,8 @@
     },
     {
       "path": "quantumultx/apple.list",
-      "sha256": "7b496c9fe2bcb286dbe0d378bfc9af77cefff97f31e19ecfc562b788de9316fb",
-      "size": 57211
+      "sha256": "d31f6532a54149019a520140ca2f3c8c8bac973c1a823d906b215d9272f16a17",
+      "size": 57183
     },
     {
       "path": "quantumultx/appledaily.list",
@@ -39903,13 +39928,13 @@
     },
     {
       "path": "quantumultx/category-ads-all.list",
-      "sha256": "89d472b2bc4521dba32b02793d2e998693f391902c6144840cf9dd0006e1e6a1",
-      "size": 40781
+      "sha256": "916f8fdcec7e98be38bf44202c67b5824c439ab081569b49b4a9be9bcae83de9",
+      "size": 40821
     },
     {
       "path": "quantumultx/category-ads-and-telemetry.list",
-      "sha256": "22cccd1e8bbc7f749d336f532e90d9d3db962cbcf07eee8a6b86cd5b3045907f",
-      "size": 47277
+      "sha256": "3c4a7916248800eed457a726c7ae55d339a738c38eef3a25b0a3b0e8105d8e5c",
+      "size": 47327
     },
     {
       "path": "quantumultx/category-ads-ir.list",
@@ -39918,8 +39943,8 @@
     },
     {
       "path": "quantumultx/category-ads.list",
-      "sha256": "93b333f282725dabfdfc36f7d7ac22fd159a1f48a151bceb856c85827d1e9796",
-      "size": 35078
+      "sha256": "d5203c1d77e59c26aa4ef485fc89d68219ef869f71011e1f5792caf7876e3f33",
+      "size": 35114
     },
     {
       "path": "quantumultx/category-ai-chat-not-cn.list",
@@ -39963,8 +39988,8 @@
     },
     {
       "path": "quantumultx/category-bank-cn.list",
-      "sha256": "d26305bdb7f51e427a1a3970fe9c76f3f663f878d10d11c1d757d53dbd3ee82e",
-      "size": 5725
+      "sha256": "919d338f2e38add83325d684bdab6df96845b3c977e8a95d1607770f1f2df137",
+      "size": 5890
     },
     {
       "path": "quantumultx/category-bank-ir.list",
@@ -40033,8 +40058,8 @@
     },
     {
       "path": "quantumultx/category-companies.list",
-      "sha256": "7b27b120eb20f300db64710cf0c30f9dc3ae702aac132fb201800167a364c050",
-      "size": 355218
+      "sha256": "bb6f11414175a054254105d221f044492ff117f777cff51dceeff0325ee78376",
+      "size": 355177
     },
     {
       "path": "quantumultx/category-consent-management.list",
@@ -40103,8 +40128,8 @@
     },
     {
       "path": "quantumultx/category-electronic-cn.list",
-      "sha256": "404d0924b81f5237c8d394eea33a7cedf56ec522e003c8707cb7e2db29f0428a",
-      "size": 4247
+      "sha256": "84ac7594f24d959ed322e3b3bf0ac748c7a374786c99883f588b667741307f70",
+      "size": 4299
     },
     {
       "path": "quantumultx/category-emby.list",
@@ -40123,8 +40148,8 @@
     },
     {
       "path": "quantumultx/category-entertainment-cn.list",
-      "sha256": "4204aa578b9e0a0cd73f357e967899aacd59d723b7fa68c5b2bd7165e884a184",
-      "size": 43142
+      "sha256": "43d1478485cb402cf6ef4f44a0bfb27e21af39b4d4e1f6cbaaf92543fbc758ef",
+      "size": 43093
     },
     {
       "path": "quantumultx/category-entertainment-ru.list",
@@ -40133,8 +40158,8 @@
     },
     {
       "path": "quantumultx/category-entertainment.list",
-      "sha256": "a03d2d7ed059d94b1644943bef0f421858fc9ab8c5f97590688d78a112c311c3",
-      "size": 104925
+      "sha256": "8882b9924d0299754a629310fc09b9e17d116f79bb587b6b1d7498d581d115d6",
+      "size": 105274
     },
     {
       "path": "quantumultx/category-finance.list",
@@ -40178,18 +40203,18 @@
     },
     {
       "path": "quantumultx/category-games-cn.list",
-      "sha256": "6402e78840666e590635acc6c08619d6a7c3be43108722910e20436e67aea0d0",
-      "size": 12062
+      "sha256": "26c7405b6bcedf9870b055a92ce87b3a17f25d7bc44318011cd8c16a45d3c7ea",
+      "size": 12021
     },
     {
       "path": "quantumultx/category-games-not-cn.list",
-      "sha256": "082e85a0104345410c6c06c58434c68162e6fbb469041bc82dc03c2cdac99a1c",
-      "size": 43371
+      "sha256": "70441a77fd4840eef3f795eb3d25d65e65fe3aa5e2bc1b191879d10f51f53a7a",
+      "size": 43713
     },
     {
       "path": "quantumultx/category-games.list",
-      "sha256": "38101df8fc9a6e0ac6915a83ecdfccf6051a68f44cbbe3e9de5754a19e4a5320",
-      "size": 48473
+      "sha256": "9c1de764833a8ddd0c9665291ffbb3e54fd09c215f60b6cbd979c4508f3eee6c",
+      "size": 48728
     },
     {
       "path": "quantumultx/category-gov-ir.list",
@@ -40338,8 +40363,8 @@
     },
     {
       "path": "quantumultx/category-password-management.list",
-      "sha256": "c91c877246f055f1c1af2d74f2ddb999aee3adc03cbbb74b0e1098d2970563fa",
-      "size": 1719
+      "sha256": "a38d5495f292021c74b44b3ddf4b87d3e20d0ce65b782ffa403ee102b83abd68",
+      "size": 1774
     },
     {
       "path": "quantumultx/category-payment-ir.list",
@@ -40383,13 +40408,13 @@
     },
     {
       "path": "quantumultx/category-scholar-cn.list",
-      "sha256": "28f8ec4f68e1f4d697b177a553b344b241765f6cd386019048260c5dd84616b4",
-      "size": 4167
+      "sha256": "616e2253f4e135f94368ba07ca68a4234f53310b8caa2afc6c136af853961c29",
+      "size": 4256
     },
     {
       "path": "quantumultx/category-scholar-hk.list",
-      "sha256": "173b2e12ecd0180dd87a55ffb982c72e4abf050958cf7068ed744b11f15e9420",
-      "size": 1715
+      "sha256": "aed3903499707ca1d9e8ad239d453bd34bc3561152355c9d0205b81d33a48286",
+      "size": 1153
     },
     {
       "path": "quantumultx/category-scholar-ir.list",
@@ -40398,8 +40423,8 @@
     },
     {
       "path": "quantumultx/category-scholar-not-cn.list",
-      "sha256": "29237a2a63525d3cf419261ecef5d2a4318e4762e5554a1c851b59ff3e12b97f",
-      "size": 23983
+      "sha256": "110f2823481e605b8c148fdf487067eb41247e83f2e5b7bd012b2c828643a8fa",
+      "size": 23381
     },
     {
       "path": "quantumultx/category-scholar-uk.list",
@@ -40498,8 +40523,8 @@
     },
     {
       "path": "quantumultx/category-wiki-cn.list",
-      "sha256": "767b6d368af2b543c5e84082302eb245ad9b5745415c4b35db90ec43960f5748",
-      "size": 667
+      "sha256": "d15cda4a04562df84ea6f90612e43cafc93c8abb8ad43887172db8dc4f28a5f8",
+      "size": 668
     },
     {
       "path": "quantumultx/cavporn.list",
@@ -40530,6 +40555,11 @@
       "path": "quantumultx/cdn77.list",
       "sha256": "6c00289deef758ca94047b380d42340d150085d80d30517cd0d8d1007184de97",
       "size": 55
+    },
+    {
+      "path": "quantumultx/cdprojekt.list",
+      "sha256": "1d4d419cc8757633be8fc5139293d0e045196b240c92ea82def4296524bd294f",
+      "size": 257
     },
     {
       "path": "quantumultx/ceno.list",
@@ -40563,8 +40593,8 @@
     },
     {
       "path": "quantumultx/chaoxing.list",
-      "sha256": "f5667f86a3232d44f8b0424bf904e660bf5d3fdf81d997b6f3a83120b16c1a87",
-      "size": 1120
+      "sha256": "367a72e1eca486ea3f9df5c798e64044d8ee3fffa8476c6ba395b0d9c98320f6",
+      "size": 1187
     },
     {
       "path": "quantumultx/chatango.list",
@@ -40743,13 +40773,13 @@
     },
     {
       "path": "quantumultx/cn-ip.list",
-      "sha256": "4a9bdcd6b22f2586fecb1484cf7d7fe76acdc1c02c9476e7dc6867c9d47b273a",
-      "size": 303023
+      "sha256": "40880fc7b8a9b5be4297541230ecfca1975c3edf3042d1ed1d1ffd836b13b27d",
+      "size": 302989
     },
     {
       "path": "quantumultx/cn.list",
-      "sha256": "d9f03712ec4ec17b9d24b388da8167cde4889db549914e07f89e10e90abcd024",
-      "size": 171415
+      "sha256": "67aefa5a8163f961d50a3caf6e1ff0f4aa35a625552f70e545187350b836a5da",
+      "size": 171723
     },
     {
       "path": "quantumultx/cnb.list",
@@ -40938,8 +40968,8 @@
     },
     {
       "path": "quantumultx/cuhk.list",
-      "sha256": "3a438732f72ad0fb1914cf95d703590688409b5fad2f0a61a1600eee9984276b",
-      "size": 310
+      "sha256": "6358cb8825b42fbe78aa8fc6454d581c7f1e5ea0c76f0abbc93b4f8f89ed7b03",
+      "size": 304
     },
     {
       "path": "quantumultx/cuinc.list",
@@ -41348,8 +41378,8 @@
     },
     {
       "path": "quantumultx/eduhk.list",
-      "sha256": "0bb5707df7a839a0d7e3295e843eba83b04d89c8f9997f2c062888c31f116c84",
-      "size": 312
+      "sha256": "e11e0ecca6c031d45ecc502ac594fd5d0d16a24e76afb910f6f1762b03bd3282",
+      "size": 111
     },
     {
       "path": "quantumultx/edx.list",
@@ -41838,13 +41868,13 @@
     },
     {
       "path": "quantumultx/geolocation-cn.list",
-      "sha256": "c052bd2c14f4f28cd17db9b595d97d255c863d9710df2b3640e07feaa399ba11",
-      "size": 311204
+      "sha256": "cd8e45ed5113ef682c1973d7193d859bdb41a37f58248588409c72e069bb4d02",
+      "size": 311944
     },
     {
       "path": "quantumultx/geolocation-not-cn.list",
-      "sha256": "eff4a7f8b4941bdd4facfe80359b84f5b22728ac132b832b2a27cf9613eca526",
-      "size": 1108272
+      "sha256": "fd083479290418ccc74525f66eccde4e04a93d9112c6f995a67a1624be38fde6",
+      "size": 1108045
     },
     {
       "path": "quantumultx/gettyimages.list",
@@ -42208,8 +42238,8 @@
     },
     {
       "path": "quantumultx/hkbu.list",
-      "sha256": "7a9de7257c35d2c7cfafdde248b757a65e5073258c7d0fe3b7baa4ac47cffe07",
-      "size": 316
+      "sha256": "b099e0212c2a0984baa2fbf2770ccb594a735427372a4703540bf02014c0cbd2",
+      "size": 106
     },
     {
       "path": "quantumultx/hkedcity.list",
@@ -42408,8 +42438,8 @@
     },
     {
       "path": "quantumultx/icloud.list",
-      "sha256": "1b3eac5bf291529b59fb8f1a3c3088bcb11ce12bd45c8ccfa9fa0c9f0cd85e55",
-      "size": 1707
+      "sha256": "10094ee8a59af8de0dc0255e9c1ca3b4076a7abf8700c7b218a26dff7dfd932a",
+      "size": 1678
     },
     {
       "path": "quantumultx/icloudprivaterelay.list",
@@ -45448,8 +45478,8 @@
     },
     {
       "path": "quantumultx/tencent-games.list",
-      "sha256": "2375e1396719322902a0147a100ac6f1284dc52ef97d533e6d18d9962144852d",
-      "size": 3475
+      "sha256": "edccc2248870fa072bcb5bfda8b17fed982bcc4d06c01ac9f8e8229b76c40536",
+      "size": 3438
     },
     {
       "path": "quantumultx/tencent-tme.list",
@@ -46843,13 +46873,13 @@
     },
     {
       "path": "shadowrocket/agilebits.list",
-      "sha256": "1eb26b4774a5fcbf89bf74bc337a7319860980d7a5678a41e1345f7d076cc132",
-      "size": 427
+      "sha256": "8811cc0d843b98844f8a629d9fc7f8e9ef7f5b3362342be4e4ac9a276311ddf3",
+      "size": 455
     },
     {
       "path": "shadowrocket/agora.list",
-      "sha256": "417ef41891e1fa62b1bb40278cf676753a86775d8393f75dbf874750baa76049",
-      "size": 73
+      "sha256": "9e846fdc060b2f0fab2d4398db10d28110b544b45735d66bf83e13a1eb4c56f0",
+      "size": 126
     },
     {
       "path": "shadowrocket/aiqicha.list",
@@ -47083,8 +47113,8 @@
     },
     {
       "path": "shadowrocket/apple.list",
-      "sha256": "35c73470fa11fa0a5e8dd760d35be566d2b4fbdff686e081741cc81d91ea2d0c",
-      "size": 50871
+      "sha256": "f5c09dbda827954cd07745201ed3bf8c8a9b4d8235fc9d021bb9c3feb78a5223",
+      "size": 50847
     },
     {
       "path": "shadowrocket/appledaily.list",
@@ -47663,13 +47693,13 @@
     },
     {
       "path": "shadowrocket/category-ads-all.list",
-      "sha256": "bee52ff6f48509246ec2715941ed47d914f780c9be20c24112d85eaca4823352",
-      "size": 27296
+      "sha256": "ffb8ee3c4e84e62055b9cfcd6c5d3202e72469fb4c484c677ee67fc507f6c048",
+      "size": 27321
     },
     {
       "path": "shadowrocket/category-ads-and-telemetry.list",
-      "sha256": "f0fdba72d0707edb3134bd726e13afae413f22979988bf383acd3baeda1c9233",
-      "size": 26052
+      "sha256": "810bc7f6ae209fbcdca1d9b5b4c8552c9676531b5c3e3b9ca3529e513251ef0e",
+      "size": 26077
     },
     {
       "path": "shadowrocket/category-ads-ir.list",
@@ -47678,8 +47708,8 @@
     },
     {
       "path": "shadowrocket/category-ads.list",
-      "sha256": "ad1bacf4c023d8e5597b24d48344eebdc386d9df336deb19977f3ede7bf80c14",
-      "size": 25805
+      "sha256": "d46baa836362f1fa32bd6a6d65af4d7b4f9846828802e53d625ea30c12cd7d6d",
+      "size": 25830
     },
     {
       "path": "shadowrocket/category-ai-chat-not-cn.list",
@@ -47723,8 +47753,8 @@
     },
     {
       "path": "shadowrocket/category-bank-cn.list",
-      "sha256": "98ac9cdd523da54edf5509a112aa9d7968e003f54a22943163d88e16b6f12a4d",
-      "size": 3700
+      "sha256": "cc549074510385d95b86816a19b56f9a958dca655e91c28b4ed07f228e4f7619",
+      "size": 3805
     },
     {
       "path": "shadowrocket/category-bank-ir.list",
@@ -47793,8 +47823,8 @@
     },
     {
       "path": "shadowrocket/category-companies.list",
-      "sha256": "7bc4e8e92f2226e40e2cbfece8b8fc672666b8c3a8c430c705aac9ea1a033e29",
-      "size": 224437
+      "sha256": "c57ffe53423d2c3f2990d472faa0e604f75e4f8e53fa47bd50bdd96715759339",
+      "size": 224413
     },
     {
       "path": "shadowrocket/category-consent-management.list",
@@ -47863,8 +47893,8 @@
     },
     {
       "path": "shadowrocket/category-electronic-cn.list",
-      "sha256": "db5b45718c54ea6d74b3449980f7803c9089ef3bad41d924a0db819dbd428fa7",
-      "size": 2336
+      "sha256": "6e4b35c14537627113957fc8305e06e5562781f6e72f04a2ff02c6267e17fb17",
+      "size": 2367
     },
     {
       "path": "shadowrocket/category-emby.list",
@@ -47883,8 +47913,8 @@
     },
     {
       "path": "shadowrocket/category-entertainment-cn.list",
-      "sha256": "78b5ce7d749609505c715dc2a222a7daaa6506e2e9a8a701d3c9cd64f1010390",
-      "size": 22646
+      "sha256": "bc29e023e77e67ad3a05723c99e63b150d78d844251e79ae07a31df00ddb1efb",
+      "size": 22621
     },
     {
       "path": "shadowrocket/category-entertainment-ru.list",
@@ -47893,8 +47923,8 @@
     },
     {
       "path": "shadowrocket/category-entertainment.list",
-      "sha256": "a18ec9eda69a84fb7b331a3bab4923efd39c33dc15e4d26b23c16c49fa21f542",
-      "size": 61392
+      "sha256": "e3d007f59bcbdbac244acc7a46a53e8cc3d36ace89c796c1e211c5a3b63adcc9",
+      "size": 61594
     },
     {
       "path": "shadowrocket/category-finance.list",
@@ -47938,18 +47968,18 @@
     },
     {
       "path": "shadowrocket/category-games-cn.list",
-      "sha256": "1e185c649b393f9ef24030b7ad7f3f3a50ec80bfaa1766c0389cec3b7af0db93",
-      "size": 7550
+      "sha256": "ea3a6acb36d3616c247951d1cb22933264bc5a93dcb8975abebb1ec3b1a28388",
+      "size": 7525
     },
     {
       "path": "shadowrocket/category-games-not-cn.list",
-      "sha256": "8f475707bf9d8236258f12b38eea5ef73501e366c096d9e1635d5dbdd947b127",
-      "size": 26131
+      "sha256": "9fa540d9b34769791d386d53f5766133a813856afc17748a254e38861509208c",
+      "size": 26333
     },
     {
       "path": "shadowrocket/category-games.list",
-      "sha256": "9cbd4ce1c5737911df8c02ee1bd9415a0ce0222fa16506585c8e0c9d064731a4",
-      "size": 33627
+      "sha256": "1e1f2b1191bb707ec0751cacf9793b36f40504fe4dff22ed2c05042861c14bdd",
+      "size": 33804
     },
     {
       "path": "shadowrocket/category-gov-ir.list",
@@ -48098,8 +48128,8 @@
     },
     {
       "path": "shadowrocket/category-password-management.list",
-      "sha256": "8eb4a037f15ed9a49aa7de3fd2f40199ccc7b56ece8d55b37f34ed6083c19d93",
-      "size": 882
+      "sha256": "d71d960e461087513649a362f4d57f56026fde575d140ff3849437cf2b3325e4",
+      "size": 910
     },
     {
       "path": "shadowrocket/category-payment-ir.list",
@@ -48143,13 +48173,13 @@
     },
     {
       "path": "shadowrocket/category-scholar-cn.list",
-      "sha256": "57d70045992a71807103295cb401c4c40bcd67e1f7822eed09080b850e708a93",
-      "size": 2475
+      "sha256": "f241225580291743e6028f167206aca8a975cce0ff2c72eacbaa17fefa2509a5",
+      "size": 2528
     },
     {
       "path": "shadowrocket/category-scholar-hk.list",
-      "sha256": "dc18e8a90d807276ce2fa2102d571e41b22b1af5977608fb5013e00df0ac4158",
-      "size": 1139
+      "sha256": "bee4728798ebbd36904cef1f1722423f654fdb8480a4d1e5cd5039d424271967",
+      "size": 757
     },
     {
       "path": "shadowrocket/category-scholar-ir.list",
@@ -48158,8 +48188,8 @@
     },
     {
       "path": "shadowrocket/category-scholar-not-cn.list",
-      "sha256": "93498d5b9f9db2ac2fcac6db79d6c527fd4b13e773c656324802e9ba9948baf6",
-      "size": 13533
+      "sha256": "86296caa0b690d37d21d63a3dad121207ff99a4e7322298cf3995a0490e931e8",
+      "size": 13151
     },
     {
       "path": "shadowrocket/category-scholar-uk.list",
@@ -48258,8 +48288,8 @@
     },
     {
       "path": "shadowrocket/category-wiki-cn.list",
-      "sha256": "f5c18c2e5842587952eb1fe485d3babd71ac9b530fc3e378289639867794aa05",
-      "size": 427
+      "sha256": "59c4ab7d5e1f8d256bc35eef68f4c5326ecbcb01a0f9d6357fa8fd767f13f017",
+      "size": 428
     },
     {
       "path": "shadowrocket/cavporn.list",
@@ -48290,6 +48320,11 @@
       "path": "shadowrocket/cdn77.list",
       "sha256": "62621da9d13fa35e79cfed1288a0b85e760891bb06bb6e0670e0767dae1d1c0e",
       "size": 47
+    },
+    {
+      "path": "shadowrocket/cdprojekt.list",
+      "sha256": "1b330bd3ee6eefcdb499949fdfb9632d033d016262b9819841d5489092d64a2d",
+      "size": 201
     },
     {
       "path": "shadowrocket/ceno.list",
@@ -48323,8 +48358,8 @@
     },
     {
       "path": "shadowrocket/chaoxing.list",
-      "sha256": "0ca620315330e7eacede5bff54f36d169a042c26a27bd347fde1947ec2f049c0",
-      "size": 889
+      "sha256": "632682afa6949f0a6fc9b101fe94f539b500d0c736d9d31f8d2e0f2aeb539939",
+      "size": 942
     },
     {
       "path": "shadowrocket/chatango.list",
@@ -48503,13 +48538,13 @@
     },
     {
       "path": "shadowrocket/cn-ip.list",
-      "sha256": "cca8b1bbdc54aaca7a9990cddc4d92bd5dcfc99fc899b7a13b2d59f9ae90d177",
-      "size": 353098
+      "sha256": "7f7a222373a2e8d893ef600e923448bfe90db799169d2cc21cc37e518b141346",
+      "size": 353059
     },
     {
       "path": "shadowrocket/cn.list",
-      "sha256": "d9d759a2d9f7e8167ebb370166d714ba3c786ac9696d407af653a1cfa945b59e",
-      "size": 165258
+      "sha256": "99d17073816ddd7d3005a62abd94841440de25ffbcee4b8cb36c198ceadf7552",
+      "size": 165555
     },
     {
       "path": "shadowrocket/cnb.list",
@@ -48698,8 +48733,8 @@
     },
     {
       "path": "shadowrocket/cuhk.list",
-      "sha256": "1222afb9d116709bb8fea6e2224a80794ef9b84205528d9981855b6df7689681",
-      "size": 286
+      "sha256": "6108af9cf23080d0098006d907bacec1f4d89cca8b2c8c2293b0ef5d7ba0222c",
+      "size": 280
     },
     {
       "path": "shadowrocket/cuinc.list",
@@ -49108,8 +49143,8 @@
     },
     {
       "path": "shadowrocket/eduhk.list",
-      "sha256": "c9b36551512ec2ab48d75987fe8a9dc478529583522d943f948853fb78e5f33d",
-      "size": 280
+      "sha256": "199377a283022efc1fb6ce8003aa5786494b7db90357177640d59253c00129e5",
+      "size": 99
     },
     {
       "path": "shadowrocket/edx.list",
@@ -49598,13 +49633,13 @@
     },
     {
       "path": "shadowrocket/geolocation-cn.list",
-      "sha256": "076fb5c129cec850450ea6f6cbef9c4f5047afa1b40dcd9d044c6e7fa8be0449",
-      "size": 209388
+      "sha256": "41fcc8e49e1679ceb4e3468033cef1c1c99a5b46b45e9506b2b009bc27a01adb",
+      "size": 209881
     },
     {
       "path": "shadowrocket/geolocation-not-cn.list",
-      "sha256": "64b2e8cb5565320466c34ae23acd009fed5ed7866fc7b7b35a24feb9a926fb92",
-      "size": 695444
+      "sha256": "a258bb28fcc752244a0db57240a7d21110db329506257691d5ca161628d9abff",
+      "size": 695268
     },
     {
       "path": "shadowrocket/gettyimages.list",
@@ -49968,8 +50003,8 @@
     },
     {
       "path": "shadowrocket/hkbu.list",
-      "sha256": "4b7e6275380ff9846ceec96481d14473e35c85ac2405b77880cd5e1bd1f25062",
-      "size": 292
+      "sha256": "a24d559df5a6e4a42fcb1228ddd90f88c6c3e49708f96a7f79ee36390ccfbc40",
+      "size": 97
     },
     {
       "path": "shadowrocket/hkedcity.list",
@@ -50168,8 +50203,8 @@
     },
     {
       "path": "shadowrocket/icloud.list",
-      "sha256": "045d42ba03253cc1b6e8205aaee18214465c1ecb12000d04693f142359a27af9",
-      "size": 1442
+      "sha256": "fe1a774abc69ef92a9c2888cc30f78392e72c8a36eab6d5fa224af965f3e8877",
+      "size": 1418
     },
     {
       "path": "shadowrocket/icloudprivaterelay.list",
@@ -53208,8 +53243,8 @@
     },
     {
       "path": "shadowrocket/tencent-games.list",
-      "sha256": "436d63e1f928f6c2472e1dcb7d1e6e81cd0cff14562a962a87c5eb4806b3e78e",
-      "size": 2443
+      "sha256": "e7c9a4cc9dd38866b1d01da5e83d86bf3f902696ff0ba37f6f1dde29a4b461ed",
+      "size": 2418
     },
     {
       "path": "shadowrocket/tencent-tme.list",
@@ -54603,13 +54638,13 @@
     },
     {
       "path": "singbox/agilebits.srs",
-      "sha256": "9eeeace09f3a0bc1105f9fd918d1669fd41209d0bbce9e0053222a1b799dc50b",
-      "size": 256
+      "sha256": "ad12df5e57b8ffdce2592dd7811f32d25fa65ceedd564bfcc1ef098128316be8",
+      "size": 265
     },
     {
       "path": "singbox/agora.srs",
-      "sha256": "b1c3a1a7e089a3468903b59fe7003984fb44d85703c479ee9465db518e72c7c8",
-      "size": 67
+      "sha256": "bbc479202b74d9db3891512335906924651bff67ad2296abfdef7231bf319982",
+      "size": 94
     },
     {
       "path": "singbox/aiqicha.srs",
@@ -54843,8 +54878,8 @@
     },
     {
       "path": "singbox/apple.srs",
-      "sha256": "b39677d72ca06ea2d94e7134177c0f4a285c921eb1955df99e83e8796443e244",
-      "size": 14488
+      "sha256": "4d83b0a1874d13bdae634cf098412140327aedc4bfa16aa350b5d3218b6da2cf",
+      "size": 14447
     },
     {
       "path": "singbox/appledaily.srs",
@@ -55423,13 +55458,13 @@
     },
     {
       "path": "singbox/category-ads-all.srs",
-      "sha256": "b0ee79f47ec59a159eb3c6635401ce66029d6efaad17029aedd389f570cf5b15",
-      "size": 7494
+      "sha256": "330042cd26285f98d0f0cc4f8c4733751585f4b0101729508838ce51710d07d9",
+      "size": 7487
     },
     {
       "path": "singbox/category-ads-and-telemetry.srs",
-      "sha256": "eca371401873f426cfb4c849aead412c0519167b30d1b89ec857b7ceaffa1327",
-      "size": 7239
+      "sha256": "10a29811d0f93d5fe81795a99033ba0687a419582e2fa733df40e5fe0dc77232",
+      "size": 7242
     },
     {
       "path": "singbox/category-ads-ir.srs",
@@ -55438,8 +55473,8 @@
     },
     {
       "path": "singbox/category-ads.srs",
-      "sha256": "b1a9dd025498de2d1b0ccb40f34bc4ecac022a8994e824df5ca50827f3c22dde",
-      "size": 7155
+      "sha256": "4af5857d43a58310870b465465c8e591f5f9ee7e274e1fb959fd5ae688f80d03",
+      "size": 7143
     },
     {
       "path": "singbox/category-ai-chat-not-cn.srs",
@@ -55483,8 +55518,8 @@
     },
     {
       "path": "singbox/category-bank-cn.srs",
-      "sha256": "9743456e01862b20dbc1d292bcdb323d1b07a7d2f8fac566f79075eeb8c8c0f9",
-      "size": 1007
+      "sha256": "faa7c6705ba1a0371f6756828c36dde6057b798502b1cba98e09fc7d9809f79f",
+      "size": 1020
     },
     {
       "path": "singbox/category-bank-ir.srs",
@@ -55553,8 +55588,8 @@
     },
     {
       "path": "singbox/category-companies.srs",
-      "sha256": "f6107cef800d915ca5f68dadc5dfbedede7e75f00bd86c01391eaeccc963cead",
-      "size": 52603
+      "sha256": "d3c32d087fdf619109828ccf8c6ffa6a6ffb83d437809c7e13debcb09d95be60",
+      "size": 52641
     },
     {
       "path": "singbox/category-consent-management.srs",
@@ -55623,8 +55658,8 @@
     },
     {
       "path": "singbox/category-electronic-cn.srs",
-      "sha256": "4539091902a8bb8c6c943da66d1bff3376aad85e3485b06f9991edc1f7993908",
-      "size": 649
+      "sha256": "e1d3c7374da713fd07055ceb40b53f8e05a6abe1fe576f1b671122e86da79c12",
+      "size": 657
     },
     {
       "path": "singbox/category-emby.srs",
@@ -55643,8 +55678,8 @@
     },
     {
       "path": "singbox/category-entertainment-cn.srs",
-      "sha256": "51d413ba7cd23d6e4a1254e01961d7f43e74abf3f0d55a8ea771f11b6aa0d3bb",
-      "size": 5392
+      "sha256": "89172383239e309ec052830de703e36d39461edc1634621e25f26f61990fa866",
+      "size": 5387
     },
     {
       "path": "singbox/category-entertainment-ru.srs",
@@ -55653,8 +55688,8 @@
     },
     {
       "path": "singbox/category-entertainment.srs",
-      "sha256": "d9ea129822f2111db4d3d8ff1073b74a30e1c3802cfdfd430bd64221e79cb1f6",
-      "size": 17245
+      "sha256": "8561dfb6216edae1f4f3c45ba8a6cf60d5a8847d5388cc3a490200e61b463271",
+      "size": 17320
     },
     {
       "path": "singbox/category-finance.srs",
@@ -55698,18 +55733,18 @@
     },
     {
       "path": "singbox/category-games-cn.srs",
-      "sha256": "e56ffa9ccda9beb7c62e923ce5bc67b9a25c2e3a2b25cfb6efe88bba6df25c59",
-      "size": 2077
+      "sha256": "db36349828ac29d215b9386f0aee282656dbd1e85a1cb398d49f542413d9f66a",
+      "size": 2071
     },
     {
       "path": "singbox/category-games-not-cn.srs",
-      "sha256": "b36a27cb78bb568b5dd877e85cc9bc809f84c75feb7b82cdd4cc6e8f80ee7808",
-      "size": 7760
+      "sha256": "0918f64fb6ba784c7dfc63388b3f8fda3d84b83c65f79dc94dc1805b4586d94f",
+      "size": 7824
     },
     {
       "path": "singbox/category-games.srs",
-      "sha256": "2d61b6edc5c0e222db235af9118809f1ee06af874cc8cfb826b9cbdb707c062f",
-      "size": 9595
+      "sha256": "e32d1065b9e69d43ce96f05679e53aeb185fa745e368c42fcc4dd50f2a66beff",
+      "size": 9630
     },
     {
       "path": "singbox/category-gov-ir.srs",
@@ -55858,8 +55893,8 @@
     },
     {
       "path": "singbox/category-password-management.srs",
-      "sha256": "bb1c5dbcd6021d254fad1ef06ece314fda12945bcb643c911d8be5b7828be79f",
-      "size": 391
+      "sha256": "1364f0f783ddd0e1b5f40999b2d3bb3334dcafe50e7c468d6440e2556a159cfb",
+      "size": 402
     },
     {
       "path": "singbox/category-payment-ir.srs",
@@ -55903,13 +55938,13 @@
     },
     {
       "path": "singbox/category-scholar-cn.srs",
-      "sha256": "badeeb15548aef7f8533cecc6fd7e70bae77fe03e87bd72069e4d3267f64ca6f",
-      "size": 753
+      "sha256": "0d24ccaa3924d7940b53ee2f2f16879665331338524ca6b6c7cb3e5f81519821",
+      "size": 763
     },
     {
       "path": "singbox/category-scholar-hk.srs",
-      "sha256": "6b95def933c2d06799c03afc522dc7df85ac0fd4448042b65e8d932708f3c1f4",
-      "size": 445
+      "sha256": "c807006866b6ef6695be4186062ce777f8d7f75a2d42eae88e5df90acb0c78d9",
+      "size": 357
     },
     {
       "path": "singbox/category-scholar-ir.srs",
@@ -55918,8 +55953,8 @@
     },
     {
       "path": "singbox/category-scholar-not-cn.srs",
-      "sha256": "630e9c1d0f1c32b0ccd4f8c30ab67ff323386fdcb2e22107efe0e56c739e1eb4",
-      "size": 4254
+      "sha256": "e11a25c964f5fe5a590cbb1df87427ec07b2cc420245bed3a0683761c463e428",
+      "size": 4157
     },
     {
       "path": "singbox/category-scholar-uk.srs",
@@ -56018,8 +56053,8 @@
     },
     {
       "path": "singbox/category-wiki-cn.srs",
-      "sha256": "e3504044868a23db202fbea62b235878f5633476355beddfb49bbceaaf270fc6",
-      "size": 213
+      "sha256": "624aaaf6fa4206c8d83772fc0574049bb9f27f66c59437f1b3dc7cc7d6dcc297",
+      "size": 230
     },
     {
       "path": "singbox/cavporn.srs",
@@ -56050,6 +56085,11 @@
       "path": "singbox/cdn77.srs",
       "sha256": "6118c1981804814a21f770991a84d143626a3cefc566953e50caf0b92f36b679",
       "size": 57
+    },
+    {
+      "path": "singbox/cdprojekt.srs",
+      "sha256": "50b86393baeaefdb295b37a71fadc7de97eced80cbf07bd892c5454c29d18bd4",
+      "size": 131
     },
     {
       "path": "singbox/ceno.srs",
@@ -56083,8 +56123,8 @@
     },
     {
       "path": "singbox/chaoxing.srs",
-      "sha256": "fc7bb40eeb7d8d6daad7007a3ca4be02ea70c64b8d0ba24b03e87c9fe97ce9bc",
-      "size": 335
+      "sha256": "bf8e6153842bb9bda60296d31785cf733661f265d0abca503a80d7b40b863788",
+      "size": 350
     },
     {
       "path": "singbox/chatango.srs",
@@ -56263,13 +56303,13 @@
     },
     {
       "path": "singbox/cn-ip.srs",
-      "sha256": "2b3c40f7b491e954dcfbdc838ccbaef01b1e98573f7dd4d7e99fa5f01f4a8c3c",
-      "size": 37235
+      "sha256": "fa0addd0e706ffbbc0e97075726889ad39b37854543ad5506d54470d461bfcc2",
+      "size": 37244
     },
     {
       "path": "singbox/cn.srs",
-      "sha256": "8f9949492ee0a566bc1afe1dca1b48d2068a4183175c0b1d1e97118a312d35e8",
-      "size": 32310
+      "sha256": "c4fbd139efff5181c34d172fcccfed4c24437b9988edb7401283003845fb38e4",
+      "size": 32331
     },
     {
       "path": "singbox/cnb.srs",
@@ -56458,8 +56498,8 @@
     },
     {
       "path": "singbox/cuhk.srs",
-      "sha256": "1ba6c560e230ce104955667546299e2bde32ba62b5791fcffae402917965b437",
-      "size": 201
+      "sha256": "b6426881a2bb92a20443164669a38dbada0d03bf831a5956ac0e88df483c2ed7",
+      "size": 190
     },
     {
       "path": "singbox/cuinc.srs",
@@ -56868,8 +56908,8 @@
     },
     {
       "path": "singbox/eduhk.srs",
-      "sha256": "3ff79934835ff336bec084ec6645c2504d18ff7cfc7b51b0ee9fa69fc7653c28",
-      "size": 186
+      "sha256": "c0d6755f9a84b4cf7ac612fa0ec609aced0f9e6d72eb621f35e944ba44f0a732",
+      "size": 99
     },
     {
       "path": "singbox/edx.srs",
@@ -57358,13 +57398,13 @@
     },
     {
       "path": "singbox/geolocation-cn.srs",
-      "sha256": "207d7e607dfeec1bfbfb05c6c13a53d64467f0de96edd95f315f9a8acfd8a2f5",
-      "size": 40255
+      "sha256": "06c5e23b17bb847e5cd8070b5a9992ecb4cf8ef1b691eb1268f359eb9140c725",
+      "size": 40387
     },
     {
       "path": "singbox/geolocation-not-cn.srs",
-      "sha256": "5864f3002cdc1f464ae4e2c85d03de25404e8ec73cbcf18236e373279292562a",
-      "size": 151248
+      "sha256": "3f8e66084d731928e0acbef5defb0cb55df2ef330d65b3bbb96b96644c91346a",
+      "size": 151218
     },
     {
       "path": "singbox/gettyimages.srs",
@@ -57728,8 +57768,8 @@
     },
     {
       "path": "singbox/hkbu.srs",
-      "sha256": "040bb49b3e7716e6f4cdd83b3b5a3854c42174e4f070c943554f3352e26a1c89",
-      "size": 202
+      "sha256": "ac3c15506f7de048ae7759de7a2357473171ab99fe5a0a485ddfc8c5ced46fd1",
+      "size": 99
     },
     {
       "path": "singbox/hkedcity.srs",
@@ -57928,8 +57968,8 @@
     },
     {
       "path": "singbox/icloud.srs",
-      "sha256": "f6d71120bc0abc238da729b66dd25311dc12eeecdf3726c7bd970030119ae6d6",
-      "size": 500
+      "sha256": "5369a41a7078519869e73dc96007a18e4e826d5f4c9fc3761e15c496e18160e1",
+      "size": 498
     },
     {
       "path": "singbox/icloudprivaterelay.srs",
@@ -60968,8 +61008,8 @@
     },
     {
       "path": "singbox/tencent-games.srs",
-      "sha256": "2bdafc95de99bd6c88f619d05810ddd3a09b70526241106bab0bf58145f42e3c",
-      "size": 810
+      "sha256": "a0b2796bdfb96fed5f50ad8ac3f57074393097d9ede0a5c5944812b067d0f334",
+      "size": 807
     },
     {
       "path": "singbox/tencent-tme.srs",
@@ -62363,13 +62403,13 @@
     },
     {
       "path": "surge/agilebits.list",
-      "sha256": "1eb26b4774a5fcbf89bf74bc337a7319860980d7a5678a41e1345f7d076cc132",
-      "size": 427
+      "sha256": "8811cc0d843b98844f8a629d9fc7f8e9ef7f5b3362342be4e4ac9a276311ddf3",
+      "size": 455
     },
     {
       "path": "surge/agora.list",
-      "sha256": "417ef41891e1fa62b1bb40278cf676753a86775d8393f75dbf874750baa76049",
-      "size": 73
+      "sha256": "9e846fdc060b2f0fab2d4398db10d28110b544b45735d66bf83e13a1eb4c56f0",
+      "size": 126
     },
     {
       "path": "surge/aiqicha.list",
@@ -62603,8 +62643,8 @@
     },
     {
       "path": "surge/apple.list",
-      "sha256": "35c73470fa11fa0a5e8dd760d35be566d2b4fbdff686e081741cc81d91ea2d0c",
-      "size": 50871
+      "sha256": "f5c09dbda827954cd07745201ed3bf8c8a9b4d8235fc9d021bb9c3feb78a5223",
+      "size": 50847
     },
     {
       "path": "surge/appledaily.list",
@@ -63183,13 +63223,13 @@
     },
     {
       "path": "surge/category-ads-all.list",
-      "sha256": "bee52ff6f48509246ec2715941ed47d914f780c9be20c24112d85eaca4823352",
-      "size": 27296
+      "sha256": "ffb8ee3c4e84e62055b9cfcd6c5d3202e72469fb4c484c677ee67fc507f6c048",
+      "size": 27321
     },
     {
       "path": "surge/category-ads-and-telemetry.list",
-      "sha256": "f0fdba72d0707edb3134bd726e13afae413f22979988bf383acd3baeda1c9233",
-      "size": 26052
+      "sha256": "810bc7f6ae209fbcdca1d9b5b4c8552c9676531b5c3e3b9ca3529e513251ef0e",
+      "size": 26077
     },
     {
       "path": "surge/category-ads-ir.list",
@@ -63198,8 +63238,8 @@
     },
     {
       "path": "surge/category-ads.list",
-      "sha256": "ad1bacf4c023d8e5597b24d48344eebdc386d9df336deb19977f3ede7bf80c14",
-      "size": 25805
+      "sha256": "d46baa836362f1fa32bd6a6d65af4d7b4f9846828802e53d625ea30c12cd7d6d",
+      "size": 25830
     },
     {
       "path": "surge/category-ai-chat-not-cn.list",
@@ -63243,8 +63283,8 @@
     },
     {
       "path": "surge/category-bank-cn.list",
-      "sha256": "98ac9cdd523da54edf5509a112aa9d7968e003f54a22943163d88e16b6f12a4d",
-      "size": 3700
+      "sha256": "cc549074510385d95b86816a19b56f9a958dca655e91c28b4ed07f228e4f7619",
+      "size": 3805
     },
     {
       "path": "surge/category-bank-ir.list",
@@ -63313,8 +63353,8 @@
     },
     {
       "path": "surge/category-companies.list",
-      "sha256": "7bc4e8e92f2226e40e2cbfece8b8fc672666b8c3a8c430c705aac9ea1a033e29",
-      "size": 224437
+      "sha256": "c57ffe53423d2c3f2990d472faa0e604f75e4f8e53fa47bd50bdd96715759339",
+      "size": 224413
     },
     {
       "path": "surge/category-consent-management.list",
@@ -63383,8 +63423,8 @@
     },
     {
       "path": "surge/category-electronic-cn.list",
-      "sha256": "db5b45718c54ea6d74b3449980f7803c9089ef3bad41d924a0db819dbd428fa7",
-      "size": 2336
+      "sha256": "6e4b35c14537627113957fc8305e06e5562781f6e72f04a2ff02c6267e17fb17",
+      "size": 2367
     },
     {
       "path": "surge/category-emby.list",
@@ -63403,8 +63443,8 @@
     },
     {
       "path": "surge/category-entertainment-cn.list",
-      "sha256": "78b5ce7d749609505c715dc2a222a7daaa6506e2e9a8a701d3c9cd64f1010390",
-      "size": 22646
+      "sha256": "bc29e023e77e67ad3a05723c99e63b150d78d844251e79ae07a31df00ddb1efb",
+      "size": 22621
     },
     {
       "path": "surge/category-entertainment-ru.list",
@@ -63413,8 +63453,8 @@
     },
     {
       "path": "surge/category-entertainment.list",
-      "sha256": "a18ec9eda69a84fb7b331a3bab4923efd39c33dc15e4d26b23c16c49fa21f542",
-      "size": 61392
+      "sha256": "e3d007f59bcbdbac244acc7a46a53e8cc3d36ace89c796c1e211c5a3b63adcc9",
+      "size": 61594
     },
     {
       "path": "surge/category-finance.list",
@@ -63458,18 +63498,18 @@
     },
     {
       "path": "surge/category-games-cn.list",
-      "sha256": "1e185c649b393f9ef24030b7ad7f3f3a50ec80bfaa1766c0389cec3b7af0db93",
-      "size": 7550
+      "sha256": "ea3a6acb36d3616c247951d1cb22933264bc5a93dcb8975abebb1ec3b1a28388",
+      "size": 7525
     },
     {
       "path": "surge/category-games-not-cn.list",
-      "sha256": "8f475707bf9d8236258f12b38eea5ef73501e366c096d9e1635d5dbdd947b127",
-      "size": 26131
+      "sha256": "9fa540d9b34769791d386d53f5766133a813856afc17748a254e38861509208c",
+      "size": 26333
     },
     {
       "path": "surge/category-games.list",
-      "sha256": "9cbd4ce1c5737911df8c02ee1bd9415a0ce0222fa16506585c8e0c9d064731a4",
-      "size": 33627
+      "sha256": "1e1f2b1191bb707ec0751cacf9793b36f40504fe4dff22ed2c05042861c14bdd",
+      "size": 33804
     },
     {
       "path": "surge/category-gov-ir.list",
@@ -63618,8 +63658,8 @@
     },
     {
       "path": "surge/category-password-management.list",
-      "sha256": "8eb4a037f15ed9a49aa7de3fd2f40199ccc7b56ece8d55b37f34ed6083c19d93",
-      "size": 882
+      "sha256": "d71d960e461087513649a362f4d57f56026fde575d140ff3849437cf2b3325e4",
+      "size": 910
     },
     {
       "path": "surge/category-payment-ir.list",
@@ -63663,13 +63703,13 @@
     },
     {
       "path": "surge/category-scholar-cn.list",
-      "sha256": "57d70045992a71807103295cb401c4c40bcd67e1f7822eed09080b850e708a93",
-      "size": 2475
+      "sha256": "f241225580291743e6028f167206aca8a975cce0ff2c72eacbaa17fefa2509a5",
+      "size": 2528
     },
     {
       "path": "surge/category-scholar-hk.list",
-      "sha256": "dc18e8a90d807276ce2fa2102d571e41b22b1af5977608fb5013e00df0ac4158",
-      "size": 1139
+      "sha256": "bee4728798ebbd36904cef1f1722423f654fdb8480a4d1e5cd5039d424271967",
+      "size": 757
     },
     {
       "path": "surge/category-scholar-ir.list",
@@ -63678,8 +63718,8 @@
     },
     {
       "path": "surge/category-scholar-not-cn.list",
-      "sha256": "93498d5b9f9db2ac2fcac6db79d6c527fd4b13e773c656324802e9ba9948baf6",
-      "size": 13533
+      "sha256": "86296caa0b690d37d21d63a3dad121207ff99a4e7322298cf3995a0490e931e8",
+      "size": 13151
     },
     {
       "path": "surge/category-scholar-uk.list",
@@ -63778,8 +63818,8 @@
     },
     {
       "path": "surge/category-wiki-cn.list",
-      "sha256": "f5c18c2e5842587952eb1fe485d3babd71ac9b530fc3e378289639867794aa05",
-      "size": 427
+      "sha256": "59c4ab7d5e1f8d256bc35eef68f4c5326ecbcb01a0f9d6357fa8fd767f13f017",
+      "size": 428
     },
     {
       "path": "surge/cavporn.list",
@@ -63810,6 +63850,11 @@
       "path": "surge/cdn77.list",
       "sha256": "62621da9d13fa35e79cfed1288a0b85e760891bb06bb6e0670e0767dae1d1c0e",
       "size": 47
+    },
+    {
+      "path": "surge/cdprojekt.list",
+      "sha256": "1b330bd3ee6eefcdb499949fdfb9632d033d016262b9819841d5489092d64a2d",
+      "size": 201
     },
     {
       "path": "surge/ceno.list",
@@ -63843,8 +63888,8 @@
     },
     {
       "path": "surge/chaoxing.list",
-      "sha256": "0ca620315330e7eacede5bff54f36d169a042c26a27bd347fde1947ec2f049c0",
-      "size": 889
+      "sha256": "632682afa6949f0a6fc9b101fe94f539b500d0c736d9d31f8d2e0f2aeb539939",
+      "size": 942
     },
     {
       "path": "surge/chatango.list",
@@ -64023,13 +64068,13 @@
     },
     {
       "path": "surge/cn-ip.list",
-      "sha256": "cca8b1bbdc54aaca7a9990cddc4d92bd5dcfc99fc899b7a13b2d59f9ae90d177",
-      "size": 353098
+      "sha256": "7f7a222373a2e8d893ef600e923448bfe90db799169d2cc21cc37e518b141346",
+      "size": 353059
     },
     {
       "path": "surge/cn.list",
-      "sha256": "d9d759a2d9f7e8167ebb370166d714ba3c786ac9696d407af653a1cfa945b59e",
-      "size": 165258
+      "sha256": "99d17073816ddd7d3005a62abd94841440de25ffbcee4b8cb36c198ceadf7552",
+      "size": 165555
     },
     {
       "path": "surge/cnb.list",
@@ -64218,8 +64263,8 @@
     },
     {
       "path": "surge/cuhk.list",
-      "sha256": "1222afb9d116709bb8fea6e2224a80794ef9b84205528d9981855b6df7689681",
-      "size": 286
+      "sha256": "6108af9cf23080d0098006d907bacec1f4d89cca8b2c8c2293b0ef5d7ba0222c",
+      "size": 280
     },
     {
       "path": "surge/cuinc.list",
@@ -64628,8 +64673,8 @@
     },
     {
       "path": "surge/eduhk.list",
-      "sha256": "c9b36551512ec2ab48d75987fe8a9dc478529583522d943f948853fb78e5f33d",
-      "size": 280
+      "sha256": "199377a283022efc1fb6ce8003aa5786494b7db90357177640d59253c00129e5",
+      "size": 99
     },
     {
       "path": "surge/edx.list",
@@ -65118,13 +65163,13 @@
     },
     {
       "path": "surge/geolocation-cn.list",
-      "sha256": "076fb5c129cec850450ea6f6cbef9c4f5047afa1b40dcd9d044c6e7fa8be0449",
-      "size": 209388
+      "sha256": "41fcc8e49e1679ceb4e3468033cef1c1c99a5b46b45e9506b2b009bc27a01adb",
+      "size": 209881
     },
     {
       "path": "surge/geolocation-not-cn.list",
-      "sha256": "64b2e8cb5565320466c34ae23acd009fed5ed7866fc7b7b35a24feb9a926fb92",
-      "size": 695444
+      "sha256": "a258bb28fcc752244a0db57240a7d21110db329506257691d5ca161628d9abff",
+      "size": 695268
     },
     {
       "path": "surge/gettyimages.list",
@@ -65488,8 +65533,8 @@
     },
     {
       "path": "surge/hkbu.list",
-      "sha256": "4b7e6275380ff9846ceec96481d14473e35c85ac2405b77880cd5e1bd1f25062",
-      "size": 292
+      "sha256": "a24d559df5a6e4a42fcb1228ddd90f88c6c3e49708f96a7f79ee36390ccfbc40",
+      "size": 97
     },
     {
       "path": "surge/hkedcity.list",
@@ -65688,8 +65733,8 @@
     },
     {
       "path": "surge/icloud.list",
-      "sha256": "045d42ba03253cc1b6e8205aaee18214465c1ecb12000d04693f142359a27af9",
-      "size": 1442
+      "sha256": "fe1a774abc69ef92a9c2888cc30f78392e72c8a36eab6d5fa224af965f3e8877",
+      "size": 1418
     },
     {
       "path": "surge/icloudprivaterelay.list",
@@ -68728,8 +68773,8 @@
     },
     {
       "path": "surge/tencent-games.list",
-      "sha256": "436d63e1f928f6c2472e1dcb7d1e6e81cd0cff14562a962a87c5eb4806b3e78e",
-      "size": 2443
+      "sha256": "e7c9a4cc9dd38866b1d01da5e83d86bf3f902696ff0ba37f6f1dde29a4b461ed",
+      "size": 2418
     },
     {
       "path": "surge/tencent-tme.list",

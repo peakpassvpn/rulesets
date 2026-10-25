@@ -3,17 +3,17 @@
   "sources": {
     "v2fly": {
       "repository": "v2fly/domain-list-community",
-      "commit": "597956ad5d1c063d80329d58a6aaadf6dcec43a7",
+      "commit": "44e37212c1154407744543bd1ea5e5750fd44902",
       "license": "MIT",
       "url": "https://github.com/v2fly/domain-list-community"
     },
     "china_ip": {
       "repository": "gaoyifan/china-operator-ip",
-      "commit": "d8512a760a32b3adadddd619831dcd4cc1e48df7",
+      "commit": "14ac65e3c3bedf75f5c87d383f6d05c87c0fd911",
       "license": "MIT",
       "url": "https://github.com/gaoyifan/china-operator-ip"
     },
-    "ruleset_count": 1552
+    "ruleset_count": 1553
   },
   "rulesets": [
     {
@@ -11066,6 +11066,39 @@
         },
         "quantumultx": {
           "path": "quantumultx/cdn77.list",
+          "format": "text",
+          "requires_force_policy": true
+        }
+      }
+    },
+    {
+      "id": "cdprojekt",
+      "upstream_key": "cdprojekt",
+      "behavior": "domain",
+      "group": "service",
+      "clients": {
+        "clash": {
+          "path": "mihomo/cdprojekt.yaml",
+          "format": "yaml"
+        },
+        "singbox": {
+          "path": "singbox/cdprojekt.srs",
+          "format": "srs"
+        },
+        "surge": {
+          "path": "surge/cdprojekt.list",
+          "format": "text"
+        },
+        "loon": {
+          "path": "loon/cdprojekt.list",
+          "format": "text"
+        },
+        "shadowrocket": {
+          "path": "shadowrocket/cdprojekt.list",
+          "format": "text"
+        },
+        "quantumultx": {
+          "path": "quantumultx/cdprojekt.list",
           "format": "text",
           "requires_force_policy": true
         }

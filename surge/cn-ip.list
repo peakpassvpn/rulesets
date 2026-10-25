@@ -2213,7 +2213,7 @@ IP-CIDR,103.98.224.0/21,no-resolve
 IP-CIDR,103.98.232.0/22,no-resolve
 IP-CIDR,103.98.240.0/20,no-resolve
 IP-CIDR,103.99.53.0/24,no-resolve
-IP-CIDR,103.99.54.0/23,no-resolve
+IP-CIDR,103.99.55.0/24,no-resolve
 IP-CIDR,103.99.56.0/22,no-resolve
 IP-CIDR,103.99.62.0/24,no-resolve
 IP-CIDR,103.99.104.0/22,no-resolve
@@ -9178,7 +9178,6 @@ IP-CIDR6,2406:840:fee0::/45,no-resolve
 IP-CIDR6,2406:840:fee8::/46,no-resolve
 IP-CIDR6,2406:840:feec::/48,no-resolve
 IP-CIDR6,2406:840:feee::/47,no-resolve
-IP-CIDR6,2406:840:feff::/48,no-resolve
 IP-CIDR6,2406:840:ff00::/40,no-resolve
 IP-CIDR6,2406:880::/32,no-resolve
 IP-CIDR6,2406:8c0::/32,no-resolve

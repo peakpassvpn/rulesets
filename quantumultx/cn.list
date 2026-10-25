@@ -833,6 +833,7 @@ host-suffix,biaoda.me,cn
 host-suffix,bibaodao.com,cn
 host-suffix,bidchance.com,cn
 host-suffix,biddingx.com,cn
+host-suffix,bigdatacq.com,cn
 host-suffix,bihu.com,cn
 host-suffix,biji.com,cn
 host-suffix,biliapi.com,cn
@@ -1176,6 +1177,8 @@ host-suffix,cdnmg.com,cn
 host-suffix,cdntip.com,cn
 host-suffix,cdntips.com,cn
 host-suffix,cdntips.net,cn
+host-suffix,cdrcb.com,cn
+host-suffix,cdrcbank.com,cn
 host-suffix,cdut.top,cn
 host-suffix,ceair.com,cn
 host-suffix,cebbank.com,cn
@@ -1344,6 +1347,7 @@ host-suffix,ckxx.net,cn
 host-suffix,clangcn.com,cn
 host-suffix,clawhub-mirror.com,cn
 host-suffix,clawhubmirror.com,cn
+host-suffix,cldisk.com,cn
 host-suffix,cleargrass.com,cn
 host-suffix,clewm.net,cn
 host-suffix,cli.im,cn
@@ -1545,10 +1549,12 @@ host-suffix,cppblog.com,cn
 host-suffix,cpppf.org,cn
 host-suffix,cqcb.com,cn
 host-suffix,cqccn.com,cn
+host-suffix,cqdcg.com,cn
 host-suffix,cqliving.com,cn
 host-suffix,cqnews.net,cn
 host-suffix,cqsjb.com,cn
 host-suffix,cqvip.com,cn
+host-suffix,cqyyxc.com,cn
 host-suffix,cr-cts.com,cn
 host-suffix,cr173.com,cn
 host-suffix,cravatar.com,cn
@@ -1733,6 +1739,7 @@ host-suffix,didapinche.com,cn
 host-suffix,didialift.com,cn
 host-suffix,didichuxing.com,cn
 host-suffix,didistatic.com,cn
+host-suffix,digitalcnzz.com,cn
 host-suffix,digitaling.com,cn
 host-suffix,dili360.com,cn
 host-suffix,dingdachuxing.com,cn
@@ -1915,6 +1922,7 @@ host-suffix,dzsc.com,cn
 host-suffix,dzw3.com,cn
 host-suffix,dzwww.com,cn
 host-suffix,eagsen.com,cn
+host-suffix,easemob.com,cn
 host-suffix,easesale.com,cn
 host-suffix,easiu.com,cn
 host-suffix,eastday.com,cn
@@ -2694,6 +2702,7 @@ host-suffix,i3839.com,cn
 host-suffix,i8tq.com,cn
 host-suffix,ialicdn.com,cn
 host-suffix,iask.com,cn
+host-suffix,ibangbank.com,cn
 host-suffix,ibaotu.com,cn
 host-suffix,ibcet.org,cn
 host-suffix,ibdxiguaimg.com,cn
@@ -2845,6 +2854,7 @@ host-suffix,isealsuite.com,cn
 host-suffix,ishijue.com,cn
 host-suffix,ishumei.com,cn
 host-suffix,ishuqi.com,cn
+host-suffix,isigning.com,cn
 host-suffix,ispqcloud.com,cn
 host-suffix,istoreos.com,cn
 host-suffix,isvjcloud.com,cn
@@ -3753,7 +3763,6 @@ host-suffix,modaiyun.com,cn
 host-suffix,modelarts-infer.com,cn
 host-suffix,modelarts-maas.com,cn
 host-suffix,moedu.com,cn
-host-suffix,moegirl.org,cn
 host-suffix,mofang.com,cn
 host-suffix,mofazhu.com,cn
 host-suffix,mogoo.com,cn
@@ -3858,6 +3867,7 @@ host-suffix,nagcloudcs.com,cn
 host-suffix,naixuecha.com,cn
 host-suffix,namiso.com,cn
 host-suffix,nanhaicorp.com,cn
+host-suffix,nanocorechip.com,cn
 host-suffix,nanyuenews.com,cn
 host-suffix,narwal.com,cn
 host-suffix,narwaltech.com,cn
@@ -5730,6 +5740,7 @@ host-suffix,xuetangx.com,cn
 host-suffix,xuexi365.com,cn
 host-suffix,xuexi365.net,cn
 host-suffix,xuexicha.com,cn
+host-suffix,xuexitong.com,cn
 host-suffix,xundupdf.com,cn
 host-suffix,xunfeixxj.com,cn
 host-suffix,xunjiepdf.com,cn
