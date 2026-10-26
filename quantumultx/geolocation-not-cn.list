@@ -821,6 +821,7 @@ host-suffix,addthis.com,geolocation-not-cn
 host-suffix,addthiscdn.com,geolocation-not-cn
 host-suffix,addthisedge.com,geolocation-not-cn
 host-suffix,addtoany.com,geolocation-not-cn
+host-suffix,addtodropbox.com,geolocation-not-cn
 host-suffix,adelaidenow.com.au,geolocation-not-cn
 host-suffix,adfox.ru,geolocation-not-cn
 host-suffix,adgoogle.net,geolocation-not-cn
@@ -6001,6 +6002,7 @@ host-suffix,darwinsource.com,geolocation-not-cn
 host-suffix,darwinsource.org,geolocation-not-cn
 host-suffix,darwinsourcecode.com,geolocation-not-cn
 host-suffix,dasaob.online,geolocation-not-cn
+host-suffix,dash.ai,geolocation-not-cn
 host-suffix,dashlane.com,geolocation-not-cn
 host-suffix,dashly.app,geolocation-not-cn
 host-suffix,dashly.help,geolocation-not-cn
@@ -6718,6 +6720,7 @@ host-suffix,docs.com,geolocation-not-cn
 host-suffix,docs.new,geolocation-not-cn
 host-suffix,docs.rs,geolocation-not-cn
 host-suffix,docs.rw,geolocation-not-cn
+host-suffix,docsend.com,geolocation-not-cn
 host-suffix,doctor-videos.com,geolocation-not-cn
 host-suffix,documentforce.com,geolocation-not-cn
 host-suffix,dodgersexcartoons.com,geolocation-not-cn
@@ -6891,12 +6894,15 @@ host-suffix,dropbox.tech,geolocation-not-cn
 host-suffix,dropboxapi.com,geolocation-not-cn
 host-suffix,dropboxbusiness.com,geolocation-not-cn
 host-suffix,dropboxcaptcha.com,geolocation-not-cn
+host-suffix,dropboxexperiment.com,geolocation-not-cn
 host-suffix,dropboxforum.com,geolocation-not-cn
 host-suffix,dropboxforums.com,geolocation-not-cn
 host-suffix,dropboxinsiders.com,geolocation-not-cn
+host-suffix,dropboxlegal.com,geolocation-not-cn
 host-suffix,dropboxmail.com,geolocation-not-cn
 host-suffix,dropboxpartners.com,geolocation-not-cn
 host-suffix,dropboxstatic.com,geolocation-not-cn
+host-suffix,dropboxteam.com,geolocation-not-cn
 host-suffix,dropboxusercontent.com,geolocation-not-cn
 host-suffix,drpc.org,geolocation-not-cn
 host-suffix,drtuber.com,geolocation-not-cn
@@ -10286,8 +10292,10 @@ host-suffix,heise360181.buzz,geolocation-not-cn
 host-suffix,heise360182.buzz,geolocation-not-cn
 host-suffix,helixstudios.net,geolocation-not-cn
 host-suffix,helloavgirls.com,geolocation-not-cn
+host-suffix,hellofax.com,geolocation-not-cn
 host-suffix,hellokittybeats.com,geolocation-not-cn
 host-suffix,hellomoto.com,geolocation-not-cn
+host-suffix,hellosign.com,geolocation-not-cn
 host-suffix,hellosmartbook.com,geolocation-not-cn
 host-suffix,hellporno.com,geolocation-not-cn
 host-suffix,hellven.net,geolocation-not-cn
