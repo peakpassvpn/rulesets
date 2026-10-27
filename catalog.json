@@ -3,17 +3,17 @@
   "sources": {
     "v2fly": {
       "repository": "v2fly/domain-list-community",
-      "commit": "664598567e92d797bea11bb83cf939d1f37e9512",
+      "commit": "fa3cb96fbc210b8d6466251a1d71b4a6e63a9c85",
       "license": "MIT",
       "url": "https://github.com/v2fly/domain-list-community"
     },
     "china_ip": {
       "repository": "gaoyifan/china-operator-ip",
-      "commit": "ca7016c1712529bfa118efb993fc576e5f0d26ed",
+      "commit": "375060e2299aa6344a87f309568ac3d748baf0cc",
       "license": "MIT",
       "url": "https://github.com/gaoyifan/china-operator-ip"
     },
-    "ruleset_count": 1553
+    "ruleset_count": 1554
   },
   "rulesets": [
     {
@@ -27797,6 +27797,39 @@
         },
         "quantumultx": {
           "path": "quantumultx/libgen.list",
+          "format": "text",
+          "requires_force_policy": true
+        }
+      }
+    },
+    {
+      "id": "librewolf",
+      "upstream_key": "librewolf",
+      "behavior": "domain",
+      "group": "service",
+      "clients": {
+        "clash": {
+          "path": "mihomo/librewolf.yaml",
+          "format": "yaml"
+        },
+        "singbox": {
+          "path": "singbox/librewolf.srs",
+          "format": "srs"
+        },
+        "surge": {
+          "path": "surge/librewolf.list",
+          "format": "text"
+        },
+        "loon": {
+          "path": "loon/librewolf.list",
+          "format": "text"
+        },
+        "shadowrocket": {
+          "path": "shadowrocket/librewolf.list",
+          "format": "text"
+        },
+        "quantumultx": {
+          "path": "quantumultx/librewolf.list",
           "format": "text",
           "requires_force_policy": true
         }

@@ -127,7 +127,6 @@ host,media-rockstargames-com.akamaized.net,category-entertainment
 host,mobilelive-hamivideo.cdn.hinet.net,category-entertainment
 host,msh.amazon.co.uk,category-entertainment
 host,nbbb1bb7.pmhcjk.com,category-entertainment
-host,netflix.com.edgesuite.net,category-entertainment
 host,notify.ppy.sh,category-entertainment
 host,ntdfreemobile-tgc.cdn.hinet.net,category-entertainment
 host,ntdfreepc-tgc.cdn.hinet.net,category-entertainment
@@ -159,7 +158,6 @@ host,scc-hamivideo.cdn.hinet.net,category-entertainment
 host,scc.ott.hinet.net,category-entertainment
 host,sentry.ppy.sh,category-entertainment
 host,spectator.ppy.sh,category-entertainment
-host,spotify.com.edgesuite.net,category-entertainment
 host,spotify.map.fastly.net,category-entertainment
 host,spotify.map.fastlylb.net,category-entertainment
 host,static-hamivideo.cdn.hinet.net,category-entertainment
@@ -1194,6 +1192,7 @@ host-suffix,nentindo.net,category-entertainment
 host-suffix,neoforged.net,category-entertainment
 host-suffix,netflix.ca,category-entertainment
 host-suffix,netflix.com,category-entertainment
+host-suffix,netflix.com.edgesuite.net,category-entertainment
 host-suffix,netflix.net,category-entertainment
 host-suffix,netflixdnstest0.com,category-entertainment
 host-suffix,netflixdnstest1.com,category-entertainment
@@ -1579,6 +1578,7 @@ host-suffix,spore.com,category-entertainment
 host-suffix,spoti.fi,category-entertainment
 host-suffix,spotify-everywhere.com,category-entertainment
 host-suffix,spotify.com,category-entertainment
+host-suffix,spotify.com.edgesuite.net,category-entertainment
 host-suffix,spotify.design,category-entertainment
 host-suffix,spotify.link,category-entertainment
 host-suffix,spotifycdn.com,category-entertainment

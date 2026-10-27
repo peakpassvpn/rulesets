@@ -80,12 +80,19 @@ host,clck.yango.com,category-ads-and-telemetry
 host,click.rustore.ru,category-ads-and-telemetry
 host,copilot-telemetry-service.githubusercontent.com,category-ads-and-telemetry
 host,copilot-telemetry.githubusercontent.com,category-ads-and-telemetry
+host,crashlyticsreports-pa.googleapis.com,category-ads-and-telemetry
+host,dc.applicationinsights.azure.com,category-ads-and-telemetry
+host,dc.services.visualstudio.com,category-ads-and-telemetry
 host,disney.my.sentry.io,category-ads-and-telemetry
 host,error-tracking.megamarket.tech,category-ads-and-telemetry
+host,firebase-settings.crashlytics.com,category-ads-and-telemetry
+host,firebaselogging-pa.googleapis.com,category-ads-and-telemetry
+host,firebaselogging.googleapis.com,category-ads-and-telemetry
 host,google-analytics-suite.ozon.ru,category-ads-and-telemetry
 host,incoming-telemetry.thunderbird.net,category-ads-and-telemetry
 host,incoming.telemetry.mozilla.org,category-ads-and-telemetry
 host,informer.yandex.ru,category-ads-and-telemetry
+host,live.applicationinsights.azure.com,category-ads-and-telemetry
 host,log-sdk.gifshow.com,category-ads-and-telemetry
 host,log.strm.yandex.ru,category-ads-and-telemetry
 host,log3-applog-hl.fqnovel.com,category-ads-and-telemetry
@@ -119,6 +126,7 @@ host,r1.mail.ru,category-ads-and-telemetry
 host,reklama.mail.ru,category-ads-and-telemetry
 host,report.ap.yandex-net.ru,category-ads-and-telemetry
 host,rs.mail.ru,category-ads-and-telemetry
+host,rt.services.visualstudio.com,category-ads-and-telemetry
 host,rtlog3-applog-hl.fqnovel.com,category-ads-and-telemetry
 host,rtlog3-applog.fqnovel.com,category-ads-and-telemetry
 host,rtlog5-applog-hl.fqnovel.com,category-ads-and-telemetry
@@ -132,6 +140,7 @@ host,sentry.kontur.host,category-ads-and-telemetry
 host,sentry.mindbox.ru,category-ads-and-telemetry
 host,sentry.ozon.ru,category-ads-and-telemetry
 host,sentry.popmechanic.ru,category-ads-and-telemetry
+host,sentry.ppy.sh,category-ads-and-telemetry
 host,sentry.rustore.ru,category-ads-and-telemetry
 host,sentry.sberauto.com,category-ads-and-telemetry
 host,sentry.viqeo.tv,category-ads-and-telemetry
@@ -149,6 +158,7 @@ host,t.mail.ru,category-ads-and-telemetry
 host,target.vk.com,category-ads-and-telemetry
 host,top-staging.mail.ru,category-ads-and-telemetry
 host,tracing-http.megamarket.tech,category-ads-and-telemetry
+host,update.crashlytics.com,category-ads-and-telemetry
 host,visor.sberbank.ru,category-ads-and-telemetry
 host,web-analytics.wildberries.ru,category-ads-and-telemetry
 host,whiteline.mail.ru,category-ads-and-telemetry
@@ -232,6 +242,7 @@ host-suffix,admob.xiaomi.com,category-ads-and-telemetry
 host-suffix,admusicpic.music.126.net,category-ads-and-telemetry
 host-suffix,adnet.qq.com,category-ads-and-telemetry
 host-suffix,adnet.sohu.com,category-ads-and-telemetry
+host-suffix,adobestats.io,category-ads-and-telemetry
 host-suffix,adping.qq.com,category-ads-and-telemetry
 host-suffix,adpm.app.qq.com,category-ads-and-telemetry
 host-suffix,ads-api.duolingo.com,category-ads-and-telemetry
@@ -311,6 +322,7 @@ host-suffix,adxprtz.com,category-ads-and-telemetry
 host-suffix,afd.baidu.com,category-ads-and-telemetry
 host-suffix,afdconf.baidu.com,category-ads-and-telemetry
 host-suffix,afp.iqiyi.com,category-ads-and-telemetry
+host-suffix,akstat.io,category-ads-and-telemetry
 host-suffix,alimama.alicdn.com,category-ads-and-telemetry
 host-suffix,alitui.weibo.com,category-ads-and-telemetry
 host-suffix,alog.umeng.com,category-ads-and-telemetry
@@ -343,6 +355,9 @@ host-suffix,app-analytics-services.com,category-ads-and-telemetry
 host-suffix,app-measurement-cn.com,category-ads-and-telemetry
 host-suffix,app-measurement.com,category-ads-and-telemetry
 host-suffix,apple.www.letv.com,category-ads-and-telemetry
+host-suffix,applicationinsights.io,category-ads-and-telemetry
+host-suffix,applicationinsights.net,category-ads-and-telemetry
+host-suffix,applogcdn.com,category-ads-and-telemetry
 host-suffix,applovin.com,category-ads-and-telemetry
 host-suffix,applvn.com,category-ads-and-telemetry
 host-suffix,appmetrica.yandex.com,category-ads-and-telemetry
@@ -352,6 +367,7 @@ host-suffix,appmetrica.yango.com,category-ads-and-telemetry
 host-suffix,appsflyersdk.com,category-ads-and-telemetry
 host-suffix,apptracer.ru,category-ads-and-telemetry
 host-suffix,ar.umeng.com,category-ads-and-telemetry
+host-suffix,aria.ms,category-ads-and-telemetry
 host-suffix,ark.letv.com,category-ads-and-telemetry
 host-suffix,aspect-upush.umeng.com,category-ads-and-telemetry
 host-suffix,assistant-api.amplitude.com,category-ads-and-telemetry
@@ -406,6 +422,8 @@ host-suffix,click.hunantv.com,category-ads-and-telemetry
 host-suffix,click.uve.mobile.sina.cn,category-ads-and-telemetry
 host-suffix,click.uve.weibo.com,category-ads-and-telemetry
 host-suffix,clickstream.sberbank.ru,category-ads-and-telemetry
+host-suffix,cloudflareinsights-cn.com,category-ads-and-telemetry
+host-suffix,cloudflareinsights.com,category-ads-and-telemetry
 host-suffix,cloudpush.iqiyi.com,category-ads-and-telemetry
 host-suffix,cm.baidu.com,category-ads-and-telemetry
 host-suffix,cnaa123.com,category-ads-and-telemetry
@@ -432,6 +450,7 @@ host-suffix,cxhub.ru,category-ads-and-telemetry
 host-suffix,da.hunantv.com,category-ads-and-telemetry
 host-suffix,da.mgtv.com,category-ads-and-telemetry
 host-suffix,data.flurry.com,category-ads-and-telemetry
+host-suffix,data.microsoft.com,category-ads-and-telemetry
 host-suffix,data.mistat.india.xiaomi.com,category-ads-and-telemetry
 host-suffix,data.mistat.intl.xiaomi.com,category-ads-and-telemetry
 host-suffix,data.mistat.rus.xiaomi.com,category-ads-and-telemetry
@@ -551,6 +570,7 @@ host-suffix,imglnkd.com,category-ads-and-telemetry
 host-suffix,imgstat.baidu.com,category-ads-and-telemetry
 host-suffix,imp.go.sohu.com,category-ads-and-telemetry
 host-suffix,impact-ad.jp,category-ads-and-telemetry
+host-suffix,in.applicationinsights.azure.com,category-ads-and-telemetry
 host-suffix,inner-active.mobi,category-ads-and-telemetry
 host-suffix,innovid.com,category-ads-and-telemetry
 host-suffix,insights-collector.gog.com,category-ads-and-telemetry
@@ -607,6 +627,7 @@ host-suffix,mc.yandex.ru,category-ads-and-telemetry
 host-suffix,mcs.snssdk.com,category-ads-and-telemetry
 host-suffix,mdt.qq.com,category-ads-and-telemetry
 host-suffix,mediav.com,category-ads-and-telemetry
+host-suffix,meitustat.com,category-ads-and-telemetry
 host-suffix,metrics.duolingo.com,category-ads-and-telemetry
 host-suffix,metrics.viqeo.tv,category-ads-and-telemetry
 host-suffix,metrika.yandex.com,category-ads-and-telemetry
@@ -620,6 +641,7 @@ host-suffix,mipcache.bdstatic.com,category-ads-and-telemetry
 host-suffix,misc.in.duokanbox.com,category-ads-and-telemetry
 host-suffix,mixer.sina.cn,category-ads-and-telemetry
 host-suffix,mlog.hiido.com,category-ads-and-telemetry
+host-suffix,mmstat.com,category-ads-and-telemetry
 host-suffix,moat.com,category-ads-and-telemetry
 host-suffix,moatads.com,category-ads-and-telemetry
 host-suffix,mobads-logs.baidu.com,category-ads-and-telemetry
@@ -675,6 +697,7 @@ host-suffix,panplayable-toutiao-b.com,category-ads-and-telemetry
 host-suffix,panplayable-toutiao.com,category-ads-and-telemetry
 host-suffix,partnerad.l.google.com,category-ads-and-telemetry
 host-suffix,passport-log.youku.com,category-ads-and-telemetry
+host-suffix,paypalbeacon.com,category-ads-and-telemetry
 host-suffix,pb.i.sogou.com,category-ads-and-telemetry
 host-suffix,pbmp.ali213.net,category-ads-and-telemetry
 host-suffix,perf-events.cloud.unity3d.com,category-ads-and-telemetry
@@ -740,6 +763,7 @@ host-suffix,serving-sys.com,category-ads-and-telemetry
 host-suffix,sf3-ttcdn-tos.pstatp.com,category-ads-and-telemetry
 host-suffix,shhs-ydd8x2.yjrmss.cn,category-ads-and-telemetry
 host-suffix,shoppingads.cn,category-ads-and-telemetry
+host-suffix,shuqistat.com,category-ads-and-telemetry
 host-suffix,shuzilm.cn,category-ads-and-telemetry
 host-suffix,slog.sina.cn,category-ads-and-telemetry
 host-suffix,slog.sina.com.cn,category-ads-and-telemetry
@@ -770,6 +794,7 @@ host-suffix,tce.alicdn.com,category-ads-and-telemetry
 host-suffix,tcss.qq.com,category-ads-and-telemetry
 host-suffix,tdsdk.cpatrk.net,category-ads-and-telemetry
 host-suffix,telecome.cn,category-ads-and-telemetry
+host-suffix,telemetry.microsoft.com,category-ads-and-telemetry
 host-suffix,testads.api.my7v.com,category-ads-and-telemetry
 host-suffix,theta.sogoucdn.com,category-ads-and-telemetry
 host-suffix,tjqonline.cn,category-ads-and-telemetry
@@ -815,6 +840,7 @@ host-suffix,v6-adashx.ut.ele.me,category-ads-and-telemetry
 host-suffix,v6-adashx.ut.taobao.com,category-ads-and-telemetry
 host-suffix,v6-adashx.ut.youku.com,category-ads-and-telemetry
 host-suffix,vk-analytics.ru,category-ads-and-telemetry
+host-suffix,volceapplog.com,category-ads-and-telemetry
 host-suffix,w.cnzz.com,category-ads-and-telemetry
 host-suffix,wangmeng.baidu.com,category-ads-and-telemetry
 host-suffix,wapwbclick.mobile.sina.cn,category-ads-and-telemetry

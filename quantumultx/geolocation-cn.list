@@ -2744,6 +2744,7 @@ host-suffix,fgo.wiki,geolocation-cn
 host-suffix,fhldns.com,geolocation-cn
 host-suffix,fhyx.com,geolocation-cn
 host-suffix,filez.com,geolocation-cn
+host-suffix,filmorigin.com,geolocation-cn
 host-suffix,fimmu.com,geolocation-cn
 host-suffix,finchina.com,geolocation-cn
 host-suffix,finclip.com,geolocation-cn
@@ -3909,7 +3910,6 @@ host-suffix,jike.city,geolocation-cn
 host-suffix,jikecdn.com,geolocation-cn
 host-suffix,jikeiot.cloud,geolocation-cn
 host-suffix,jikexueyuan.com,geolocation-cn
-host-suffix,jikipedia.com,geolocation-cn
 host-suffix,jimeng.com,geolocation-cn
 host-suffix,jin10.com,geolocation-cn
 host-suffix,jinantimes.com.cn,geolocation-cn
@@ -4102,6 +4102,7 @@ host-suffix,kaipuyun.com.cn,geolocation-cn
 host-suffix,kaipuyun.net,geolocation-cn
 host-suffix,kaixin001.com,geolocation-cn
 host-suffix,kajicam.com,geolocation-cn
+host-suffix,kakaxing.com,geolocation-cn
 host-suffix,kameng98.com,geolocation-cn
 host-suffix,kanbox.com,geolocation-cn
 host-suffix,kancloud.cn,geolocation-cn
@@ -7188,6 +7189,7 @@ host-suffix,xiaolianhb.com,geolocation-cn
 host-suffix,xiaoluyouxuan.com,geolocation-cn
 host-suffix,xiaoluzhidian.com,geolocation-cn
 host-suffix,xiaomaicn.com,geolocation-cn
+host-suffix,xiaomaigui.com,geolocation-cn
 host-suffix,xiaomengai.com,geolocation-cn
 host-suffix,xiaomi.cn,geolocation-cn
 host-suffix,xiaomi.com,geolocation-cn

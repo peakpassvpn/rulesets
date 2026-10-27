@@ -3,6 +3,9 @@ host,alkalicore-pa.clients6.google.com,category-ai-not-cn
 host,alkalimakersuite-pa.clients6.google.com,category-ai-not-cn
 host,antigravity-pa.googleapis.com,category-ai-not-cn
 host,antigravity.googleapis.com,category-ai-not-cn
+host,appsgenaiserver-pa.clients.google.com,category-ai-not-cn
+host,appsgenaiserver-pa.clients6.google.com,category-ai-not-cn
+host,appsgenaiserver-pa.googleapis.com,category-ai-not-cn
 host,browser-intake-datadoghq.com,category-ai-not-cn
 host,cloudaicompanion.googleapis.com,category-ai-not-cn
 host,cloudcode-pa.googleapis.com,category-ai-not-cn

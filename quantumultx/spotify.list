@@ -3,7 +3,6 @@ host,audio4-ak-spotify-com.akamaized.net,spotify
 host,cdn-spotify-experiments.conductrics.com,spotify
 host,heads-ak-spotify-com.akamaized.net,spotify
 host,heads4-ak-spotify-com.akamaized.net,spotify
-host,spotify.com.edgesuite.net,spotify
 host,spotify.map.fastly.net,spotify
 host,spotify.map.fastlylb.net,spotify
 host-suffix,byspotify.com,spotify
@@ -13,6 +12,7 @@ host-suffix,scdn.co,spotify
 host-suffix,spoti.fi,spotify
 host-suffix,spotify-everywhere.com,spotify
 host-suffix,spotify.com,spotify
+host-suffix,spotify.com.edgesuite.net,spotify
 host-suffix,spotify.design,spotify
 host-suffix,spotify.link,spotify
 host-suffix,spotifycdn.com,spotify
