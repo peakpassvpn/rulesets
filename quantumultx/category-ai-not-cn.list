@@ -46,6 +46,7 @@ host-suffix,antigravity.google,category-ai-not-cn
 host-suffix,antspace.dev,category-ai-not-cn
 host-suffix,anythingllm.com,category-ai-not-cn
 host-suffix,arena.ai,category-ai-not-cn
+host-suffix,artificialanalysis.ai,category-ai-not-cn
 host-suffix,bard.google.com,category-ai-not-cn
 host-suffix,cerebras.ai,category-ai-not-cn
 host-suffix,chat.com,category-ai-not-cn
@@ -71,6 +72,7 @@ host-suffix,claudepages.dev,category-ai-not-cn
 host-suffix,claudestudio.com,category-ai-not-cn
 host-suffix,claudeusercontent.com,category-ai-not-cn
 host-suffix,clawhub.ai,category-ai-not-cn
+host-suffix,cline.bot,category-ai-not-cn
 host-suffix,clipdrop.co,category-ai-not-cn
 host-suffix,codeium.com,category-ai-not-cn
 host-suffix,codeiumdata.com,category-ai-not-cn
@@ -81,6 +83,8 @@ host-suffix,cohere.com,category-ai-not-cn
 host-suffix,comfy.org,category-ai-not-cn
 host-suffix,comfyci.org,category-ai-not-cn
 host-suffix,comfyregistry.org,category-ai-not-cn
+host-suffix,commandcode.ai,category-ai-not-cn
+host-suffix,context7.com,category-ai-not-cn
 host-suffix,copilot-stg.com,category-ai-not-cn
 host-suffix,copilot.cloud.microsoft,category-ai-not-cn
 host-suffix,copilot.com,category-ai-not-cn
@@ -150,6 +154,7 @@ host-suffix,manus.im,category-ai-not-cn
 host-suffix,manuscdn.com,category-ai-not-cn
 host-suffix,marscode.com,category-ai-not-cn
 host-suffix,meta.ai,category-ai-not-cn
+host-suffix,metaaiusercontent.com,category-ai-not-cn
 host-suffix,metaaivm.com,category-ai-not-cn
 host-suffix,midjourney.com,category-ai-not-cn
 host-suffix,minimax.io,category-ai-not-cn
@@ -162,6 +167,7 @@ host-suffix,notebook.google.com,category-ai-not-cn
 host-suffix,notebooklm.google,category-ai-not-cn
 host-suffix,notebooklm.google.com,category-ai-not-cn
 host-suffix,notegpt.io,category-ai-not-cn
+host-suffix,nousresearch.com,category-ai-not-cn
 host-suffix,novelai.net,category-ai-not-cn
 host-suffix,oaistatic.com,category-ai-not-cn
 host-suffix,oaistatsig.com,category-ai-not-cn

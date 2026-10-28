@@ -13,13 +13,13 @@
   "sources": {
     "v2fly": {
       "repository": "v2fly/domain-list-community",
-      "commit": "fa3cb96fbc210b8d6466251a1d71b4a6e63a9c85",
+      "commit": "1b81d3cd34096e5d8cac6bca5935e80f30e990f0",
       "license": "MIT",
       "url": "https://github.com/v2fly/domain-list-community"
     },
     "china_ip": {
       "repository": "gaoyifan/china-operator-ip",
-      "commit": "375060e2299aa6344a87f309568ac3d748baf0cc",
+      "commit": "55f71e3bec7653638f39d504d27dc2a8de3b3abf",
       "license": "MIT",
       "url": "https://github.com/gaoyifan/china-operator-ip"
     },
@@ -3229,33 +3229,33 @@
         }
       },
       "category-ai-not-cn": {
-        "canonical_count": 208,
-        "portable_count": 207,
+        "canonical_count": 214,
+        "portable_count": 213,
         "omitted_from_portable_clients": {
           "unsupported_rules": 1
         },
         "clients": {
-          "mihomo": 208,
-          "singbox": 208,
-          "surge": 207,
-          "loon": 207,
-          "shadowrocket": 207,
-          "quantumultx": 207
+          "mihomo": 214,
+          "singbox": 214,
+          "surge": 213,
+          "loon": 213,
+          "shadowrocket": 213,
+          "quantumultx": 213
         }
       },
       "category-ai-chat-not-cn": {
-        "canonical_count": 208,
-        "portable_count": 207,
+        "canonical_count": 214,
+        "portable_count": 213,
         "omitted_from_portable_clients": {
           "unsupported_rules": 1
         },
         "clients": {
-          "mihomo": 208,
-          "singbox": 208,
-          "surge": 207,
-          "loon": 207,
-          "shadowrocket": 207,
-          "quantumultx": 207
+          "mihomo": 214,
+          "singbox": 214,
+          "surge": 213,
+          "loon": 213,
+          "shadowrocket": 213,
+          "quantumultx": 213
         }
       },
       "category-ai-cn": {
@@ -3559,18 +3559,18 @@
         }
       },
       "category-companies": {
-        "canonical_count": 7695,
-        "portable_count": 7692,
+        "canonical_count": 7696,
+        "portable_count": 7693,
         "omitted_from_portable_clients": {
           "unsupported_rules": 3
         },
         "clients": {
-          "mihomo": 7695,
-          "singbox": 7695,
-          "surge": 7692,
-          "loon": 7692,
-          "shadowrocket": 7692,
-          "quantumultx": 7692
+          "mihomo": 7696,
+          "singbox": 7696,
+          "surge": 7693,
+          "loon": 7693,
+          "shadowrocket": 7693,
+          "quantumultx": 7693
         }
       },
       "category-consent-management": {
@@ -3874,18 +3874,18 @@
         }
       },
       "category-finance": {
-        "canonical_count": 654,
-        "portable_count": 654,
+        "canonical_count": 656,
+        "portable_count": 656,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 654,
-          "singbox": 654,
-          "surge": 654,
-          "loon": 654,
-          "shadowrocket": 654,
-          "quantumultx": 654
+          "mihomo": 656,
+          "singbox": 656,
+          "surge": 656,
+          "loon": 656,
+          "shadowrocket": 656,
+          "quantumultx": 656
         }
       },
       "category-flight-simulator": {
@@ -8974,18 +8974,18 @@
         }
       },
       "geolocation-not-cn": {
-        "canonical_count": 24410,
-        "portable_count": 24265,
+        "canonical_count": 24418,
+        "portable_count": 24273,
         "omitted_from_portable_clients": {
           "unsupported_rules": 145
         },
         "clients": {
-          "mihomo": 24410,
-          "singbox": 24410,
-          "surge": 24265,
-          "loon": 24265,
-          "shadowrocket": 24265,
-          "quantumultx": 24265
+          "mihomo": 24418,
+          "singbox": 24418,
+          "surge": 24273,
+          "loon": 24273,
+          "shadowrocket": 24273,
+          "quantumultx": 24273
         }
       },
       "geolocation-cn": {
@@ -13609,18 +13609,18 @@
         }
       },
       "meta": {
-        "canonical_count": 550,
-        "portable_count": 550,
+        "canonical_count": 551,
+        "portable_count": 551,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 550,
-          "singbox": 550,
-          "surge": 550,
-          "loon": 550,
-          "shadowrocket": 550,
-          "quantumultx": 550
+          "mihomo": 551,
+          "singbox": 551,
+          "surge": 551,
+          "loon": 551,
+          "shadowrocket": 551,
+          "quantumultx": 551
         }
       },
       "metabrainz": {
@@ -17809,18 +17809,18 @@
         }
       },
       "schwab": {
-        "canonical_count": 8,
-        "portable_count": 8,
+        "canonical_count": 9,
+        "portable_count": 9,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 8,
-          "singbox": 8,
-          "surge": 8,
-          "loon": 8,
-          "shadowrocket": 8,
-          "quantumultx": 8
+          "mihomo": 9,
+          "singbox": 9,
+          "surge": 9,
+          "loon": 9,
+          "shadowrocket": 9,
+          "quantumultx": 9
         }
       },
       "sci": {
@@ -23329,18 +23329,18 @@
         }
       },
       "cn-ip": {
-        "canonical_count": 10014,
-        "portable_count": 10014,
+        "canonical_count": 10020,
+        "portable_count": 10020,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 10014,
-          "singbox": 10014,
-          "surge": 10014,
-          "loon": 10014,
-          "shadowrocket": 10014,
-          "quantumultx": 10014
+          "mihomo": 10020,
+          "singbox": 10020,
+          "surge": 10020,
+          "loon": 10020,
+          "shadowrocket": 10020,
+          "quantumultx": 10020
         }
       }
     }
@@ -23358,12 +23358,12 @@
     },
     {
       "path": "README.md",
-      "sha256": "06511990e7261b19413074e880f883036afa11ceb1890f3986939b3786bcb200",
+      "sha256": "b3b862ac70df8080028afc07bde4632d8e3dabf999419c2ae24e06d9c21bc083",
       "size": 918753
     },
     {
       "path": "catalog.json",
-      "sha256": "737c68685bc3a47da9747c6d04f20c6a4051dfca1bc62475d98f9e0e021b08e7",
+      "sha256": "6630b063d40b2903491ad54d6c3f834d17dd973789008c8b6d2806f0f408c018",
       "size": 1257680
     },
     {
@@ -24433,8 +24433,8 @@
     },
     {
       "path": "loon/category-ai-chat-not-cn.list",
-      "sha256": "f84916a833aaf9960c2a3ff49cb08d902fdc9fa5d4eaf11e93184a66fccb8492",
-      "size": 6296
+      "sha256": "43912f51221c19eafad5d0feef83982ec6b0a5f310922dcc9259410e237720f0",
+      "size": 6479
     },
     {
       "path": "loon/category-ai-cn.list",
@@ -24443,8 +24443,8 @@
     },
     {
       "path": "loon/category-ai-not-cn.list",
-      "sha256": "f84916a833aaf9960c2a3ff49cb08d902fdc9fa5d4eaf11e93184a66fccb8492",
-      "size": 6296
+      "sha256": "43912f51221c19eafad5d0feef83982ec6b0a5f310922dcc9259410e237720f0",
+      "size": 6479
     },
     {
       "path": "loon/category-ai-ru.list",
@@ -24543,8 +24543,8 @@
     },
     {
       "path": "loon/category-companies.list",
-      "sha256": "c57ffe53423d2c3f2990d472faa0e604f75e4f8e53fa47bd50bdd96715759339",
-      "size": 224413
+      "sha256": "df374b88d7709c71d57d50b0454343f2bb688fea16b00e7ad96b28672c30259b",
+      "size": 224449
     },
     {
       "path": "loon/category-consent-management.list",
@@ -24648,8 +24648,8 @@
     },
     {
       "path": "loon/category-finance.list",
-      "sha256": "1d8fcc108eb5a2ff9f4af67f7bebb305b2a0c8d55909f20820d3bc2c55b39fca",
-      "size": 18007
+      "sha256": "1c783650115bd33e5017d342ec4cacb1afed6d65cc432fae9494e2c7863ce7c7",
+      "size": 18065
     },
     {
       "path": "loon/category-flight-simulator.list",
@@ -25258,8 +25258,8 @@
     },
     {
       "path": "loon/cn-ip.list",
-      "sha256": "361ebce9dd1245e83c3d5c319bb948a6b61efb04afcb517ec1b3e4fe7d4b8811",
-      "size": 353061
+      "sha256": "bc11a7cdf5061b582f08b96d422ed104952ced3d62b507bc783ed08fcac9e394",
+      "size": 353309
     },
     {
       "path": "loon/cn.list",
@@ -26358,8 +26358,8 @@
     },
     {
       "path": "loon/geolocation-not-cn.list",
-      "sha256": "93bdee9df831390d012f5d978838633436fbda2ee865b2f7e028be774c95efa2",
-      "size": 694706
+      "sha256": "82b74c629491f9185c765ba95317dba96be3863499da03bd1619b21a1e62984a",
+      "size": 694947
     },
     {
       "path": "loon/gettyimages.list",
@@ -27898,8 +27898,8 @@
     },
     {
       "path": "loon/meta.list",
-      "sha256": "387d20d12baa4bf11becc5c9d09d3bd224ae0d036d9c1344b94971edbec797f1",
-      "size": 16397
+      "sha256": "841c8db14d2c64ed1ea20a32f62d1627472a80bbf88e472636c3594cea5214f9",
+      "size": 16433
     },
     {
       "path": "loon/metabrainz.list",
@@ -29298,8 +29298,8 @@
     },
     {
       "path": "loon/schwab.list",
-      "sha256": "2a672931e35ec2b4f87262c778ddb8ecb9de99c826c51e34349ee4f8f8e27c18",
-      "size": 234
+      "sha256": "591310c432668681a1996515f651e9328a6359ecfc75d518b76718b50b8a72e9",
+      "size": 264
     },
     {
       "path": "loon/sci-hub.list",
@@ -32203,8 +32203,8 @@
     },
     {
       "path": "mihomo/category-ai-chat-not-cn.yaml",
-      "sha256": "0e632edb69d0a45398b94742e55e506e225349f7f494c74656966ae933f49c77",
-      "size": 7625
+      "sha256": "d625092cc24ac08d20e971e4eb62246810e390903febccb8fe5227684fef5763",
+      "size": 7844
     },
     {
       "path": "mihomo/category-ai-cn.yaml",
@@ -32213,8 +32213,8 @@
     },
     {
       "path": "mihomo/category-ai-not-cn.yaml",
-      "sha256": "0e632edb69d0a45398b94742e55e506e225349f7f494c74656966ae933f49c77",
-      "size": 7625
+      "sha256": "d625092cc24ac08d20e971e4eb62246810e390903febccb8fe5227684fef5763",
+      "size": 7844
     },
     {
       "path": "mihomo/category-ai-ru.yaml",
@@ -32313,8 +32313,8 @@
     },
     {
       "path": "mihomo/category-companies.yaml",
-      "sha256": "a6f4b16b4261f2a11f5690f8d9aebab88401ee05c4c8fc51d91b26e4153a46bb",
-      "size": 270755
+      "sha256": "eec95d7966b062da3fd5e9b0f72283eadb7f0850dee8e998a8735aca9e3ad0ff",
+      "size": 270797
     },
     {
       "path": "mihomo/category-consent-management.yaml",
@@ -32418,8 +32418,8 @@
     },
     {
       "path": "mihomo/category-finance.yaml",
-      "sha256": "5a7117e208ef6cbec71c625b574ed3935e5a04a95fe259d41b759007dae5957d",
-      "size": 21941
+      "sha256": "e56ae4c0cf39b744ed79cf623cab0ff45be235c636957b44c27f5ece838b4d7f",
+      "size": 22011
     },
     {
       "path": "mihomo/category-flight-simulator.yaml",
@@ -33028,8 +33028,8 @@
     },
     {
       "path": "mihomo/cn-ip.yaml",
-      "sha256": "4a939de25eb4d4127093ef80c17350b01653e2acb596623f1dbee6b256e25de5",
-      "size": 303001
+      "sha256": "f8fd99cb0deabb456773412204f05389ce140ea15b9feea4688fe7f374a9d229",
+      "size": 303219
     },
     {
       "path": "mihomo/cn.yaml",
@@ -34128,8 +34128,8 @@
     },
     {
       "path": "mihomo/geolocation-not-cn.yaml",
-      "sha256": "ced6587aba1408db0f4a5f7e3b16ce3235d2fed49684d87f6272c7b368ced66d",
-      "size": 847183
+      "sha256": "c6cca22fd3917909974b989944e31da073a2c1bf1d825ae16ee15a00baec00d4",
+      "size": 847472
     },
     {
       "path": "mihomo/gettyimages.yaml",
@@ -35668,8 +35668,8 @@
     },
     {
       "path": "mihomo/meta.yaml",
-      "sha256": "a8ab5e2f4e0aabd4ee5f26cd67dfbbeca56c6f929d745bfa0791602ad5ee2852",
-      "size": 19707
+      "sha256": "b43094ea56b5b97d39f824c7d287423184d6e12224cb8f6c74ea82d0c7534d70",
+      "size": 19749
     },
     {
       "path": "mihomo/metabrainz.yaml",
@@ -37068,8 +37068,8 @@
     },
     {
       "path": "mihomo/schwab.yaml",
-      "sha256": "ea40ce31e85ec3806350fa10b9502e4701e38d55356a2e028140355d6af5974b",
-      "size": 292
+      "sha256": "e10812002f8932c0e2b4af04027d3cf3ac21df5760ffb9cd64eef5b9b03c4b3e",
+      "size": 328
     },
     {
       "path": "mihomo/sci-hub.yaml",
@@ -39973,8 +39973,8 @@
     },
     {
       "path": "quantumultx/category-ai-chat-not-cn.list",
-      "sha256": "34ed557ba1cfaf0a8be83cf24c25b45ec3503edec9a80f2057b302a388059c64",
-      "size": 10850
+      "sha256": "1fe0b6f02ca95798b6cdb83cf1876b9d8e5c06ce78f784c04b22b70e97653015",
+      "size": 11165
     },
     {
       "path": "quantumultx/category-ai-cn.list",
@@ -39983,8 +39983,8 @@
     },
     {
       "path": "quantumultx/category-ai-not-cn.list",
-      "sha256": "d3cf23a7c95317e71777e7d875512bee1b8b3041d026d52f493a784326b42205",
-      "size": 9815
+      "sha256": "a8e3afedd14a6b4f54a80e7bb55b5777f700d9961ab83ebaafe51c9feb1b5d47",
+      "size": 10100
     },
     {
       "path": "quantumultx/category-ai-ru.list",
@@ -40083,8 +40083,8 @@
     },
     {
       "path": "quantumultx/category-companies.list",
-      "sha256": "bb6f11414175a054254105d221f044492ff117f777cff51dceeff0325ee78376",
-      "size": 355177
+      "sha256": "1bc66bb654131f76846fc73d23b6bd5b3a4dbc7d7cb3eeea5340e1c71d0b36a1",
+      "size": 355230
     },
     {
       "path": "quantumultx/category-consent-management.list",
@@ -40188,8 +40188,8 @@
     },
     {
       "path": "quantumultx/category-finance.list",
-      "sha256": "ccac3efc3a13b4ec0315ed90e3ab74bdd153eb57b1af6481b31a1cb090fbf9f6",
-      "size": 27817
+      "sha256": "44ed3d6ef40b252ed7e66830397ec140aac87bfc834959ff36f46b8e46d9b5e9",
+      "size": 27905
     },
     {
       "path": "quantumultx/category-flight-simulator.list",
@@ -40798,8 +40798,8 @@
     },
     {
       "path": "quantumultx/cn-ip.list",
-      "sha256": "3a90d4284c6bb4480fd04cd0b44071a96fc14f2de7a92d35ec9edf7088183569",
-      "size": 302991
+      "sha256": "3c99278ec934eb30d4d91f6027e139e7a716ccda99fea01d1cb61517c9227c7c",
+      "size": 303209
     },
     {
       "path": "quantumultx/cn.list",
@@ -41898,8 +41898,8 @@
     },
     {
       "path": "quantumultx/geolocation-not-cn.list",
-      "sha256": "ed2eb3a733bd36a0dc79c4a58b9e75c2559f9adc6955e7356da12ec0213cd535",
-      "size": 1107211
+      "sha256": "4cb948244d229b7e77a676ab9d49d3f9b20bcde0efe29ba48366c999294b55e4",
+      "size": 1107588
     },
     {
       "path": "quantumultx/gettyimages.list",
@@ -43438,8 +43438,8 @@
     },
     {
       "path": "quantumultx/meta.list",
-      "sha256": "1c1a6a8c677bda4ad77a0fd1e755d927914e6355c154dd89cd9f09047c921544",
-      "size": 18047
+      "sha256": "e4ea1c9080f423d92f089f518acd3a083730c09c86021876e4e4ad0c61d61e27",
+      "size": 18086
     },
     {
       "path": "quantumultx/metabrainz.list",
@@ -44838,8 +44838,8 @@
     },
     {
       "path": "quantumultx/schwab.list",
-      "sha256": "345c5a9265ce815a5148e0f0c761116e2a6a9db880dac777a195fbe360593291",
-      "size": 274
+      "sha256": "c68b0ce23184a74036e758a8d84e5db4e8d12bcdc39e5b59af269cb3fd346590",
+      "size": 309
     },
     {
       "path": "quantumultx/sci-hub.list",
@@ -47743,8 +47743,8 @@
     },
     {
       "path": "shadowrocket/category-ai-chat-not-cn.list",
-      "sha256": "f84916a833aaf9960c2a3ff49cb08d902fdc9fa5d4eaf11e93184a66fccb8492",
-      "size": 6296
+      "sha256": "43912f51221c19eafad5d0feef83982ec6b0a5f310922dcc9259410e237720f0",
+      "size": 6479
     },
     {
       "path": "shadowrocket/category-ai-cn.list",
@@ -47753,8 +47753,8 @@
     },
     {
       "path": "shadowrocket/category-ai-not-cn.list",
-      "sha256": "f84916a833aaf9960c2a3ff49cb08d902fdc9fa5d4eaf11e93184a66fccb8492",
-      "size": 6296
+      "sha256": "43912f51221c19eafad5d0feef83982ec6b0a5f310922dcc9259410e237720f0",
+      "size": 6479
     },
     {
       "path": "shadowrocket/category-ai-ru.list",
@@ -47853,8 +47853,8 @@
     },
     {
       "path": "shadowrocket/category-companies.list",
-      "sha256": "c57ffe53423d2c3f2990d472faa0e604f75e4f8e53fa47bd50bdd96715759339",
-      "size": 224413
+      "sha256": "df374b88d7709c71d57d50b0454343f2bb688fea16b00e7ad96b28672c30259b",
+      "size": 224449
     },
     {
       "path": "shadowrocket/category-consent-management.list",
@@ -47958,8 +47958,8 @@
     },
     {
       "path": "shadowrocket/category-finance.list",
-      "sha256": "1d8fcc108eb5a2ff9f4af67f7bebb305b2a0c8d55909f20820d3bc2c55b39fca",
-      "size": 18007
+      "sha256": "1c783650115bd33e5017d342ec4cacb1afed6d65cc432fae9494e2c7863ce7c7",
+      "size": 18065
     },
     {
       "path": "shadowrocket/category-flight-simulator.list",
@@ -48568,8 +48568,8 @@
     },
     {
       "path": "shadowrocket/cn-ip.list",
-      "sha256": "361ebce9dd1245e83c3d5c319bb948a6b61efb04afcb517ec1b3e4fe7d4b8811",
-      "size": 353061
+      "sha256": "bc11a7cdf5061b582f08b96d422ed104952ced3d62b507bc783ed08fcac9e394",
+      "size": 353309
     },
     {
       "path": "shadowrocket/cn.list",
@@ -49668,8 +49668,8 @@
     },
     {
       "path": "shadowrocket/geolocation-not-cn.list",
-      "sha256": "93bdee9df831390d012f5d978838633436fbda2ee865b2f7e028be774c95efa2",
-      "size": 694706
+      "sha256": "82b74c629491f9185c765ba95317dba96be3863499da03bd1619b21a1e62984a",
+      "size": 694947
     },
     {
       "path": "shadowrocket/gettyimages.list",
@@ -51208,8 +51208,8 @@
     },
     {
       "path": "shadowrocket/meta.list",
-      "sha256": "387d20d12baa4bf11becc5c9d09d3bd224ae0d036d9c1344b94971edbec797f1",
-      "size": 16397
+      "sha256": "841c8db14d2c64ed1ea20a32f62d1627472a80bbf88e472636c3594cea5214f9",
+      "size": 16433
     },
     {
       "path": "shadowrocket/metabrainz.list",
@@ -52608,8 +52608,8 @@
     },
     {
       "path": "shadowrocket/schwab.list",
-      "sha256": "2a672931e35ec2b4f87262c778ddb8ecb9de99c826c51e34349ee4f8f8e27c18",
-      "size": 234
+      "sha256": "591310c432668681a1996515f651e9328a6359ecfc75d518b76718b50b8a72e9",
+      "size": 264
     },
     {
       "path": "shadowrocket/sci-hub.list",
@@ -55513,8 +55513,8 @@
     },
     {
       "path": "singbox/category-ai-chat-not-cn.srs",
-      "sha256": "57cf87c00b75673245b74024cb87d6bdad9123a265af746299e53358239619d9",
-      "size": 2106
+      "sha256": "c39ef855f6b89c483b8cc8c920fc152966dc363d76c8df3d26ec314ec3918624",
+      "size": 2161
     },
     {
       "path": "singbox/category-ai-cn.srs",
@@ -55523,8 +55523,8 @@
     },
     {
       "path": "singbox/category-ai-not-cn.srs",
-      "sha256": "57cf87c00b75673245b74024cb87d6bdad9123a265af746299e53358239619d9",
-      "size": 2106
+      "sha256": "c39ef855f6b89c483b8cc8c920fc152966dc363d76c8df3d26ec314ec3918624",
+      "size": 2161
     },
     {
       "path": "singbox/category-ai-ru.srs",
@@ -55623,8 +55623,8 @@
     },
     {
       "path": "singbox/category-companies.srs",
-      "sha256": "d3c32d087fdf619109828ccf8c6ffa6a6ffb83d437809c7e13debcb09d95be60",
-      "size": 52641
+      "sha256": "188002a5495832bcfad2b86944176093969de5deaea550e3c983140724cb9215",
+      "size": 52664
     },
     {
       "path": "singbox/category-consent-management.srs",
@@ -55728,8 +55728,8 @@
     },
     {
       "path": "singbox/category-finance.srs",
-      "sha256": "1d41c9c68a97c7855314a19d9a9f22fe9f23cf07e64d78dec875645901961c8c",
-      "size": 4627
+      "sha256": "6a1e3e49a61561ccc211678c3dfea9fe16a342103e62661c73136582c8fa561f",
+      "size": 4639
     },
     {
       "path": "singbox/category-flight-simulator.srs",
@@ -56338,8 +56338,8 @@
     },
     {
       "path": "singbox/cn-ip.srs",
-      "sha256": "8bc7c24188219b380abac2299ed1327c9f65c218a3ac27f5cf7b4fc800798a5e",
-      "size": 37229
+      "sha256": "72d9ba75f42eeddaff167c03cd50717bdf9b96b3b7810061317d1416ecd88b2a",
+      "size": 37231
     },
     {
       "path": "singbox/cn.srs",
@@ -57438,8 +57438,8 @@
     },
     {
       "path": "singbox/geolocation-not-cn.srs",
-      "sha256": "7c7d4e7494679bcdbe7f5f3585f6264b96fe406d41790de5596d5b553df8289d",
-      "size": 151031
+      "sha256": "61298dcc1c5614659416db977cff73246eae68ae95edeb8b295c3b792e4de254",
+      "size": 150969
     },
     {
       "path": "singbox/gettyimages.srs",
@@ -58978,8 +58978,8 @@
     },
     {
       "path": "singbox/meta.srs",
-      "sha256": "be4f202602150cce82527ab2473b3e71bfa00eee5aa51a859aacc9646125e8d3",
-      "size": 4276
+      "sha256": "e7f358a655204a5694c9cd3e39c8641dea85b9b89bb096ca84d7d59dcbd1e3a9",
+      "size": 4306
     },
     {
       "path": "singbox/metabrainz.srs",
@@ -60378,8 +60378,8 @@
     },
     {
       "path": "singbox/schwab.srs",
-      "sha256": "fd2e335f52ce46df9f6ede7ecc42977cb7031334ad384614c86b9e952d4b5a39",
-      "size": 142
+      "sha256": "4067a0b6009c716cecfa6e9e7e691d7e305c5719ee1e6442e7982e03342b3ef2",
+      "size": 152
     },
     {
       "path": "singbox/sci-hub.srs",
@@ -63283,8 +63283,8 @@
     },
     {
       "path": "surge/category-ai-chat-not-cn.list",
-      "sha256": "f84916a833aaf9960c2a3ff49cb08d902fdc9fa5d4eaf11e93184a66fccb8492",
-      "size": 6296
+      "sha256": "43912f51221c19eafad5d0feef83982ec6b0a5f310922dcc9259410e237720f0",
+      "size": 6479
     },
     {
       "path": "surge/category-ai-cn.list",
@@ -63293,8 +63293,8 @@
     },
     {
       "path": "surge/category-ai-not-cn.list",
-      "sha256": "f84916a833aaf9960c2a3ff49cb08d902fdc9fa5d4eaf11e93184a66fccb8492",
-      "size": 6296
+      "sha256": "43912f51221c19eafad5d0feef83982ec6b0a5f310922dcc9259410e237720f0",
+      "size": 6479
     },
     {
       "path": "surge/category-ai-ru.list",
@@ -63393,8 +63393,8 @@
     },
     {
       "path": "surge/category-companies.list",
-      "sha256": "c57ffe53423d2c3f2990d472faa0e604f75e4f8e53fa47bd50bdd96715759339",
-      "size": 224413
+      "sha256": "df374b88d7709c71d57d50b0454343f2bb688fea16b00e7ad96b28672c30259b",
+      "size": 224449
     },
     {
       "path": "surge/category-consent-management.list",
@@ -63498,8 +63498,8 @@
     },
     {
       "path": "surge/category-finance.list",
-      "sha256": "1d8fcc108eb5a2ff9f4af67f7bebb305b2a0c8d55909f20820d3bc2c55b39fca",
-      "size": 18007
+      "sha256": "1c783650115bd33e5017d342ec4cacb1afed6d65cc432fae9494e2c7863ce7c7",
+      "size": 18065
     },
     {
       "path": "surge/category-flight-simulator.list",
@@ -64108,8 +64108,8 @@
     },
     {
       "path": "surge/cn-ip.list",
-      "sha256": "361ebce9dd1245e83c3d5c319bb948a6b61efb04afcb517ec1b3e4fe7d4b8811",
-      "size": 353061
+      "sha256": "bc11a7cdf5061b582f08b96d422ed104952ced3d62b507bc783ed08fcac9e394",
+      "size": 353309
     },
     {
       "path": "surge/cn.list",
@@ -65208,8 +65208,8 @@
     },
     {
       "path": "surge/geolocation-not-cn.list",
-      "sha256": "93bdee9df831390d012f5d978838633436fbda2ee865b2f7e028be774c95efa2",
-      "size": 694706
+      "sha256": "82b74c629491f9185c765ba95317dba96be3863499da03bd1619b21a1e62984a",
+      "size": 694947
     },
     {
       "path": "surge/gettyimages.list",
@@ -66748,8 +66748,8 @@
     },
     {
       "path": "surge/meta.list",
-      "sha256": "387d20d12baa4bf11becc5c9d09d3bd224ae0d036d9c1344b94971edbec797f1",
-      "size": 16397
+      "sha256": "841c8db14d2c64ed1ea20a32f62d1627472a80bbf88e472636c3594cea5214f9",
+      "size": 16433
     },
     {
       "path": "surge/metabrainz.list",
@@ -68148,8 +68148,8 @@
     },
     {
       "path": "surge/schwab.list",
-      "sha256": "2a672931e35ec2b4f87262c778ddb8ecb9de99c826c51e34349ee4f8f8e27c18",
-      "size": 234
+      "sha256": "591310c432668681a1996515f651e9328a6359ecfc75d518b76718b50b8a72e9",
+      "size": 264
     },
     {
       "path": "surge/sci-hub.list",
