@@ -19,7 +19,7 @@
     },
     "china_ip": {
       "repository": "gaoyifan/china-operator-ip",
-      "commit": "a0ba32e3b743fc89662cc3e6e9173f7d39838945",
+      "commit": "af96830e7e2c992a00889745c58e3bef9ebc8587",
       "license": "MIT",
       "url": "https://github.com/gaoyifan/china-operator-ip"
     },
@@ -23329,18 +23329,18 @@
         }
       },
       "cn-ip": {
-        "canonical_count": 10012,
-        "portable_count": 10012,
+        "canonical_count": 10024,
+        "portable_count": 10024,
         "omitted_from_portable_clients": {
           "unsupported_rules": 0
         },
         "clients": {
-          "mihomo": 10012,
-          "singbox": 10012,
-          "surge": 10012,
-          "loon": 10012,
-          "shadowrocket": 10012,
-          "quantumultx": 10012
+          "mihomo": 10024,
+          "singbox": 10024,
+          "surge": 10024,
+          "loon": 10024,
+          "shadowrocket": 10024,
+          "quantumultx": 10024
         }
       }
     }
@@ -23358,12 +23358,12 @@
     },
     {
       "path": "README.md",
-      "sha256": "03f12c4dc5bf91c323739292bd6f858cff91513718fcae73730681d3694631d7",
+      "sha256": "bc958914e3237216023b79f34397ffbfe247dd480c46b01e4803294f0abfc8e7",
       "size": 918753
     },
     {
       "path": "catalog.json",
-      "sha256": "fe45fb373383134e8f03ab5b7c9cb4b859c16eb01bb9165bfa649f950e49e93e",
+      "sha256": "594ac9336edadba887c5f6f78eaa74b5e3bef248cab722631c31a0ad1cc73377",
       "size": 1257680
     },
     {
@@ -25258,8 +25258,8 @@
     },
     {
       "path": "loon/cn-ip.list",
-      "sha256": "59368ec17d702062d4e4b501b6c1033f2de6b8c1451841239fc61d9a29d5b37f",
-      "size": 353035
+      "sha256": "1b2adb46ccc6fd4ca71b9a3d3efed2f98ce334763544fd1b4d255520713220ab",
+      "size": 353449
     },
     {
       "path": "loon/cn.list",
@@ -33028,8 +33028,8 @@
     },
     {
       "path": "mihomo/cn-ip.yaml",
-      "sha256": "5b016501c7243c482658b18badad09329b0b2f384a3782b5f42b4d5822468a4b",
-      "size": 302985
+      "sha256": "c9c1cfca04ae9df181367e1dcf85a7eb50f017fd61918cb07b14ac21543e8d74",
+      "size": 303339
     },
     {
       "path": "mihomo/cn.yaml",
@@ -40798,8 +40798,8 @@
     },
     {
       "path": "quantumultx/cn-ip.list",
-      "sha256": "ef1031092ecac3c76bbe43eacd3b2627abf2783a4ab1ea368073178478ba669b",
-      "size": 302975
+      "sha256": "318c14c9b472f2d6a979022fabbed8c63e4d0f7d88306e6ed5daafca88633102",
+      "size": 303329
     },
     {
       "path": "quantumultx/cn.list",
@@ -48568,8 +48568,8 @@
     },
     {
       "path": "shadowrocket/cn-ip.list",
-      "sha256": "59368ec17d702062d4e4b501b6c1033f2de6b8c1451841239fc61d9a29d5b37f",
-      "size": 353035
+      "sha256": "1b2adb46ccc6fd4ca71b9a3d3efed2f98ce334763544fd1b4d255520713220ab",
+      "size": 353449
     },
     {
       "path": "shadowrocket/cn.list",
@@ -56338,8 +56338,8 @@
     },
     {
       "path": "singbox/cn-ip.srs",
-      "sha256": "e16735139f93f7ba6716f712ae1ef73201f6f510fb2760646f5c4c8fb8f742da",
-      "size": 37214
+      "sha256": "85a964d3d4be29fb3876007ed39d43368f45275f3a8f2c4d00f196d7130a07ec",
+      "size": 37241
     },
     {
       "path": "singbox/cn.srs",
@@ -64108,8 +64108,8 @@
     },
     {
       "path": "surge/cn-ip.list",
-      "sha256": "59368ec17d702062d4e4b501b6c1033f2de6b8c1451841239fc61d9a29d5b37f",
-      "size": 353035
+      "sha256": "1b2adb46ccc6fd4ca71b9a3d3efed2f98ce334763544fd1b4d255520713220ab",
+      "size": 353449
     },
     {
       "path": "surge/cn.list",
