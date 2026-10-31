@@ -1637,6 +1637,7 @@ host-suffix,bingapis.com,category-companies
 host-suffix,bingapistatistics.com,category-companies
 host-suffix,bingparachute.com,category-companies
 host-suffix,bingsandbox.com,category-companies
+host-suffix,bingstatic.com,category-companies
 host-suffix,bingvisualsearch.com,category-companies
 host-suffix,bingworld.com,category-companies
 host-suffix,binoculus.com,category-companies
@@ -5375,6 +5376,7 @@ host-suffix,msftconnecttest.com,category-companies
 host-suffix,msfteducation.ca,category-companies
 host-suffix,msftncsi.com,category-companies
 host-suffix,msftnet.org,category-companies
+host-suffix,msftstatic.com,category-companies
 host-suffix,msgamesresearch.com,category-companies
 host-suffix,msgamestudios.com,category-companies
 host-suffix,mshome.net,category-companies

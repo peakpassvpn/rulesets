@@ -2665,6 +2665,9 @@ host-suffix,fastapi.net,geolocation-cn
 host-suffix,fastcdn.com,geolocation-cn
 host-suffix,fastcdn.com.cn,geolocation-cn
 host-suffix,fastcom.com.cn,geolocation-cn
+host-suffix,favonis.cloud,geolocation-cn
+host-suffix,favonis.com,geolocation-cn
+host-suffix,favonis.space,geolocation-cn
 host-suffix,faxingbao.com,geolocation-cn
 host-suffix,fbank.com,geolocation-cn
 host-suffix,fbstatic.cn,geolocation-cn

@@ -295,6 +295,7 @@ host-suffix,amc.com,category-entertainment
 host-suffix,amcn.com,category-entertainment
 host-suffix,amcnetworks.com,category-entertainment
 host-suffix,amcplus.com,category-entertainment
+host-suffix,amdgaming.com,category-entertainment
 host-suffix,ameba.jp,category-entertainment
 host-suffix,amebame.com,category-entertainment
 host-suffix,amebaownd.com,category-entertainment
@@ -1713,11 +1714,14 @@ host-suffix,tiktokeu-cdn.com,category-entertainment
 host-suffix,tiktokglobalshopv.com,category-entertainment
 host-suffix,tiktokminis.us,category-entertainment
 host-suffix,tiktokrow-cdn.com,category-entertainment
+host-suffix,tiktokshop.com,category-entertainment
+host-suffix,tiktokstaticb.com,category-entertainment
 host-suffix,tiktokv.com,category-entertainment
 host-suffix,tiktokv.com.edgekey.net,category-entertainment
 host-suffix,tiktokv.com.edgesuite.net,category-entertainment
 host-suffix,tiktokv.eu,category-entertainment
 host-suffix,tiktokv.us,category-entertainment
+host-suffix,tiktokvapp.com,category-entertainment
 host-suffix,tiktokw.eu,category-entertainment
 host-suffix,tiktokw.us,category-entertainment
 host-suffix,titanfall.com,category-entertainment

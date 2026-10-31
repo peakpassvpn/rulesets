@@ -238,6 +238,7 @@ host-suffix,18comic-god.club,geolocation-not-cn
 host-suffix,18comic-god.xyz,geolocation-not-cn
 host-suffix,18comic.cc,geolocation-not-cn
 host-suffix,18comic.company,geolocation-not-cn
+host-suffix,18comic.ink,geolocation-not-cn
 host-suffix,18comic.org,geolocation-not-cn
 host-suffix,18comic.vip,geolocation-not-cn
 host-suffix,18commic.com,geolocation-not-cn
@@ -3675,6 +3676,7 @@ host-suffix,bingapistatistics.com,geolocation-not-cn
 host-suffix,bingoporno.com,geolocation-not-cn
 host-suffix,bingparachute.com,geolocation-not-cn
 host-suffix,bingsandbox.com,geolocation-not-cn
+host-suffix,bingstatic.com,geolocation-not-cn
 host-suffix,bingvisualsearch.com,geolocation-not-cn
 host-suffix,bingworld.com,geolocation-not-cn
 host-suffix,bingx.com,geolocation-not-cn
@@ -9450,6 +9452,7 @@ host-suffix,githubapp.com,geolocation-not-cn
 host-suffix,githubassets.com,geolocation-not-cn
 host-suffix,githubcopilot.com,geolocation-not-cn
 host-suffix,githubhackathon.com,geolocation-not-cn
+host-suffix,githubhelp.com,geolocation-not-cn
 host-suffix,githubnext.com,geolocation-not-cn
 host-suffix,githubpreview.dev,geolocation-not-cn
 host-suffix,githubstatus.com,geolocation-not-cn
@@ -14849,6 +14852,7 @@ host-suffix,msftconnecttest.com,geolocation-not-cn
 host-suffix,msfteducation.ca,geolocation-not-cn
 host-suffix,msftncsi.com,geolocation-not-cn
 host-suffix,msftnet.org,geolocation-not-cn
+host-suffix,msftstatic.com,geolocation-not-cn
 host-suffix,msgamesresearch.com,geolocation-not-cn
 host-suffix,msgamestudios.com,geolocation-not-cn
 host-suffix,mshome.net,geolocation-not-cn
@@ -20729,9 +20733,12 @@ host-suffix,tiktokeu-cdn.com,geolocation-not-cn
 host-suffix,tiktokglobalshopv.com,geolocation-not-cn
 host-suffix,tiktokminis.us,geolocation-not-cn
 host-suffix,tiktokrow-cdn.com,geolocation-not-cn
+host-suffix,tiktokshop.com,geolocation-not-cn
+host-suffix,tiktokstaticb.com,geolocation-not-cn
 host-suffix,tiktokv.com,geolocation-not-cn
 host-suffix,tiktokv.eu,geolocation-not-cn
 host-suffix,tiktokv.us,geolocation-not-cn
+host-suffix,tiktokvapp.com,geolocation-not-cn
 host-suffix,tiktokw.eu,geolocation-not-cn
 host-suffix,tiktokw.us,geolocation-not-cn
 host-suffix,tilda.cc,geolocation-not-cn
